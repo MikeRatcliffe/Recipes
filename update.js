@@ -4,23 +4,31 @@ const dir = fs.opendirSync(".");
 
 let dirent = null;
 let filenames = [];
+let count = 0;
 
 // Refresh PDF files
 while ((dirent = dir.readSync()) !== null) {
   if (dirent.name.endsWith(".md") && dirent.name !== "README.md") {
     const name = dirent.name.substr(0, dirent.name.length - 3);
 
-    console.log(`Processing ${dirent.name}`);
+    filenames.push(name);
+
+    console.log(`Processing ${dirent.name}...`);
+
     markdownpdf({
       cssPath: "style.css",
       paperBorder: "30px",
     })
       .from(`./${name}.md`)
       .to(`./PDF/${name}.pdf`, function () {
-        console.log(`Processed ${name}.md`);
-      });
+        count++;
 
-    filenames.push(name);
+        console.log(`Written ${name}.pdf`);
+
+        if (count === filenames.length) {
+          console.log("Done");
+        }
+      });
   }
 }
 dir.closeSync();
@@ -37,4 +45,5 @@ stream.once("open", function (fd) {
   }
   stream.end();
 });
-console.log("Done");
+
+console.log("Waiting for file writes to complete...");
