@@ -10,8 +10,11 @@ while ((dirent = dir.readSync()) !== null) {
   if (dirent.name.endsWith(".md") && dirent.name !== "README.md") {
     const name = dirent.name.substr(0, dirent.name.length - 3);
 
-    console.log(`Processing ${name}`);
-    markdownpdf()
+    console.log(`Processing ${dirent.name}`);
+    markdownpdf({
+      cssPath: "style.css",
+      paperBorder: "30px",
+    })
       .from(`./${name}.md`)
       .to(`./PDF/${name}.pdf`, function () {
         console.log(`Processed ${name}.md`);
