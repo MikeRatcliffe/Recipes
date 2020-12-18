@@ -8,7 +8,7 @@
 - 1 tablespoon Ginger, Fresh
 - 30g Tomato Paste
 - 1 teaspoon Cumin
-- ¾ teaspoon Coriander, Ground
+- 3/4 teaspoon Coriander, Ground
 - 2 tablespoons Coconut Aminos
 - 1 teaspoon Honey, Raw
 - 1 tablespoon Chili Powder
@@ -17,7 +17,7 @@
 - 3 medium Limes
 - 1 individual Chicken, Whole (1.5 - 2kg)
 - 1 tablespoon Coconut Oil
-- 1 ½ cups Chicken Broth
+- 1 1/2 cups Chicken Broth
 
 ## Method
 

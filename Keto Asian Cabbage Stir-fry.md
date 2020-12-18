@@ -6,12 +6,12 @@
 - 110 g butter, divided
 - 1 tsp salt
 - 1 tsp onion powder
-- ¼ tsp ground black pepper
+- 1/4 tsp ground black pepper
 - 1 tbsp white wine vinegar
 - 2 garlic cloves, minced
 - 1 tsp chili flakes
 - 55 g (140 ml) fresh ginger, finely chopped or grated
-- 550 g ground beef or ground turkey
+- 550 g minced beef or ground turkey
 - 3 (45 g) spring onions, chopped in 1/2" (2.5 cm) slices
 - 1 tbsp sesame oil
 

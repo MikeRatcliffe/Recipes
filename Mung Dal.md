@@ -7,12 +7,12 @@
 - 1 cup chopped tomatoes
 - 1 medium zucchini (peeled and chopped in 1-inch cubes)
 - 5 tablespoons ghee
-- ½ tablespoon minced ginger
-- 1½ tablespoons cumin seeds
+- 1/2 tablespoon minced ginger
+- 11/2 tablespoons cumin seeds
 - 1 tablespoon black mustard seeds
 - 1 green chili (minced)
-- ¼ teaspoon hing
-- 1½ teaspoons turmeric
+- 1/4 teaspoon hing
+- 11/2 teaspoons turmeric
 - 1 tablespoon salt
 
 ## Method

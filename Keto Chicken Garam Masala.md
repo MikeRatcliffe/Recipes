@@ -18,7 +18,7 @@
 - 450g chicken breasts (without skin)
 - 3 tablespoons butter
 - salt
-- ½ red bell pepper, finely diced
+- 1/2 red bell pepper, finely diced
 - 300ml unsweetened coconut cream or heavy whipping cream
 
 ## Method

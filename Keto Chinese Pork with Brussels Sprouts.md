@@ -8,7 +8,7 @@
 - 2 garlic cloves
 - 85 g butter or coconut oil
 - 450 g Brussels sprouts
-- ½ (45 g) leek
+- 1/2 (45 g) leek
 - salt and ground black pepper
 
 ## Method

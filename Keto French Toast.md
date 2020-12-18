@@ -7,7 +7,7 @@
 - 1 tsp butter
 - 2 tbsp almond flour
 - 2 tbsp coconut flour
-- 1½ tsp baking powder
+- 11/2 tsp baking powder
 - 1 pinch salt
 - 2 eggs
 - 2 tbsp heavy whipping cream
@@ -16,7 +16,7 @@
 
 - 2 eggs
 - 2 tbsp heavy whipping cream
-- ½ tsp ground cinnamon
+- 1/2 tsp ground cinnamon
 - 1 pinch salt
 - 2 tbsp butter
 

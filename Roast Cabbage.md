@@ -5,7 +5,7 @@
 - 900 g green cabbage
 - 170 g butter
 - 1 tsp salt
-- ¼ tsp ground black pepper
+- 1/4 tsp ground black pepper
 
 ## Method
 

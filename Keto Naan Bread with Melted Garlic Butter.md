@@ -6,8 +6,8 @@
 
 - 180 ml (75 g) coconut flour
 - 2 tbsp ground psyllium husk powder
-- ½ tsp onion powder (optional)
-- ½ tsp baking powder
+- 1/2 tsp onion powder (optional)
+- 1/2 tsp baking powder
 - 1 tsp salt
 - 80 ml melted coconut oil
 - 475 ml boiling water

@@ -5,7 +5,7 @@
 - 2 tablespoons oil
 - 2 pounds bone-in goat (or lamb) pieces (shoulder or leg)
 - 2 onions, diced
-- 1 ½ inch knob fresh ginger, minced
+- 1 1/2 inch knob fresh ginger, minced
 - 3 cloves garlic, minced
 - 4 whole cloves
 - 4 cardamom pods
@@ -16,10 +16,10 @@
 - 1 teaspoon garam masala
 - 1 teaspoon paprika
 - 1 teaspoon turmeric
-- ¼ – ½ teaspoon cayenne, adjust to taste
+- 1/4 – 1/2 teaspoon cayenne, adjust to taste
 - 2 (14 ounce) cans organic diced tomatoes
-- ½ cup water
-- ½ pound potatoes (leave whole), optional
+- 1/2 cup water
+- 1/2 pound potatoes (leave whole), optional
 
 ## Method
 

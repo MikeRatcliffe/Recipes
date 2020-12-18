@@ -9,7 +9,7 @@
 - 1 tsp baking powder
 - 3 tbsp milk
 - 3 medium eggs
-- ½ tsp vanilla essence
+- 1/2 tsp vanilla essence
 
 ## Method
 

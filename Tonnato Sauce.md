@@ -6,10 +6,10 @@
 - 2 tablespoons capers, rinsed and drained
 - 5 anchovies packed in olive oil, drained
 - 3 tablespoons lemon juice
-- ½ cup (225ml) extra virgin olive oil
-- ½ cup (225ml) Paleo Mayonnaise
+- 1/2 cup (225ml) extra virgin olive oil
+- 1/2 cup (225ml) Paleo Mayonnaise
 - Salt
-- Freshly ground black pepper
+- black pepper
 
 ## Method
 

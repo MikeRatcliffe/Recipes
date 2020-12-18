@@ -12,11 +12,11 @@
 Salt and pepper to taste
 1 bay leaf
 Few sprigs of rosemary
-¼ cup white wine optional
+1/4 cup white wine optional
 2 teaspoon Worscestershire sauce
 2 cups of chicken stock
 2 teaspoon red wine vinegar
-¼ cup flour
+1/4 cup flour
 
 ## Method
 

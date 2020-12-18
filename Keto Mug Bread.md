@@ -5,8 +5,8 @@
 - 1 tbsp butter
 - 1 tbsp almond flour
 - 1 tbsp coconut flour
-- ¾ tsp baking powder
-- ½ tsp poppy seeds
+- 3/4 tsp baking powder
+- 1/2 tsp poppy seeds
 - 1 pinch salt
 - 1 egg, beaten
 - 1 tbsp heavy whipping cream
