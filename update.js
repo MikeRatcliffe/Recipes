@@ -33,6 +33,9 @@ while ((dirent = dir.readSync()) !== null) {
 }
 dir.closeSync();
 
+// Sort filenames so that our index is in alphabetic order
+filenames.sort();
+
 // Refresh README
 console.log("Creating README.md...");
 let stream = fs.createWriteStream("./README.md");
