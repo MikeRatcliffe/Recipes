@@ -22,6 +22,6 @@
 3. Add spices and vinegar. Stir and fry for a couple of minutes more. Put the cabbage in a bowl.
 4. Melt the rest of the butter in the same frying pan. Add garlic, chili flakes and ginger. Sauté for a few minutes.
 5. Add ground meat and brown until the meat is thoroughly cooked and most of the juices have evaporated. Lower the heat a little.
-6. Add scallions and cabbage to the meat. Stir until everything is hot. Salt and pepper to taste. Drizzle with sesame oil before serving.
+6. Add spring onions and cabbage to the meat. Stir until everything is hot. Salt and pepper to taste. Drizzle with sesame oil before serving.
 
 Serve with Mayo

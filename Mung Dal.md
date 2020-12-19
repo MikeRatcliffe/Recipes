@@ -5,7 +5,7 @@
 - 1 cup beans
 - 7 cups water
 - 1 cup chopped tomatoes
-- 1 medium zucchini (peeled and chopped in 1-inch cubes)
+- 1 medium zucchini (peeled and chopped in 1" cubes)
 - 5 tablespoons ghee
 - 1/2 tablespoon minced ginger
 - 11/2 tablespoons cumin seeds

@@ -7,7 +7,7 @@
 - salt
 - black pepper
 - 230g cremini mushrooms thinly sliced
-- 1 small Napa cabbage sliced crosswise into 1/2 inch pieces
+- 1 small Napa cabbage sliced crosswise into 1/2" pieces
 - 60ml chicken broth
 
 ## Method

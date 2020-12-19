@@ -5,7 +5,7 @@
 - 2 tablespoons oil
 - 2 pounds bone-in goat (or lamb) pieces (shoulder or leg)
 - 2 onions, diced
-- 1 1/2 inch knob fresh ginger, minced
+- 1 1/2" knob fresh ginger, minced
 - 3 cloves garlic, minced
 - 4 whole cloves
 - 4 cardamom pods

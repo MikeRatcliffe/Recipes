@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 4 slices bacon cut into ¼-inch pieces
+- 4 slices bacon cut into 1/4" pieces
 - 680g Brussels sprouts
 - 1 large shallot thinly sliced
 - 3/4 teaspoon Magic Mushroom Powder or salt
@@ -11,7 +11,7 @@
 
 ## Method
 
-1. Toss the bacon bits into a cold 12-inch (30cm) skillet and crank the heat to medium. Cook, stirring occasionally, until the bacon bits are crispy.
+1. Toss the bacon bits into a cold 12" (30cm) skillet and crank the heat to medium. Cook, stirring occasionally, until the bacon bits are crispy.
 2. While the bacon is crisping in the pan, shred the Brussels sprouts using the slicing blade of a food processor.
 3. Check on the bacon. Once it’s crispy, use a slotted spoon to transfer the bacon bits to a platter.
 4. Dump the shallots in the pan with the bacon grease and sauté until they’re soft and browned, about 3 to 5 minutes.

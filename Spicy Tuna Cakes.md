@@ -4,7 +4,7 @@
 
 - 3 tablespoons melted ghee divided
 - 300 g canned albacore tuna packed in water drained
-- 3 scallions thinly sliced
+- 3 spring onions thinly sliced
 - 2 tablespoons finely minced fresh coriander
 - 175 g mashed baked sweet potato
 - finely grated zest from 1/2 medium lemon
@@ -17,7 +17,7 @@
 ## Method
 
 1. Preheat the oven to 175C, and use a brush to grease a 12-cup regular sized muffin tin with one tablespoon of melted ghee.
-2. In a large bowl, mix together the tuna, scallions, and coriander. Add the mashed sweet potato to the tuna mixture, and gently combine.
+2. In a large bowl, mix together the tuna, spring onions, and coriander. Add the mashed sweet potato to the tuna mixture, and gently combine.
 3. Then, mix in the lemon zest, jalapeño, the remaining two tablespoons of ghee, eggs, and crushed chillies. Season with salt and pepper to taste. I normally use 1 teaspoon salt.
 4. Use your hands to mix everything together because that way you can make sure that the fish chunks aren’t overly broken up.
 5. Scoop a 1/4 cup of the mixture into each greased muffin tin cup and flatten with the back of a spoon.

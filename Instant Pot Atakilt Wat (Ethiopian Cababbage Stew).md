@@ -5,9 +5,9 @@
 - 2 tablespoons ghee
 - 1 medium onion diced
 - 3 garlic cloves minced
-- 3 medium carrots peeled and cut into 1-inch thick coins
+- 3 medium carrots peeled and cut into 1" thick coins
 - 900g cauliflower cut into large florets
-- 700g cabbage cored and cut into 1-inch cubes
+- 700g cabbage cored and cut into 1" cubes
 - 1/2 tablespoon salt
 - 2 teaspoons ground turmeric
 - 1 teaspoon ground cumin

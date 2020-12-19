@@ -24,5 +24,5 @@ Here are some of my faves:
 
 - Guacamole + Sliced Radishes
 - Mayonnaise + Furikake + Sliced Persian Cucumbers
-- Chipotle Lime Mayonnaise + Furikake + Sliced Scallions
-- Chipotle Lime Mayonnaise + Prosciutto + Sliced Cucumbers + Scallions
+- Chipotle Lime Mayonnaise + Furikake + Sliced spring onions
+- Chipotle Lime Mayonnaise + Prosciutto + Sliced Cucumbers + spring onions

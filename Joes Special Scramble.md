@@ -16,7 +16,7 @@
 
 ## Method
 
-1. Heat a 12-inch cast-iron or nonstick skillet over medium-high heat. While the pan is heating up, crack the eggs in a medium bowl.
+1. Heat a 12" cast-iron or nonstick skillet over medium-high heat. While the pan is heating up, crack the eggs in a medium bowl.
 2. Whisk the eggs with the water, 1 teaspoon fish sauce, 1/2 teaspoon kosher salt, and 1/4 teaspoon black pepper. Set aside.
 3. When the skillet is nice and hot, add the ghee. Once it’s shimmering, toss in the onions and mushrooms, and 1/2 teaspoon kosher salt.
 4. Cook, uncovered, until mushrooms release their liquid.

@@ -10,6 +10,6 @@
 
 ## Method
 
-1. Add all ingredients to a 4x4 inch (10x10cm) microwave safe bowl.
+1. Add all ingredients to a 4x4" (10x10cm) microwave safe bowl.
 2. Tap on the counter a few times to remove air bubbles.
 3. Microwave for 90 seconds.

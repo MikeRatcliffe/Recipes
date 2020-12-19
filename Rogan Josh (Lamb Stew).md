@@ -3,7 +3,7 @@
 ## Ingredients
 
 - 2 tablespoons coconut oil
-- 450g lamb stew meat cut into 1 1/2 inch chunks
+- 450g lamb stew meat cut into 1 1/2" chunks
 - salt
 - black pepper
 - 2 large carrots coarsely chopped
