@@ -1,5 +1,6 @@
 const markdownpdf = require("markdown-pdf");
 const fs = require("fs");
+const path = require("path");
 const dir = fs.opendirSync(".");
 
 let dirent = null;
@@ -7,6 +8,18 @@ let filenames = [];
 let count = 0;
 
 // Refresh PDF files
+
+// Firest delete them
+console.log("Deleting PDF files...");
+fs.readdirSync("./PDF", (err, files) => {
+  for (const file of files) {
+    fs.unlink(path.join("./PDF", file), (err) => {
+      if (err) throw err;
+    });
+  }
+});
+
+// Now recreate them
 while ((dirent = dir.readSync()) !== null) {
   if (dirent.name.endsWith(".md") && dirent.name !== "README.md") {
     const name = dirent.name.substr(0, dirent.name.length - 3);
