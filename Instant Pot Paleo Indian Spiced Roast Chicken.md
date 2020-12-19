@@ -21,7 +21,7 @@
 
 ## Method
 
-1. Place shallot, cayenne pepper, garlic cloves, ginger, tomato paste, cumin, coriander, coconut aminos, honey, chili powder, sea salt, and coconut milk in a blender or food processor and pulse until a paste forms.
+1. Place shallot, cayenne pepper, garlic cloves, ginger, tomato puree, cumin, coriander, coconut aminos, honey, chili powder, sea salt, and coconut milk in a blender or food processor and pulse until a paste forms.
 2. Remove innards from chicken. Rub half of the paste over the outside of chicken. Squeeze the juice from the lime all over chicken and place lime rinds and remaining paste inside chicken.
 3. Heat coconut oil on saute setting until it shimmers.
 4. Place chicken breast side down and saute for 3-4 minutes, flip to the other side and repeat.

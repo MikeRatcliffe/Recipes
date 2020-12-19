@@ -22,8 +22,8 @@
 4. Add the butter to a pan and melt.
 5. Add the garlic and cook gently until soft.
 6. Add the cream and bring to a simmer.
-7. Add the cream cheese and quarter of the shredded cheeses and stir well until the cheese has completely melted.
-8. Keep adding the shredded cheese in batches until it is all melted and you have a smooth, creamy sauce. It will seem like the cheese will never melt. Don’t get panicked and turn up the heat, just keepup the stirring and I promise it will happen.
+7. Add the cream cheese and quarter of the grated cheeses and stir well until the cheese has completely melted.
+8. Keep adding the grated cheese in batches until it is all melted and you have a smooth, creamy sauce. It will seem like the cheese will never melt. Don’t get panicked and turn up the heat, just keepup the stirring and I promise it will happen.
 9. Add the herbs and mix through.
 10. Take sauce off the heat to sit and thicken slightly. Stir every now and then to stop a skin forming.
 11. Pat the zoodles dry with a paper towel.

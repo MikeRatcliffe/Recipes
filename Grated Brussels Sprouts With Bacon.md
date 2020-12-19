@@ -1,4 +1,4 @@
-# Shredded Brussels Sprouts With Bacon
+# Grated Brussels Sprouts With Bacon
 
 ## Ingredients
 

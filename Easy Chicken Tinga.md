@@ -7,7 +7,7 @@
 - salt
 - 2 tablespoons ghee or lard
 - 1 small white onion, finely chopped
-- 1 tablespoon tomato paste
+- 1 tablespoon tomato puree
 - 6 medium garlic cloves, minced
 - 2 teaspoons dried oregano
 - 2 teaspoons chili powder
@@ -19,7 +19,7 @@
 ## Method
 
 1. In a large bowl, toss the chicken thighs with pepper and 2 teaspoons of salt.
-2. Melt the fat in a large pot over medium heat. Once the fat is shimmering hot, add the onions, tomato paste, and 1/2 teaspoon salt. Cook, stirring until the onions have softened.
+2. Melt the fat in a large pot over medium heat. Once the fat is shimmering hot, add the onions, tomato puree, and 1/2 teaspoon salt. Cook, stirring until the onions have softened.
 3. Toss in the garlic, oregano, chilli powder, and bay leaves. Stir for about 30 seconds or until fragrant.
 4. Add the drained tomatoes and apple cider vinegar, and pour in the broth.
 5. Stir well to combine, and then add the chicken. Increase the heat to high, and bring everything to a boil.

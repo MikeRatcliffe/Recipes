@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-225g cheddar cheese, shredded
+225g cheddar cheese, grated
 120g chopped green chiles
 120ml heavy cream
 3 eggs

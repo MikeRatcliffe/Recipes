@@ -24,7 +24,7 @@
 4. Mix all the dry ingredients apart from psyllium husk powder.
 5. In a separate bowl, mix the wet ingredients: eggs, egg whites, lukewarm water with psyllium husk powder.
 6. Pour the wet mixture into the bowl with the dry ingredients and process well using a mixer until the dough is thick.
-7. Using a spoon, make the buns about 110 g each and place them on a non-stick baking tray or parchment paper. They will rise, so make sure to leave some space between them. You can even use small tart trays.
+7. Using a spoon, make the buns about 110 g each and place them on a non-stick baking tray or greaseproof paper. They will rise, so make sure to leave some space between them. You can even use small tart trays.
 8. Top each of the buns with sesame seeds (or any other seeds) and press them into the dough, so they don't fall out. Place in the oven and cook for 45-50 minutes.
 9. Remove from the oven, let the tray cool down and place thebuns on a rack to cool down to room temperature. Store them at room temperature if you plan to use them in the next couple of days or store in the freezer for future use.
 10. Top with butter or cream cheese, burger meat or any topping you like.

@@ -18,7 +18,7 @@
 - 450g chicken breasts (without skin)
 - 3 tablespoons butter
 - salt
-- 1/2 red bell pepper, finely diced
+- 1/2 red pepper, finely diced
 - 300ml unsweetened coconut cream or heavy whipping cream
 
 ## Method
@@ -29,5 +29,5 @@
 4. Place a large skillet over medium high heat and fry the chicken in butter until golden brown.
 5. Add half the garam masala mix to the pan and stir thoroughly.
 6. Season with salt, and place the chicken, including the juices, in a baking dish.
-7. Add the finely diced bell pepper to a small bowl along with the cream and remaining garam masala mix.
+7. Add the finely diced pepper to a small bowl along with the cream and remaining garam masala mix.
 8. Pour over the chicken. Bake in oven for about 20 minutes.

@@ -2,9 +2,9 @@
 
 ## Ingredients
 
-- 450g quick cooking veggies pre-washed e.g. baby spinach, leftover sautéed chard, frozen broccoli, shredded carrots, broccoli slaw, etc.
+- 450g quick cooking veggies pre-washed e.g. baby spinach, leftover sautéed chard, frozen broccoli, grated carrots, broccoli slaw, etc.
 - 2 tablespoons ghee or fat of choice
-- 26g finely chopped onions, green onions, or shallots
+- 26g finely chopped onions, spring onions, or shallots
 - 450g ground beef or any ground or thinly sliced meat
 - 2 tablespoons seasoning or coconut aminos
 - salt

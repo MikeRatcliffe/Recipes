@@ -7,8 +7,8 @@
 - 2 tablespoons ghee, duck fat or coconut oil
 - 1/2 teaspoon ground cumin
 - 1 small jalapeno pepper
-- green bell pepper
-- 1/2 red bell pepper
+- green pepper
+- 1/2 red pepper
 - 1 small courgette
 - 1 tablespoon lime juice
 - 120g chopped tomatoes
