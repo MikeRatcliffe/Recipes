@@ -6,10 +6,9 @@
 - salt
 - spring onions cut into 2" pieces, greens and whites separated
 - 2 inches fresh ginger finely sliced
-- 1 medium apple (250g), peeled, cored and roughly chopped
+- 2 medium apple (250g), peeled, cored and roughly chopped
 - 60ml fish sauce
 - 2 tablespoons korean chili flakes
-- 1 carrot cut into 5mm slices
 - small red pepper, cut into matchsticks
 - 6 cloves garlic, peeled and thinly sliced
 
@@ -25,8 +24,8 @@
 8. Put the spring onion whites, ginger, apple, fish sauce and 2 teaspoons salt in a blender.
 9. Blitz until smooth.
 10. Stir in the Korean chili flakes.
-11. In a large bowl, combine the drained chinese leaf with the scallion greens, carrot, pepper and garlic.
+11. In a large bowl, combine the drained chinese leaf with the spring onion greens, pepper and garlic.
 12. Pour in the paste and mix well with your hands.
-13. Pack the Kimchi tightly into two 1 litre containers leaving a 1" space at the top.
-14. Leave them on a rimmed baking sheetat room temperature in a shady spot for 7 days.
+13. Pack the Kimchi tightly into a 1 litre container leaving a 1" space at the top.
+14. Leave them on a rimmed baking sheet at room temperature in a shady spot for 7 days.
 15. On the seventh day move it into the fridge.

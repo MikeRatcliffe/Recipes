@@ -2,22 +2,22 @@
 
 ## Ingredients
 
-- 2 teaspoons garam masala
 - 3 tablespoons ghee
-- 4 skinless, boneless chicken breasts cut into large chunks
 - 1 medium onion, chopped
 - 2 garlic cloves, peeled and finely chopped
 - 1 teaspoon fresh ginger, grated
+- 2 teaspoons garam masala
 - 1 teaspoon turmeric
 - 1 teaspoon hot chili powder
 - 1 tablespoon tomato puree
 - 400 grams diced tomatoes
+- 400g potatoes, peeled, coarsely chopped
+- 300g head cauliflower, trimmed, cut into small florets
 - 1/2 teaspoon salt
 - 1/4 teaspoon ground black pepper
 - 400 grams coconut milk
-- 400g potatoes, peeled, coarsely chopped
-- 300g head cauliflower, trimmed, cut into small florets
 - 120g frozen peas
+- 120g baby spinach leaves
 
 ## Method
 

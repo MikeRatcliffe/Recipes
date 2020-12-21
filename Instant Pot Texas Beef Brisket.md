@@ -1,4 +1,4 @@
-# Slow Cooker Texas Beef Brisket
+# Instant Pot Texas Beef Brisket
 
 ## Ingredients
 
