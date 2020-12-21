@@ -19,7 +19,7 @@
 5. Starting from the cavity side of the chicken, gently insert your hands underneath the skin to separate the skin from the meat, including the breast, thighs and legs. Be careful not to tear the skin.
 6. Use your hands to rub half the garlic herb butter all over underneath the skin. Rub the remaining butter all over the top and sides of the chicken.
 7. Stuff the remaining 2 whole rosemary sprigs inside the chicken cavity.
-8. Cover the Crock-Pot slow cooker and cook for 4-5 hours on High.
+8. Cover the slow cooker and cook for 4-5 hours on High.
 9. If your garlic butter didn't spread well in the beginning, you can lift the lid about an hour into cooking and use a pastry brush to spread the herb butter more evenly over the top and sides of the chicken.
 10. Toward the end, preheat the oven at 220C and bake the chicken on a baking tray for 20 minutes.
 11. Let the chicken rest for 10 minutes on a plate before carving.
