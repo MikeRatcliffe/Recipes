@@ -5,6 +5,7 @@
 - [Bell Pepper Eggs](./Bell%20Pepper%20Eggs.md)
 - [Breakfast Bacon and Egg Salad](./Breakfast%20Bacon%20and%20Egg%20Salad.md)
 - [Chicken Madras](./Chicken%20Madras.md)
+- [Chicken and Broccoli Stir-Fry](./Chicken%20and%20Broccoli%20Stir-Fry.md)
 - [Creamy Stovetop Macaroni Cheese](./Creamy%20Stovetop%20Macaroni%20Cheese.md)
 - [Crispy Roast Potatoes](./Crispy%20Roast%20Potatoes.md)
 - [Easy Chicken Tinga](./Easy%20Chicken%20Tinga.md)
