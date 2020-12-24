@@ -8,6 +8,7 @@
 - [Chicken and Broccoli Stir-Fry](./Chicken%20and%20Broccoli%20Stir-Fry.md)
 - [Creamy Stovetop Macaroni Cheese](./Creamy%20Stovetop%20Macaroni%20Cheese.md)
 - [Crispy Roast Potatoes](./Crispy%20Roast%20Potatoes.md)
+- [DIY Coconut Aminos Substitute](./DIY%20Coconut%20Aminos%20Substitute.md)
 - [Easy Chicken Tinga](./Easy%20Chicken%20Tinga.md)
 - [Eggs in Purgatory](./Eggs%20in%20Purgatory.md)
 - [Garbage Stir Fry](./Garbage%20Stir%20Fry.md)

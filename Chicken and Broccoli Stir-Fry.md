@@ -11,7 +11,7 @@
 - 1 large shallot thinly sliced
 - 400g broccoli cut into small florets and stems thinly sliced
 - 2 garlic cloves minced
-- 2 scallions thinly sliced
+- 2 spring onions thinly sliced
 
 ## Method
 
@@ -24,4 +24,4 @@
 7. Add the broccoli to the empty skillet and pour in 1/4 cup of water. Cover the pan and cook the florets until they are bright green and tender-crisp, about 2-3 minutes.
 8. Stir in the minced garlic and reserved cooked chicken.
 9. Whisk the reserved stir-fry sauce one last time and pour it into the pan. Stir-fry the broccoli and chicken until the sauce simmers and thickens.
-10. Transfer the chicken and broccoli stir-fry onto a serving plate and top with sliced scallions and toasted sesame seeds. Serve with steaming bowls of cauliflower rice!
+10. Transfer the chicken and broccoli stir-fry onto a serving plate and top with sliced spring onions and toasted sesame seeds. Serve with steaming bowls of cauliflower rice!
