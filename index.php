@@ -84,8 +84,8 @@
 		</section>
 		<section id="footer">
 			<ul>
-				<li>A super minimal recipe website by <a href="http://www.jeffreythompson.org">Jeff Thompson</a></li>
-				<li><a href="https://github.com/jeffThompson/Recipes">Source code
+				<li>A recipe website by <a href="https://flailingmonkey.com">Mike Ratcliffe</a></li>
+				<li><a href="https://github.com/MikeRatcliffe/Recipes">Source code
 				
 				<!-- via: https://fontawesome.com/icons/external-link-alt -->
 				<svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
