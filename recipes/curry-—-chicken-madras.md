@@ -1,6 +1,6 @@
-# Chicken Madras
+# Curry - Chicken Madras
 
-![Chicken Madras](images/chicken-madras.jpg)
+![Curry - Chicken Madras](images/curry-—-chicken-madras.jpg)
 
 ## ingredients
 

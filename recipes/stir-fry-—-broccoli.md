@@ -1,6 +1,6 @@
-# Broccoli Stir Fry
+# Stir Fry - Broccoli
 
-![Broccoli Stir Fry](images/broccoli-stir-fry.jpg)
+![Stir Fry - Broccoli](images/stir-fry-—-broccoli.jpg)
 
 ## ingredients
 

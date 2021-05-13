@@ -1,4 +1,4 @@
-# Rogan Josh (Lamb Stew)
+# Curry - Rogan Josh (Lamb Stew)
 
 ## ingredients
 

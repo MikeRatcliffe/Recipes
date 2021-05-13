@@ -1,4 +1,4 @@
-# Thai Green Chicken Curry
+# Curry - Thai Green Chicken
 
 ## ingredients
 

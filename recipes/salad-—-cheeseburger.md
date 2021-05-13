@@ -1,6 +1,6 @@
-# Cheeseburger Salad
+# Salad - Cheeseburger
 
-![Cheeseburger Salad](images/cheeseburger-salad.jpg)
+![Salad - Cheeseburger](images/salad-—-cheeseburger.jpg)
 
 ## ingredients
 

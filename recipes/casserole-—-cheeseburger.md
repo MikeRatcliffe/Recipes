@@ -1,6 +1,6 @@
-# Cheeseburger Casserole
+# Casserole - Cheeseburger
 
-![Cheeseburger Casserole](images/cheeseburger-casserole.jpg)
+![Casserole - Cheeseburger](images/casserole-—-cheeseburger.jpg)
 
 ## ingredients
 

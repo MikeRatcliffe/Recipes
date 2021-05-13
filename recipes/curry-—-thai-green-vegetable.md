@@ -1,4 +1,4 @@
-# Thai Green Vegetable Curry
+# Curry - Thai Green Vegetable
 
 ## ingredients
 

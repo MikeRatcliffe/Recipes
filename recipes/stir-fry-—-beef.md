@@ -1,6 +1,6 @@
-# Beef Stir Fry
+# Stir Fry - Beef
 
-![Beef Stir Fry](images/beef-stir-fry.jpg)
+![Stir Fry - Beef](images/stir-fry-—-beef.jpg)
 
 ## ingredients
 

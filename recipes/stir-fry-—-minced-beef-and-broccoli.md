@@ -1,6 +1,6 @@
-# Minced Beef and Broccoli Stir-Fry
+# Stir Fry - Minced Beef and Broccoli
 
-![Minced Beef and Broccoli Stir-Fry](images/minced-beef-and-broccoli-stir-fry.png)
+![Stir Fry - Minced Beef and Broccoli](images/stir-fry-—-minced-beef-and-broccoli.png)
 
 ## ingredients
 

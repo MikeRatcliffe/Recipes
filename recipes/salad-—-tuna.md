@@ -1,4 +1,4 @@
-# Tuna Salad
+# Salad - Tuna
 
 ## ingredients
 

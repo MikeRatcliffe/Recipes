@@ -1,4 +1,4 @@
-# Pressure Cooker Salsa Chicken
+# Instant Pot - Salsa Chicken
 
 ## ingredients
 

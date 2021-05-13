@@ -1,6 +1,6 @@
-# Chicken and Broccoli Stir-Fry
+# Stir Fry - Chicken and Broccoli
 
-![Chicken and Broccoli Stir-Fry](images/chicken-and-broccoli-stir-fry.jpg)
+![Stir Fry - Chicken and Broccoli](images/stir-fry-—-chicken-and-broccoli.jpg)
 
 ## ingredients
 

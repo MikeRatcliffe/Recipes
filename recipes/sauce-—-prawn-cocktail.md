@@ -1,10 +1,10 @@
-# Prawn Cocktail Sauce
+# Sauce - Prawn Cocktail
 
 ## ingredients
 
 - 200 ml double cream
 - 1 tbsp lemon juice
-- 2 tsp worcestershire sauce
+- 2 tsp Worcestershire sauce
 - 2 tbsp tomato ketchup
 - 1 tsp tabasco sauce
 - 1/4 tsp salt

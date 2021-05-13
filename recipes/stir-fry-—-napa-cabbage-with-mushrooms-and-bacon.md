@@ -1,4 +1,4 @@
-# Stir Fried Napa Cabbage with Mushrooms and Bacon
+# Stir Fry - Napa Cabbage with Mushrooms and Bacon
 
 ## ingredients
 

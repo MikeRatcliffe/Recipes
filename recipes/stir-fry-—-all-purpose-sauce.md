@@ -1,6 +1,6 @@
-# All-Purpose Stir-Fry Sauce
+# Stir Fry - All-Purpose Sauce
 
-![All-Purpose Stir-Fry Sauce](images/all-purpose-stir-fry-sauce.jpg)
+![Stir Fry - All-Purpose Sauce](images/stir-fry-—-all-purpose-sauce.jpg)
 
 ## ingredients
 

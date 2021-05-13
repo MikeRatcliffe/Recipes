@@ -1,6 +1,6 @@
-# Butter Turkey Curry
+# Curry - Butter Turkey
 
-![Butter Turkey Curry](images/butter-turkey-curry.jpg)
+![Curry - Butter Turkey](images/curry-—-butter-turkey.jpg)
 
 ## ingredients
 

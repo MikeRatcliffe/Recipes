@@ -1,6 +1,6 @@
-# Slow Cooker Texas Beef Brisket
+# Instant Pot - Texas Beef Brisket
 
-![Slow Cooker Texas Beef Brisket](images/slow-cooker-texas-beef-brisket.jpg)
+![Instant Pot - Texas Beef Brisket](images/instant-pot-texas-beef-brisket.jpg)
 
 ## ingredients
 

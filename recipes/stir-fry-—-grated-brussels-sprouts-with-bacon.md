@@ -1,6 +1,6 @@
-# Grated Brussels Sprouts With Bacon
+# Stir Fry - Grated Brussels Sprouts With Bacon
 
-![Grated Brussels Sprouts With Bacon](images/grated-brussels-sprouts-with-bacon.jpg)
+![Stir Fry - Grated Brussels Sprouts With Bacon](images/stir-fry-—-grated-brussels-sprouts-with-bacon.jpg)
 
 ## ingredients
 

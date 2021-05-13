@@ -1,6 +1,6 @@
-# Breakfast Bacon and Egg Salad
+# Salad - Breakfast Bacon and Egg
 
-![Breakfast Bacon and Egg Salad](images/breakfast-bacon-and-egg-salad.png)
+![Salad - Breakfast Bacon and Egg](images/salad-—-breakfast-bacon-and-egg.png)
 
 ## ingredients
 

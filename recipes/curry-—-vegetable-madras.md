@@ -1,4 +1,4 @@
-# Vegetable Madras
+# Curry - Vegetable Madras
 
 ## ingredients
 

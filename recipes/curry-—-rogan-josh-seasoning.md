@@ -1,4 +1,4 @@
-# Rogan Josh Seasoning
+# Curry - Rogan Josh Seasoning
 
 ## ingredients
 

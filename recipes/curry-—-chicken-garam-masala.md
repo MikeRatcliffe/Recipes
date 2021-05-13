@@ -1,4 +1,4 @@
-# Chicken Garam Masala
+# Curry - Chicken Garam Masala
 
 ## ingredients
 

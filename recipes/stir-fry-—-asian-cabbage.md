@@ -1,4 +1,4 @@
-# Asian Cabbage Stir-fry
+# Stir Fry - Asian Cabbage
 
 ## ingredients
 

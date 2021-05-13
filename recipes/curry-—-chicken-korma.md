@@ -1,6 +1,6 @@
-# Chicken Korma
+# Curry - Chicken Korma
 
-![Chicken Korma](images/chicken-korma.jpg)
+![Curry - Chicken Korma](images/curry-—-chicken-korma.jpg)
 
 ## ingredients
 

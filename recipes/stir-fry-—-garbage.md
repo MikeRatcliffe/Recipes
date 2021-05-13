@@ -1,6 +1,6 @@
-# Garbage Stir Fry
+# Stir Fry - Garbage
 
-![Garbage Stir Fry](images/garbage-stir-fry.jpg)
+![Stir Fry - Garbage](images/stir-fry-—-garbage.jpg)
 
 ## ingredients
 
