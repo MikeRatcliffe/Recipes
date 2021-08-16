@@ -11,7 +11,7 @@ Plain Cloud Bread:
 
 Pizza Cloud Bread:
 
-- 1 tablespoons italian seasoning
+- 1 tablespoons Italian seasoning
 - 2 tablespoons shredded mozzarella or grated Parmesan
 - 2 teaspoon tomato puree
 
@@ -37,7 +37,7 @@ Plain Cloud Bread:
 8. Immediately sprinkle each piece of bread with cheese and bake until melted, 2 to 3 minutes more.
 9. Let cool slightly.
 
-Pizza Cloud Bread::
+Pizza Cloud Bread:
 
 1. Into the egg yolk mixture, add:
    - 1 tablespoon Italian seasoning
@@ -52,3 +52,7 @@ Everything Bagel Cloud Bread::
    - 1 teaspoon sesame seeds
    - 1 teaspoon minced dried garlic
    - 1 teaspoon minced dried onion.
+
+## based on
+
+- https://www.delish.com/uk/cooking/recipes/a30451766/cloud-oopsie-bread-recipe/

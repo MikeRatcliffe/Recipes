@@ -32,3 +32,7 @@
 8. Add the beef mixture to a casserole dish.
 9. In a bowl, whisk together the eggs and cream, pour over the beef mixture.
 10. Top with the remaining cheddar and bake for 30 minutes.
+
+## based on
+
+- https://www.myketokitchen.com/keto-recipes/keto-cheeseburger-casserole/

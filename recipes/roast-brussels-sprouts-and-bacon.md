@@ -1,11 +1,11 @@
-# Roasted Brussels Sprouts and Bacon
+# Roast Brussels Sprouts and Bacon
 
-![Roasted Brussels Sprouts and Bacon](images/roasted-brussels-sprouts-and-bacon.jpg)
+![Roast Brussels Sprouts and Bacon](images/roast-brussels-sprouts-and-bacon.jpg)
 
 ## ingredients
 
 - 700 g Brussels sprouts
-- 2 tablespoons melted ghee, avocado oil, extra virgin olive oil, or fat of choice
+- 2 tablespoons fat of choice
 - Salt
 - Black pepper
 - 4 bacon slices, diced

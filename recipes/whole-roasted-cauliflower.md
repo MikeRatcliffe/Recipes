@@ -1,6 +1,6 @@
-# Whole Roasted Cauliflower
+# Whole Roast Cauliflower
 
-![Whole Roasted Cauliflower](images/whole-roasted-cauliflower.jpg)
+![Whole Roast Cauliflower](images/whole-roast-cauliflower.jpg)
 
 ## ingredients
 

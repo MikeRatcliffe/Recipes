@@ -13,7 +13,7 @@
 
 ## steps
 
-1. Heat a nonstick skillet over medium heat, and grease lightly.
+1. Heat a non-stick skillet over medium heat, and grease lightly.
 2. Place a bell pepper ring in the skillet, then sauté for two minutes.
 3. Flip the ring, then crack an egg in the middle.
 4. Season with salt and pepper, then cook until the egg is cooked to your liking, 2-4 minutes.

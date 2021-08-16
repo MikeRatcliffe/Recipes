@@ -1,6 +1,6 @@
-# Roasted Carrots
+# Roast Carrots
 
-![Roasted Carrots](images/roasted-carrots.jpg)
+![Roast Carrots](images/roast-carrots.jpg)
 
 ## ingredients
 

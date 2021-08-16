@@ -1,4 +1,6 @@
-# Roasted Green Beans with Lemon and Garlic
+# Roast Green Beans with Lemon and Garlic
+
+![Roast Green Beans with Lemon and Garlic](images/roast-green-beans-with-lemon-and-garlic.jpg)
 
 ## ingredients
 
@@ -17,3 +19,7 @@
 4. Arrange the green beans in a single layer on a rimmed baking sheet.
 5. Pop the green beans in the oven and roast for 10-15 min if you have the thinner green beans, and 15-20 min if you have the thicker green beans, flipping every 5 minutes to ensure even browning. The green beans are ready when they are tender and charred in some parts.
 6. Serve the roasted green beans with lemon wedges because a squeeze of tart juice will add extra zing to these roasted green beans!
+
+## based on
+
+- https://nomnompaleo.com/roasted-green-beans-with-lemon-and-garlic
