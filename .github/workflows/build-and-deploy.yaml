@@ -22,5 +22,5 @@ jobs:
       - name: Delete Current Files
         run: ssh -p ${{ secrets.SSH_PORT }} -i ~/.ssh/deploy_key ${{ secrets.DEPLOY_USER }}@${{ secrets.HOST }} 'rm -rf ${{ secrets.DESTINATION_PATH }}/*'
 
-      - name: SCP upload
-        run: scp -v -r -P ${{ secrets.SSH_PORT }} -i ~/.ssh/deploy_key . ${{ secrets.DEPLOY_USER }}@${{ secrets.HOST }}:${{ secrets.DESTINATION_PATH }}
+      - name: SCP Upload
+        run: scp -r -P ${{ secrets.SSH_PORT }} -i ~/.ssh/deploy_key . ${{ secrets.DEPLOY_USER }}@${{ secrets.HOST }}:${{ secrets.DESTINATION_PATH }}
