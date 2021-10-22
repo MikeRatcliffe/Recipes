@@ -19,5 +19,8 @@ jobs:
           sudo chmod 600 ~/.ssh/deploy_key
           ssh-keyscan -H -p ${{ secrets.SSH_PORT }} "${{ secrets.HOST }}" > ~/.ssh/known_hosts
 
+      - name: Delete Current Files
+        run: ssh -p ${{ secrets.SSH_PORT }} -i ~/.ssh/deploy_key ${{ secrets.DEPLOY_USER }}@${{ secrets.HOST }} 'rm -rf ${{ secrets.DESTINATION_PATH }}/*'
+
       - name: SCP upload
         run: scp -v -r -P ${{ secrets.SSH_PORT }} -i ~/.ssh/deploy_key . ${{ secrets.DEPLOY_USER }}@${{ secrets.HOST }}:${{ secrets.DESTINATION_PATH }}
