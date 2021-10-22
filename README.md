@@ -62,5 +62,5 @@ To fry:
 1. Heat oil over medium/medium-high heat
 2. Take a bowl of water, wet hands, and form small balls
 3. Slide into oil and cook, flipping often, until golden
-4. Drain on paper towels.
+4. Drain on paper towels
 ```
