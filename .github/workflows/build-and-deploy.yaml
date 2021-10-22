@@ -20,4 +20,4 @@ jobs:
           ssh-keyscan -H -p ${{ secrets.SSH_PORT }} "${{ secrets.HOST }}" > ~/.ssh/known_hosts
 
       - name: SCP upload
-        run: scp -r -P ${{ secrets.SSH_PORT }} -i ~/.ssh/deploy_key . ${{ secrets.DEPLOY_USER }}@${{ secrets.HOST }}:${{ secrets.DESTINATION_PATH }}
+        run: scp -v -r -P ${{ secrets.SSH_PORT }} -i ~/.ssh/deploy_key . ${{ secrets.DEPLOY_USER }}@${{ secrets.HOST }}:${{ secrets.DESTINATION_PATH }}
