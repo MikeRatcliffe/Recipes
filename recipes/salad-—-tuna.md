@@ -20,3 +20,7 @@
 3. Add tuna.
 4. Top with hard-boiled eggs, mayo mixed with lemon juice and spring onion.
 5. Drizzle with extra virgin olive oil
+
+## based on
+
+- https://ketodietapp.com/Blog/lchf/Keto-Tuna-Salad
