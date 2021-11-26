@@ -9,9 +9,9 @@
 - 60 ml heavy cream
 - 1 garlic clove (minced)
 - 2 tbsp shallots (thinly sliced)
-- 120 ml mushrooms
+- 50 g mushrooms
 - 1 cup fresh spinach (chopped, loosely packed)
-- 60 ml parmesan (grated)
+- 25 g parmesan (grated)
 - 1 tbsp olive oil
 - 1 tbsp butter
 - 1 tbsp cream cheese
