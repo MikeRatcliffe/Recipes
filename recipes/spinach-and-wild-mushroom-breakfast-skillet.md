@@ -8,7 +8,7 @@
 - 2 whole eggs
 - 60 ml heavy cream
 - 1 garlic clove (minced)
-- 2 tbsp shallots (thinly sliced)
+- 1 shallot (thinly sliced)
 - 50 g mushrooms
 - 1 cup fresh spinach (chopped, loosely packed)
 - 25 g parmesan (grated)
