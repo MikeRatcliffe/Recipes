@@ -1,6 +1,6 @@
 # Two Minute Keto Bun
 
-![Two Minute Keto Bun](images/two-minute-keto-bun.jpg)
+![Two Minute Keto Bun](images/two-minute-keto-bun.png)
 
 ## ingredients
 
