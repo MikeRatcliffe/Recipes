@@ -28,3 +28,7 @@
 9. Pack the Kimchi tightly into a 1 litre container leaving a 1" space at the top.
 10. Leave them on a rimmed baking sheet at room temperature in a shady spot for 3-7 days.
 11. Move your Kimchi into the fridge.
+
+## based on
+
+- https://nomnompaleo.com
