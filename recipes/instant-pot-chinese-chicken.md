@@ -1,6 +1,6 @@
 # Instant Pot Chinese Chicken
 
-![Instant Pot Chinese Chicken](https://recipes.ratcliffefamily.org/images/instant-pot-chinese-chicken.jpg)
+![Instant Pot Chinese Chicken](images/instant-pot-chinese-chicken.jpg)
 
 ## ingredients
 

@@ -1,6 +1,6 @@
 # Huevos Rancheros
 
-![Huevos Rancheros](https://recipes.ratcliffefamily.org/images/huevos-rancheros.png)
+![Huevos Rancheros](images/huevos-rancheros.png)
 
 ## ingredients
 

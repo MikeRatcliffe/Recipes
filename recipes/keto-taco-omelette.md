@@ -1,6 +1,6 @@
 # Keto Taco Omelette
 
-![Keto Taco Omelette](https://recipes.ratcliffefamily.org/images/keto-taco-omelette.jpg)
+![Keto Taco Omelette](images/keto-taco-omelette.jpg)
 
 ## ingredients
 

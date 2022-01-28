@@ -1,6 +1,6 @@
 # Instant Pot - Texas Beef Brisket
 
-![Instant Pot - Texas Beef Brisket](https://recipes.ratcliffefamily.org/images/instant-pot-texas-beef-brisket.jpg)
+![Instant Pot - Texas Beef Brisket](images/instant-pot-texas-beef-brisket.jpg)
 
 ## ingredients
 

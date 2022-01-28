@@ -1,6 +1,6 @@
 # Stir Fry - Beef
 
-![Stir Fry - Beef](https://recipes.ratcliffefamily.org/images/stir-fry-—-beef.jpg)
+![Stir Fry - Beef](images/stir-fry-—-beef.jpg)
 
 ## ingredients
 

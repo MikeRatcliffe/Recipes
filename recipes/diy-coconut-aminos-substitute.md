@@ -1,6 +1,6 @@
 # DIY Coconut Aminos Substitute
 
-![DIY Coconut Aminos Substitute](https://recipes.ratcliffefamily.org/images/diy-coconut-aminos-substitute.jpg)
+![DIY Coconut Aminos Substitute](images/diy-coconut-aminos-substitute.jpg)
 
 ## ingredients
 

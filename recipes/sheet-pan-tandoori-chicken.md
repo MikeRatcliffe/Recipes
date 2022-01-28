@@ -1,6 +1,6 @@
 # Sheet Pan Tandoori Chicken
 
-![Sheet Pan Tandoori Chicken](https://recipes.ratcliffefamily.org/images/sheet-pan-tandoori-chicken.jpg)
+![Sheet Pan Tandoori Chicken](images/sheet-pan-tandoori-chicken.jpg)
 
 ## ingredients
 

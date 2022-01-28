@@ -1,6 +1,6 @@
 # Joe’s Special Scramble
 
-![Joe’s Special Scramble](https://recipes.ratcliffefamily.org/images/joes-special-scramble.jpg)
+![Joe’s Special Scramble](images/joes-special-scramble.jpg)
 
 ## ingredients
 

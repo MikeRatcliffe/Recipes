@@ -1,6 +1,6 @@
 # Curry - Vegetable Madras
 
-![Curry - Vegetable Madras](https://recipes.ratcliffefamily.org/images/curry-—-vegetable-madras.jpg)
+![Curry - Vegetable Madras](images/curry-—-vegetable-madras.jpg)
 
 ## ingredients
 

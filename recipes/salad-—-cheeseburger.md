@@ -1,6 +1,6 @@
 # Salad - Cheeseburger
 
-![Salad - Cheeseburger](https://recipes.ratcliffefamily.org/images/salad-—-cheeseburger.jpg)
+![Salad - Cheeseburger](images/salad-—-cheeseburger.jpg)
 
 ## ingredients
 

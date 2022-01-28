@@ -1,6 +1,6 @@
 # Salad - Shrimp
 
-![Salad - Egg](https://recipes.ratcliffefamily.org/images/salad-—-shrimp.jpg)
+![Salad - Egg](images/salad-—-shrimp.jpg)
 
 ## ingredients
 

@@ -1,6 +1,6 @@
 # Mango Lassi
 
-![Mango Lassi](https://recipes.ratcliffefamily.org/images/lassi-mango.jpg)
+![Mango Lassi](images/lassi-mango.jpg)
 
 ## ingredients
 

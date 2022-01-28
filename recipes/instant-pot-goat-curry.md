@@ -1,6 +1,6 @@
 # Instant Pot Goat Curry
 
-![Instant Pot Goat Curry](https://recipes.ratcliffefamily.org/images/instant-pot-goat-curry.jpg)
+![Instant Pot Goat Curry](images/instant-pot-goat-curry.jpg)
 
 ## ingredients
 

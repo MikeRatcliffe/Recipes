@@ -1,6 +1,6 @@
 # Salad - Antipasto
 
-![Salad - Antipasto](https://recipes.ratcliffefamily.org/images/salad-—-antipasto.jpg)
+![Salad - Antipasto](images/salad-—-antipasto.jpg)
 
 ## ingredients
 

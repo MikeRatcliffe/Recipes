@@ -1,6 +1,6 @@
 # Soup - Simple Egg Drop Soup
 
-![Soup - Simple Egg Drop Soup](https://recipes.ratcliffefamily.org/images/soup-—-simple-egg-drop-soup.jpg)
+![Soup - Simple Egg Drop Soup](images/soup-—-simple-egg-drop-soup.jpg)
 
 ## ingredients
 

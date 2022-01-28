@@ -1,6 +1,6 @@
 # Crispy Roast Potatoes
 
-![Crispy Roast Potatoes](https://recipes.ratcliffefamily.org/images/crispy-roast-potatoes.jpg)
+![Crispy Roast Potatoes](images/crispy-roast-potatoes.jpg)
 
 ## ingredients
 

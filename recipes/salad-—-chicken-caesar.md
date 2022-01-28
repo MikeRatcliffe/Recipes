@@ -1,6 +1,6 @@
 # Salad - Chicken Caesar
 
-![Salad - Chicken Caesar](https://recipes.ratcliffefamily.org/images/salad-—-chicken-caesar.jpg)
+![Salad - Chicken Caesar](images/salad-—-chicken-caesar.jpg)
 
 ## ingredients
 

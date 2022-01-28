@@ -1,6 +1,6 @@
 # Easy Chicken Tinga
 
-![Easy Chicken Tinga](https://recipes.ratcliffefamily.org/images/easy-chicken-tinga.jpg)
+![Easy Chicken Tinga](images/easy-chicken-tinga.jpg)
 
 ## ingredients
 

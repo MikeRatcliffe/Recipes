@@ -1,6 +1,6 @@
 # Sonoran Hot Dogs
 
-![Sonoran Hot Dogs](https://recipes.ratcliffefamily.org/images/sonoran-hot-dogs.jpg)
+![Sonoran Hot Dogs](images/sonoran-hot-dogs.jpg)
 
 ## ingredients
 

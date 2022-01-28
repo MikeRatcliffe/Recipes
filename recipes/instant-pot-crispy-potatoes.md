@@ -1,6 +1,6 @@
 # Instant Pot Crispy Potatoes
 
-![Instant Pot Crispy Potatoes](https://recipes.ratcliffefamily.org/images/instant-pot-crispy-potatoes.jpg)
+![Instant Pot Crispy Potatoes](images/instant-pot-crispy-potatoes.jpg)
 
 ## ingredients
 

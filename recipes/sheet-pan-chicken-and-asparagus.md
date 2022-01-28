@@ -1,6 +1,6 @@
 # Sheet Pan Chicken and Asparagus
 
-![Sheet Pan Chicken and Asparagus](https://recipes.ratcliffefamily.org/images/sheet-pan-chicken-and-asparagus.jpg)
+![Sheet Pan Chicken and Asparagus](images/sheet-pan-chicken-and-asparagus.jpg)
 
 ## ingredients
 

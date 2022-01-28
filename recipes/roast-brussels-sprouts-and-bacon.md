@@ -1,6 +1,6 @@
 # Roast Brussels Sprouts and Bacon
 
-![Roast Brussels Sprouts and Bacon](https://recipes.ratcliffefamily.org/images/roast-brussels-sprouts-and-bacon.jpg)
+![Roast Brussels Sprouts and Bacon](images/roast-brussels-sprouts-and-bacon.jpg)
 
 ## ingredients
 

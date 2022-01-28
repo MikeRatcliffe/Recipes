@@ -1,6 +1,6 @@
 # Kimchi
 
-![Kimchi](https://recipes.ratcliffefamily.org/images/kimchi.jpg)
+![Kimchi](images/kimchi.jpg)
 
 ## ingredients
 

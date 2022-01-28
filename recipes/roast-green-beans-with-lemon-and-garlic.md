@@ -1,6 +1,6 @@
 # Roast Green Beans with Lemon and Garlic
 
-![Roast Green Beans with Lemon and Garlic](https://recipes.ratcliffefamily.org/images/roast-green-beans-with-lemon-and-garlic.jpg)
+![Roast Green Beans with Lemon and Garlic](images/roast-green-beans-with-lemon-and-garlic.jpg)
 
 ## ingredients
 

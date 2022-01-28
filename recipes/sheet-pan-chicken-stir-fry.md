@@ -1,6 +1,6 @@
 # Sheet Pan Chicken Stir-Fry
 
-![Sheet Pan Chicken Stir-Fry](https://recipes.ratcliffefamily.org/images/sheet-pan-chicken-stir-fry.jpg)
+![Sheet Pan Chicken Stir-Fry](images/sheet-pan-chicken-stir-fry.jpg)
 
 ## ingredients
 

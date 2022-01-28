@@ -1,6 +1,6 @@
 # Salad - Beetroot and Cucumber
 
-![Salad - Beetroot and Cucumber](https://recipes.ratcliffefamily.org/images/salad-—-beetroot-and-cucumber.jpg)
+![Salad - Beetroot and Cucumber](images/salad-—-beetroot-and-cucumber.jpg)
 
 ## ingredients
 

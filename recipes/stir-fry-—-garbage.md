@@ -1,6 +1,6 @@
 # Stir Fry - Garbage
 
-![Stir Fry - Garbage](https://recipes.ratcliffefamily.org/images/stir-fry-—-garbage.jpg)
+![Stir Fry - Garbage](images/stir-fry-—-garbage.jpg)
 
 ## ingredients
 

@@ -1,6 +1,6 @@
 # Curry - Chicken Madras
 
-![Curry - Chicken Madras](https://recipes.ratcliffefamily.org/images/curry-—-chicken-madras.jpg)
+![Curry - Chicken Madras](images/curry-—-chicken-madras.jpg)
 
 ## ingredients
 

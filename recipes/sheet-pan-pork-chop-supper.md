@@ -1,6 +1,6 @@
 # Sheet Pan Pork Chop Supper
 
-![Sheet Pan Pork Chop Supper](https://recipes.ratcliffefamily.org/images/sheet-pan-pork-chop-supper.jpg)
+![Sheet Pan Pork Chop Supper](images/sheet-pan-pork-chop-supper.jpg)
 
 ## ingredients
 

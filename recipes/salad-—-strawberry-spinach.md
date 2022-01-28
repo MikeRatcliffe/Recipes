@@ -1,6 +1,6 @@
 # Salad - Strawberry Spinach
 
-![Salad - Strawberry Spinach](https://recipes.ratcliffefamily.org/images/salad-—-strawberry-spinach.jpg)
+![Salad - Strawberry Spinach](images/salad-—-strawberry-spinach.jpg)
 
 ## ingredients
 

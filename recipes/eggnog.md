@@ -1,6 +1,6 @@
 # Eggnog
 
-![Eggnog](https://recipes.ratcliffefamily.org/images/eggnog.jpg)
+![Eggnog](images/eggnog.jpg)
 
 ## ingredients
 

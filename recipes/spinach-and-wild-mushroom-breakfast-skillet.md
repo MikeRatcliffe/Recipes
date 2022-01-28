@@ -1,6 +1,6 @@
 # Spinach and Wild Mushroom Breakfast Skillet
 
-![Spinach and Wild Mushroom Breakfast Skillet](https://recipes.ratcliffefamily.org/images/spinach-and-wild-mushroom-breakfast-skillet.jpg)
+![Spinach and Wild Mushroom Breakfast Skillet](images/spinach-and-wild-mushroom-breakfast-skillet.jpg)
 
 ## ingredients
 

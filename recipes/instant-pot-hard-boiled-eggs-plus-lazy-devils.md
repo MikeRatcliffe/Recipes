@@ -1,6 +1,6 @@
 # Instant Pot Hard "Boiled" Eggs & Lazy Devils
 
-![Instant Pot Hard "Boiled" Eggs & Lazy Devils](https://recipes.ratcliffefamily.org/images/instant-pot-hard-boiled-eggs-plus-lazy-devils.jpg)
+![Instant Pot Hard "Boiled" Eggs & Lazy Devils](images/instant-pot-hard-boiled-eggs-plus-lazy-devils.jpg)
 
 ## ingredients
 

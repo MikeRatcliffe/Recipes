@@ -1,6 +1,6 @@
 # Desert - Eton Mess
 
-![Desert - Eton Mess](https://recipes.ratcliffefamily.org/images/desert-—-eton-mess.jpg)
+![Desert - Eton Mess](images/desert-—-eton-mess.jpg)
 
 ## ingredients
 

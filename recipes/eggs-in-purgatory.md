@@ -1,6 +1,6 @@
 # Eggs in Purgatory
 
-![Eggs in Purgatory](https://recipes.ratcliffefamily.org/images/eggs-in-purgatory.jpg)
+![Eggs in Purgatory](images/eggs-in-purgatory.jpg)
 
 ## ingredients
 

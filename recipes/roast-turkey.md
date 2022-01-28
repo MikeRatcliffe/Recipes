@@ -1,6 +1,6 @@
 # Roast Turkey
 
-![Roast Turkey](https://recipes.ratcliffefamily.org/images/roast-turkey.jpg)
+![Roast Turkey](images/roast-turkey.jpg)
 
 ## ingredients
 

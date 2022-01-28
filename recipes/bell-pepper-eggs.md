@@ -1,6 +1,6 @@
 # Bell Pepper Eggs
 
-![Bell Pepper Eggs](https://recipes.ratcliffefamily.org/images/bell-pepper-eggs.jpg)
+![Bell Pepper Eggs](images/bell-pepper-eggs.jpg)
 
 ## ingredients
 

@@ -1,6 +1,6 @@
 # Cauliflower Mashed Potatoes
 
-![Cauliflower Mashed Potatoes](https://recipes.ratcliffefamily.org/images/cauliflower-mashed-potatoes.jpg)
+![Cauliflower Mashed Potatoes](images/cauliflower-mashed-potatoes.jpg)
 
 ## ingredients
 

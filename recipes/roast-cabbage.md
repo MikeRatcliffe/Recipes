@@ -1,6 +1,6 @@
 # Roast Cabbage
 
-![Roast Cabbage](https://recipes.ratcliffefamily.org/images/roast-cabbage.jpg)
+![Roast Cabbage](images/roast-cabbage.jpg)
 
 ## ingredients
 

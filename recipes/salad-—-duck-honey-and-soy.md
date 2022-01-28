@@ -1,6 +1,6 @@
 # Salad - Duck, Honey & Soy
 
-![Salad - Duck, Honey & Soy](https://recipes.ratcliffefamily.org/images/salad-—-duck-honey-and-soy.jpg)
+![Salad - Duck, Honey & Soy](images/salad-—-duck-honey-and-soy.jpg)
 
 ## ingredients
 
