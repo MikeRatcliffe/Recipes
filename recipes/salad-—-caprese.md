@@ -1,6 +1,6 @@
 # Salad - Caprese
 
-![Salad - Caprese](images/salad-—-caprese.jpg)
+![Salad - Caprese](https://recipes.ratcliffefamily.org/images/salad-—-caprese.jpg)
 
 ## ingredients
 

@@ -1,6 +1,6 @@
 # Instant Pot Chicken Stew
 
-![Instant Pot Chicken Stew](images/instant-pot-chicken-stew.jpg)
+![Instant Pot Chicken Stew](https://recipes.ratcliffefamily.org/images/instant-pot-chicken-stew.jpg)
 
 ## ingredients
 

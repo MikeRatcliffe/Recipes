@@ -1,6 +1,6 @@
 # Instant Pot Atakilt Wat (Ethiopian Cabbage Stew)
 
-![Instant Pot Atakilt Wat (Ethiopian Cabbage Stew)](images/instant-pot-atakilt-wat.jpg)
+![Instant Pot Atakilt Wat (Ethiopian Cabbage Stew)](https://recipes.ratcliffefamily.org/images/instant-pot-atakilt-wat.jpg)
 
 ## ingredients
 

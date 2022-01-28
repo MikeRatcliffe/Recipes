@@ -1,19 +1,19 @@
 # Kimchi
 
-![Kimchi](images/kimchi.jpg)
+![Kimchi](https://recipes.ratcliffefamily.org/images/kimchi.jpg)
 
 ## ingredients
 
-- 1kg chinese leaf
+- 1 kg chinese leaf (cut into 2 x 1" pieces)
 - Salt
-- 6 spring onions cut into 2" pieces, greens and whites separated
-- 2" fresh ginger finely sliced
-- 2 medium apples or pears (250g), peeled, cored and roughly chopped
-- 60ml fish sauce
-- 2 tablespoons korean chili flakes
-- 1 large carrot, cut into 1/4" coins
+- 6 spring onions (cut into 2" pieces, greens and whites separated)
+- 2" fresh ginger (peeled and finely sliced)
+- Medium apples or pears (peeled, cored and roughly chopped)
+- 2 tsp fish sauce
+- 2 tbsp korean chili flakes (gochugaru)
+- 1 large carrot (cut into 1/4" coins)
 - Small red pepper, cut into matchsticks
-- 6 cloves garlic, peeled and thinly sliced
+- 3 cloves garlic, peeled and thinly sliced
 
 ## steps
 

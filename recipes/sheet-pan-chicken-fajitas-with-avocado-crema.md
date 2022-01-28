@@ -1,6 +1,6 @@
 # Sheet Pan Chicken Fajitas with Avocado Crema
 
-![Sheet Pan Chicken Fajitas with Avocado Crema](images/sheet-pan-chicken-fajitas-with-avocado-crema.jpg)
+![Sheet Pan Chicken Fajitas with Avocado Crema](https://recipes.ratcliffefamily.org/images/sheet-pan-chicken-fajitas-with-avocado-crema.jpg)
 
 ## ingredients
 

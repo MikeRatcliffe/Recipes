@@ -1,6 +1,6 @@
 # Garlic Cauliflower Mashed Potatoes
 
-![Garlic Cauliflower Mashed Potatoes](images/garlic-cauliflower-mashed-potatoes.jpg)
+![Garlic Cauliflower Mashed Potatoes](https://recipes.ratcliffefamily.org/images/garlic-cauliflower-mashed-potatoes.jpg)
 
 ## ingredients
 

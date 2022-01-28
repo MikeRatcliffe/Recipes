@@ -1,6 +1,6 @@
 # Instant Pot Tandoori Chicken
 
-![Instant Pot Tandoori Chicken](images/instant-pot-tandoori-chicken.jpg)
+![Instant Pot Tandoori Chicken](https://recipes.ratcliffefamily.org/images/instant-pot-tandoori-chicken.jpg)
 
 ## ingredients
 

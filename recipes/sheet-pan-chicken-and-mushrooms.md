@@ -1,6 +1,6 @@
 # Sheet Pan Chicken and Mushrooms
 
-![Sheet Pan Chicken and Mushrooms](images/sheet-pan-chicken-and-mushrooms.jpg)
+![Sheet Pan Chicken and Mushrooms](https://recipes.ratcliffefamily.org/images/sheet-pan-chicken-and-mushrooms.jpg)
 
 ## ingredients
 

@@ -1,6 +1,6 @@
 # Houmous
 
-![Houmous](images/houmous.jpg)
+![Houmous](https://recipes.ratcliffefamily.org/images/houmous.jpg)
 
 ## ingredients
 

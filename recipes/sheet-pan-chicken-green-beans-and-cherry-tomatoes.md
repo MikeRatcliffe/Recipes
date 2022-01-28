@@ -1,6 +1,6 @@
 # Sheet Pan Chicken, Green Beans and Cherry Tomatoes
 
-![Sheet Pan Chicken, Green Beans and Cherry Tomatoes](images/sheet-pan-chicken-green-beans-and-cherry-tomatoes.jpg)
+![Sheet Pan Chicken, Green Beans and Cherry Tomatoes](https://recipes.ratcliffefamily.org/images/sheet-pan-chicken-green-beans-and-cherry-tomatoes.jpg)
 
 ## ingredients
 

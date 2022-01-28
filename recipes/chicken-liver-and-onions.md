@@ -1,6 +1,6 @@
 # Chicken Liver and Onions
 
-![Chicken Liver and Onions](images/chicken-liver-and-onions.jpg)
+![Chicken Liver and Onions](https://recipes.ratcliffefamily.org/images/chicken-liver-and-onions.jpg)
 
 ## ingredients
 

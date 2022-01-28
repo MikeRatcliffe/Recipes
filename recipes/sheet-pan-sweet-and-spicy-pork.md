@@ -1,6 +1,6 @@
 # Sheet Pan Sweet and Spicy Pork
 
-![Sheet Pan Sweet and Spicy Pork](images/sheet-pan-sweet-and-spicy-pork.jpg)
+![Sheet Pan Sweet and Spicy Pork](https://recipes.ratcliffefamily.org/images/sheet-pan-sweet-and-spicy-pork.jpg)
 
 ## ingredients
 

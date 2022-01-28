@@ -1,6 +1,6 @@
 # Salad - Tuna
 
-![Salad - Tuna](images/salad-—-tuna.jpg)
+![Salad - Tuna](https://recipes.ratcliffefamily.org/images/salad-—-tuna.jpg)
 
 ## ingredients
 

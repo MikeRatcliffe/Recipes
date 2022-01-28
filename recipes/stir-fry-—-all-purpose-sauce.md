@@ -1,6 +1,6 @@
 # Stir Fry - All-Purpose Sauce
 
-![Stir Fry - All-Purpose Sauce](images/stir-fry-—-all-purpose-sauce.jpg)
+![Stir Fry - All-Purpose Sauce](https://recipes.ratcliffefamily.org/images/stir-fry-—-all-purpose-sauce.jpg)
 
 ## ingredients
 

@@ -1,6 +1,6 @@
 # Salad - Shrimpo de Gallo
 
-![Salad - Shrimpo de Gallo](images/salad-—-shrimpo-de-gallo.jpg)
+![Salad - Shrimpo de Gallo](https://recipes.ratcliffefamily.org/images/salad-—-shrimpo-de-gallo.jpg)
 
 ## ingredients
 

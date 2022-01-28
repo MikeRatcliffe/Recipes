@@ -1,6 +1,6 @@
 # Sheet Pan Teriyaki Salmon
 
-![Sheet Pan Teriyaki Salmon](images/sheet-pan-teriyaki-salmon.jpg)
+![Sheet Pan Teriyaki Salmon](https://recipes.ratcliffefamily.org/images/sheet-pan-teriyaki-salmon.jpg)
 
 ## ingredients
 

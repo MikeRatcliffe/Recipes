@@ -1,6 +1,6 @@
 # Stir Fry - Chinese Pork Belly with Brussels Sprouts
 
-![Stir Fry - Chinese Pork Belly with Brussels Sprouts](images/stir-fry-—-chinese-pork-belly-with-brussels-sprouts.jpg)
+![Stir Fry - Chinese Pork Belly with Brussels Sprouts](https://recipes.ratcliffefamily.org/images/stir-fry-—-chinese-pork-belly-with-brussels-sprouts.jpg)
 
 ## ingredients
 

@@ -1,6 +1,6 @@
 # Stir Fry - Broccoli
 
-![Stir Fry - Broccoli](images/stir-fry-—-broccoli.jpg)
+![Stir Fry - Broccoli](https://recipes.ratcliffefamily.org/images/stir-fry-—-broccoli.jpg)
 
 ## ingredients
 

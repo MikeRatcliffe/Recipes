@@ -1,6 +1,6 @@
 # Chili Con Carne
 
-![Chili Con Carne](images/chili-con-carne.jpg)
+![Chili Con Carne](https://recipes.ratcliffefamily.org/images/chili-con-carne.jpg)
 
 ## ingredients
 

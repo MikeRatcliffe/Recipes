@@ -1,6 +1,6 @@
 # Bombay Potatoes
 
-![Bombay Potatoes](images/bombay-potatoes.jpg)
+![Bombay Potatoes](https://recipes.ratcliffefamily.org/images/bombay-potatoes.jpg)
 
 ## ingredients
 

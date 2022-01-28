@@ -1,6 +1,6 @@
 # Stir Fry - Sautéed Spinach with Mushrooms
 
-![Stir Fry - Sautéed Spinach with Mushrooms](images/stir-fry-—-sauteed-spinach-with-mushrooms.jpg)
+![Stir Fry - Sautéed Spinach with Mushrooms](https://recipes.ratcliffefamily.org/images/stir-fry-—-sauteed-spinach-with-mushrooms.jpg)
 
 ## ingredients
 

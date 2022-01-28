@@ -1,6 +1,6 @@
 # Whole Roast Cauliflower
 
-![Whole Roast Cauliflower](images/whole-roast-cauliflower.jpg)
+![Whole Roast Cauliflower](https://recipes.ratcliffefamily.org/images/whole-roast-cauliflower.jpg)
 
 ## ingredients
 

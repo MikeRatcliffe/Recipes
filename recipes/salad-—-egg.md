@@ -1,6 +1,6 @@
 # Salad - Egg
 
-![Salad - Egg](images/salad-—-egg.jpg)
+![Salad - Egg](https://recipes.ratcliffefamily.org/images/salad-—-egg.jpg)
 
 ## ingredients
 

@@ -1,6 +1,6 @@
 # Cheesy Cabbage Sausage Skillet
 
-![Cheesy Cabbage Sausage Skillet](images/cheesy-cabbage-sausage-skillet.jpg)
+![Cheesy Cabbage Sausage Skillet](https://recipes.ratcliffefamily.org/images/cheesy-cabbage-sausage-skillet.jpg)
 
 ## ingredients
 

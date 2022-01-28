@@ -1,6 +1,6 @@
 # Instant Pot Kalua Pig
 
-![Instant Pot Kalua Pig](images/instant-pot-kalua-pig.jpg)
+![Instant Pot Kalua Pig](https://recipes.ratcliffefamily.org/images/instant-pot-kalua-pig.jpg)
 
 ## ingredients
 

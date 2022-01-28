@@ -1,6 +1,6 @@
 # Salad - Greek
 
-![Salad - Greek](images/salad-—-greek.jpg)
+![Salad - Greek](https://recipes.ratcliffefamily.org/images/salad-—-greek.jpg)
 
 ## ingredients
 

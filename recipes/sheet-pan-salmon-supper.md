@@ -1,6 +1,6 @@
 # Sheet Pan Salmon Supper
 
-![Sheet Pan Salmon Supper](images/sheet-pan-salmon-supper.jpg)
+![Sheet Pan Salmon Supper](https://recipes.ratcliffefamily.org/images/sheet-pan-salmon-supper.jpg)
 
 ## ingredients
 

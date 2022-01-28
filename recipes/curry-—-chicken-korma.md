@@ -1,6 +1,6 @@
 # Curry - Chicken Korma
 
-![Curry - Chicken Korma](images/curry-—-chicken-korma.jpg)
+![Curry - Chicken Korma](https://recipes.ratcliffefamily.org/images/curry-—-chicken-korma.jpg)
 
 ## ingredients
 

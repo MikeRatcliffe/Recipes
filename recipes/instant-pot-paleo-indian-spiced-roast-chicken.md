@@ -1,6 +1,6 @@
 # Instant Pot Paleo Indian Spiced Roast Chicken
 
-![Instant Pot Paleo Indian Spiced Roast Chicken](images/instant-pot-paleo-indian-spiced-roast-chicken.jpg)
+![Instant Pot Paleo Indian Spiced Roast Chicken](https://recipes.ratcliffefamily.org/images/instant-pot-paleo-indian-spiced-roast-chicken.jpg)
 
 ## ingredients
 

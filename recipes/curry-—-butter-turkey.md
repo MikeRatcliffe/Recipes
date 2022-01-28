@@ -1,6 +1,6 @@
 # Curry - Butter Turkey
 
-![Curry - Butter Turkey](images/curry-—-butter-turkey.jpg)
+![Curry - Butter Turkey](https://recipes.ratcliffefamily.org/images/curry-—-butter-turkey.jpg)
 
 ## ingredients
 

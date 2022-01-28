@@ -1,6 +1,6 @@
 # Ham & Cheese Breakfast Roll-Ups
 
-![Ham & Cheese Breakfast Roll-Ups](images/ham-and-cheese-breakfast-roll-ups.jpg)
+![Ham & Cheese Breakfast Roll-Ups](https://recipes.ratcliffefamily.org/images/ham-and-cheese-breakfast-roll-ups.jpg)
 
 ## ingredients
 

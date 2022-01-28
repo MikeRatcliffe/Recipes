@@ -1,6 +1,6 @@
 # Fried Pork Belly With Cauliflower
 
-![Fried Pork Belly With Cauliflower](images/fried-pork-belly-with-cauliflower.jpg)
+![Fried Pork Belly With Cauliflower](https://recipes.ratcliffefamily.org/images/fried-pork-belly-with-cauliflower.jpg)
 
 ## ingredients
 
