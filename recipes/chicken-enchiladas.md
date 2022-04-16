@@ -8,10 +8,10 @@ Sauce:
 
 - 2 tbsp olive oil
 - 2 tbsp flour
-- 1/2 tbsp Chili
-- 1/2 tsp garlic powder
-- 1/2 tsp ground cumin
-- 1/4 tsp dried oregano
+- 1 tsp Chili
+- 1 tsp garlic powder
+- 1 tsp ground cumin
+- 1/2 tsp dried oregano
 - 500ml chicken or vegetable stock
 - Fine sea salt, to taste
 
@@ -35,7 +35,7 @@ Sauce:
 2. Add flour and cook for 1 minute, whisking constantly.
 3. Add in the chili powder, garlic powder, cumin and oregano and cook for 1 more minute, whisking constantly.
 4. Gradually pour in the stock, whisking constantly to combine until no lumps remain.
-5. Simmerfor about 10-15 minutes, uncovered, until the sauce has slightly thickened.
+5. Simmer for about 10-15 minutes, uncovered, until the sauce has slightly thickened.
 6. Give the sauce a taste and season with salt, as needed.
 
 Enchiladas:
