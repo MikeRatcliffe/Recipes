@@ -6,13 +6,13 @@
 
 Sauce:
 
-- 2 tbsp olive oil
-- 2 tbsp flour
-- 1 tsp Chili
-- 1 tsp garlic powder
-- 1 tsp ground cumin
-- 1/2 tsp dried oregano
-- 500ml chicken or vegetable stock
+- 4 tbsp olive oil
+- 4 tbsp flour
+- 1/4 tsp Chili
+- 2 tsp garlic powder
+- 2 tsp ground cumin
+- 1 tsp dried oregano
+- 1 litre chicken or vegetable stock
 - Fine sea salt, to taste
 
 Enchiladas:
@@ -52,7 +52,7 @@ Enchiladas:
 10. Sprinkle with 1/3 cup cheese.
 11. Roll up tortilla and place in a greased 20 x 30cm baking tray.
 12. Assemble the remaining enchiladas and add them to the baking tray.
-13. Spread any remaining sauce evenly over the top of the enchiladas, followed by any extra cheese.
+13. Spread any remaining chicken and sauce evenly over the top of the enchiladas, followed by any extra cheese.
 14. Bake uncovered for 20 minutes, until the enchiladas are cooked through and the tortillas are slightly crispy on the outside.
 
 ## based on
