@@ -12,6 +12,16 @@ Sushi Rice:
 - 5 tbsp granulated sugar
 - 2 teaspoon salt
 
+Filling Ideas:
+
+- Tuna
+- Teriyaki chicken
+- Salmon
+- Avocado
+- Cucumber
+- Peppers
+- Carrots
+
 ## steps
 
 Sushi Rice:
@@ -31,11 +41,10 @@ Sushi:
 1. Place your nori sheet longest edge at the bottom of your sushi mat, shiny side facing down.
 2. Wet your hands to prevent the rice from sticking.
 3. Place a thin layer of rice across the sheet leaving about a 2.5 cm gap at the top.
-4. Make sure your ingredients are thinly sliced and a similar length, so they can be lined up on the rice. Place your filling half way up the rice and let it hang over the sides, to make sure the whole roll is filled. 
-5. Add your filling of choice, we love tuna, teriyaki chicken or salmon with avocado and/or cucumber. Or a vegetarian roll with peppers, avocado and carrots.
-6. Make sure you have some water to hand. Take the bottom of the sheet and roll it up so that the bottom meets the top line of the rice.
-7. Try to make one full roll of the rice keeping it tight, hold the roll in place. Then wet your fingers with the water and slightly dampen the remaining edge of the nori sheet then continue to roll the sheet, sealing the roll.
-8. Once you have made up all your rolls, make sure your knife is sharp and run the edge of the knife under a running tap. Cut the roll in half then keep cutting the pieces in half again until you have 8 pieces. Keep running the knife under a little water in between cuts to prevent the rice from sticking to it.
+4. Make sure your ingredients are thinly sliced and a similar length, so they can be lined up on the rice. Place your filling half way up the rice and let it hang over the sides, to make sure the whole roll is filled.
+5. Make sure you have some water to hand. Take the bottom of the sheet and roll it up so that the bottom meets the top line of the rice.
+6. Try to make one full roll of the rice keeping it tight, hold the roll in place. Then wet your fingers with the water and slightly dampen the remaining edge of the nori sheet then continue to roll the sheet, sealing the roll.
+7. Once you have made up all your rolls, make sure your knife is sharp and run the edge of the knife under a running tap. Cut the roll in half then keep cutting the pieces in half again until you have 8 pieces. Keep running the knife under a little water in between cuts to prevent the rice from sticking to it.
 
 ## based on
 
