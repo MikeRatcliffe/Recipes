@@ -25,3 +25,7 @@ Marinade:
 3. Using a brush, coat the chicken over and under the skin with the prepared marinade.
 4. Add the marinated chicken to the instant pot.
 5. Pressure cook for 20 minutes and then let pressure release naturally.
+
+## based on
+
+- https://happietrio.com/instant-pot-whole-chicken-roast
