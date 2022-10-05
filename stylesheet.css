@@ -25,9 +25,13 @@ em {
   font-style: italic;
 }
 
+#heroimage {
+  position: relative;
+}
+
 #heroimage img {
-  border: 1px solid rgb(200,200,200);
   position: absolute;
+  border: 1px solid rgb(200,200,200);
   right: 0;
   top: 7px;
   max-height: 140px;
