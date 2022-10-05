@@ -184,9 +184,6 @@ ol {
   font-size: 1em;
   line-height: 1.3em;
 }
-p {
-  /*font-style: italic;*/
-}
 p::first-letter,
 #ingredients li::first-letter,
 #steps li::first-letter,
@@ -419,6 +416,17 @@ img {
   }
   #steps {
     width: 66%;
+  }
+}
+
+@media screen and (min-width: 500px) {
+  img {
+    float: none;
+  }
+
+  #title {
+    padding-bottom: 0;
+    border-bottom: 0 none;
   }
 }
 
