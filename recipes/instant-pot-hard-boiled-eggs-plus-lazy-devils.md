@@ -29,14 +29,11 @@ Eggs:
 Lazy Devils:
 
 - Simply cut the hard cooked eggs in half, slather on your favorite spread (e.g., mayo, guacamole, tonnato sauce, etc.) and adorn with your favorite toppings.
-
-## notes
-
-- Here are some of my faves:
-  - Guacamole & Sliced Radishes
-  - Mayonnaise, Furikake & Sliced Persian Cucumbers
-  - Chipotle Lime Mayonnaise, Furikake & Sliced spring onions
-  - Chipotle Lime Mayonnaise, Prosciutto, Sliced Cucumbers & spring onions
+  - Here are some of my faves:
+    - Guacamole & Sliced Radishes
+    - Mayonnaise, Furikake & Sliced Persian Cucumbers
+    - Chipotle Lime Mayonnaise, Furikake & Sliced spring onions
+    - Chipotle Lime Mayonnaise, Prosciutto, Sliced Cucumbers & spring onions
 
 ## based on
 
