@@ -6,9 +6,7 @@
 
 - Eggs
 
-## steps
-
-Lazy Devils:
+Lazy Devil Fillings:
 
 - Chipotle Lime Mayonnaise
 - Cucumbers (Sliced)
@@ -17,6 +15,8 @@ Lazy Devils:
 - Mayonnaise
 - Radishes (Sliced)
 - Spring onions (Sliced)
+
+## steps
 
 Eggs:
 
