@@ -23,3 +23,7 @@
 5. After the liquid has cooked off, toss in the garlic and stir everything around until fragrant (around 30 seconds).
 6. Add the lamb back into the pot along with the Rogan Josh seasoning. Stir and make sure everything is well distributed.
 7. Pour in the coconut milk and water. The liquid level should be about 3/4 the way up the meat and veggies. Cover your pot and stick it in your oven until the meat is nice and tender (about 1.5 to 2 hours).
+
+## based on
+
+- https://nomnompaleo.com/post/3214994304/rogan-josh-lamb-stew

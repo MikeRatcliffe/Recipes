@@ -32,3 +32,7 @@ Curry Paste:
 6. Pour in the coconut milk and 200ml of boiling water, crumble in the stock cube and add the lime leaves. Turn the heat up and bring gently to the boil, then simmer for 1O minutes, or until reduced slightly.
 7. Stir in the chicken and mushrooms, reduce the heat to low and cook for a further 5 minutes, or until the chicken is cooked through, adding the mangetout for the final 2 minutes.
 8. Season carefully to taste with sea salt and black pepper. Pick, roughly chop and stir through the basil leaves and remaining coriander leaves.
+
+## based on
+
+- https://www.jamieoliver.com/recipes/chicken-recipes/thai-green-chicken-curry/

@@ -1,7 +1,5 @@
 # Chicken Enchiladas
 
-![Chicken Enchiladas](images/chicken-enchiladas.jpg)
-
 ## ingredients
 
 Sauce:

@@ -32,3 +32,7 @@ After Veg is added:
 4. Add diced tomatoes and mix well.
 5. Add the vegetables, salt pepper and coconut milk.
 6. Cover with a lid and simmer for 25 minutes.
+
+## based on
+
+- https://desicart.co.uk/blogs/shopping/authentic-madras-chicken-curry

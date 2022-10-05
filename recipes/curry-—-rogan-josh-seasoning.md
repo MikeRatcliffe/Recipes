@@ -19,3 +19,7 @@
 
 1. Combine all ingredients in a bowl and mix well.
 2. Store your Rogan Josh seasoning in an airtight container and use as needed.
+
+## based on
+
+- https://www.pepperscale.com/rogan-josh-seasoning/
