@@ -27,13 +27,6 @@ Lazy Devils:
 
 1. Simply cut the hard cooked eggs in half, slather on your favorite spread (e.g., mayo, guacamole, tonnato sauce, etc.) and adorn with your favorite toppings.
 
-  - Suggested fillings:
-
-    - Guacamole & Sliced Radishes
-    - Mayonnaise, Sliced Persian Cucumbers
-    - Chipotle Lime Mayonnaise & Sliced Spring Onions
-    - Chipotle Lime Mayonnaise, Prosciutto, Sliced Cucumbers & Spring Onions
-
 ## based on
 
 - https://www.delish.com/food-news/a26116810/instant-pot-5-5-5-hard-boiled-eggs/
