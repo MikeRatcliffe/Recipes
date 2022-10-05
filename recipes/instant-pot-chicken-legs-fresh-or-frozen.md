@@ -1,7 +1,5 @@
 # Instant Pot Chicken Legs (Fresh or Frozen)
 
-![Instant Pot Chicken Legs (Fresh or Frozen)](images/instant-pot-chicken-legs-fresh-or-frozen.jpg)
-
 ## ingredients
 
 - 240ml water (1 cup)

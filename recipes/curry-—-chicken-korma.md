@@ -1,7 +1,5 @@
 # Curry - Chicken Korma
 
-![Curry - Chicken Korma](images/curry-—-chicken-korma.jpg)
-
 ## ingredients
 
 Marinade:

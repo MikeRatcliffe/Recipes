@@ -1,7 +1,5 @@
 # Stir Fry - Chicken and Broccoli
 
-![Stir Fry - Chicken and Broccoli](images/stir-fry-—-chicken-and-broccoli.jpg)
-
 ## ingredients
 
 - 120ml All-Purpose Stir-Fry Sauce

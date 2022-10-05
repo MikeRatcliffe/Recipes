@@ -1,7 +1,5 @@
 # Instant Pot - Hard Boiled Eggs
 
-![Instant Pot - Hard Boiled Eggs](images/instant-pot-hard-boiled-eggs.jpeg)
-
 ## ingredients
 
 - Eggs

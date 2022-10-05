@@ -1,7 +1,5 @@
 # Frittata
 
-![Frittata](images/frittata.jpg)
-
 ## ingredients
 
 - 6 large eggs

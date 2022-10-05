@@ -1,7 +1,5 @@
 # Instant Pot Crispy Potatoes
 
-![Instant Pot Crispy Potatoes](images/instant-pot-crispy-potatoes.jpg)
-
 ## ingredients
 
 - 450 g potatoes peeled and cut into uniform 1" cubes

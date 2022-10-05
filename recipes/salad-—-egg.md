@@ -1,7 +1,5 @@
 # Salad - Egg
 
-![Salad - Egg](images/salad-—-egg.jpg)
-
 ## ingredients
 
 - 3 tbsp mayonnaise

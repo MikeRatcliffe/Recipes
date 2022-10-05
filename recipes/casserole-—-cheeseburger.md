@@ -1,7 +1,5 @@
 # Casserole - Cheeseburger
 
-![Casserole - Cheeseburger](images/casserole-—-cheeseburger.jpg)
-
 ## ingredients
 
 - 1 teaspoon Olive Oil

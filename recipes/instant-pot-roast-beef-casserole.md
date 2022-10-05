@@ -1,7 +1,5 @@
 # Instant Pot Roast Beef Casserole
 
-![Instant Pot Roast Beef Casserole](images/instant-pot-roast-beef-casserole.jpg)
-
 ## ingredients
 
 Pot Roast:

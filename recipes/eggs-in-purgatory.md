@@ -1,7 +1,5 @@
 # Eggs in Purgatory
 
-![Eggs in Purgatory](images/eggs-in-purgatory.jpg)
-
 ## ingredients
 
 - 1 tablespoon extra virgin olive oil avocado oil, ghee, or fat of choice

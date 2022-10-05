@@ -1,7 +1,5 @@
 # NOT KETO - Easy Sugar Cookies
 
-![NOT KETO - Easy Sugar Cookies](images/zz-not-keto-easy-sugar-cookies.jpg)
-
 ## ingredients
 
 - 220 g all-purpose flour

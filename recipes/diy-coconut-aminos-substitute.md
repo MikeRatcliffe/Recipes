@@ -1,7 +1,5 @@
 # DIY Coconut Aminos Substitute
 
-![DIY Coconut Aminos Substitute](images/diy-coconut-aminos-substitute.jpg)
-
 ## ingredients
 
 - 500ml beef broth

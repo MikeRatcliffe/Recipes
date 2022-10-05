@@ -1,7 +1,5 @@
 # Curry - Butter Turkey
 
-![Curry - Butter Turkey](images/curry-—-butter-turkey.jpg)
-
 ## ingredients
 
 - 2 tablespoons oil

@@ -1,7 +1,5 @@
 # Chili Con Carne
 
-![Chili Con Carne](images/chili-con-carne.jpg)
-
 ## ingredients
 
 - 3 tbsp Olive Oil

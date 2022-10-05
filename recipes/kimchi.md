@@ -1,7 +1,5 @@
 # Kimchi
 
-![Kimchi](images/kimchi.jpg)
-
 ## ingredients
 
 - 1 kg chinese leaf (cut into 2 x 1" pieces)

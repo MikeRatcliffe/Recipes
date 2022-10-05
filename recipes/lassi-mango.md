@@ -1,7 +1,5 @@
 # Mango Lassi
 
-![Mango Lassi](images/lassi-mango.jpg)
-
 ## ingredients
 
 - 240 ml mango pulp

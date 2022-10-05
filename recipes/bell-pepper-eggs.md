@@ -1,7 +1,5 @@
 # Bell Pepper Eggs
 
-![Bell Pepper Eggs](images/bell-pepper-eggs.jpg)
-
 ## ingredients
 
 - 1 bell pepper, sliced into 1cm rings

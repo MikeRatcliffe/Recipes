@@ -1,7 +1,5 @@
 # Stir Fry - Broccoli
 
-![Stir Fry - Broccoli](images/stir-fry-—-broccoli.jpg)
-
 ## ingredients
 
 - 1kg (3 large heads) broccoli, cut into florets

@@ -1,7 +1,5 @@
 # Instant Pot Tandoori Chicken
 
-![Instant Pot Tandoori Chicken](images/instant-pot-tandoori-chicken.jpg)
-
 ## ingredients
 
 - Whole chicken

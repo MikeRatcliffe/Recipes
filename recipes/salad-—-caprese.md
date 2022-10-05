@@ -1,7 +1,5 @@
 # Salad - Caprese
 
-![Salad - Caprese](images/salad-—-caprese.jpg)
-
 ## ingredients
 
 - 450g fresh mozzarella

@@ -1,7 +1,5 @@
 # Eggnog
 
-![Eggnog](images/eggnog.jpg)
-
 ## ingredients
 
 - 250 ml milk

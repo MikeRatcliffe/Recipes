@@ -1,7 +1,5 @@
 # Cauliflower Mashed Potatoes
 
-![Cauliflower Mashed Potatoes](images/cauliflower-mashed-potatoes.jpg)
-
 ## ingredients
 
 - 1 large cauliflower

@@ -1,7 +1,5 @@
 # Stir Fry - Beef
 
-![Stir Fry - Beef](images/stir-fry-—-beef.jpg)
-
 ## ingredients
 
 Sauce:

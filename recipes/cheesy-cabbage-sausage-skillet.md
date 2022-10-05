@@ -1,7 +1,5 @@
 # Cheesy Cabbage Sausage Skillet
 
-![Cheesy Cabbage Sausage Skillet](images/cheesy-cabbage-sausage-skillet.jpg)
-
 ## ingredients
 
 - 4 tbsp unsalted butter

@@ -1,7 +1,5 @@
 # 90 Second Keto Bread
 
-![90 Second Keto Bread](images/90-second-bread.jpg)
-
 ## ingredients
 
 - 3 tbsp almond flour

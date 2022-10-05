@@ -1,7 +1,5 @@
 # Salad - Shrimpo de Gallo
 
-![Salad - Shrimpo de Gallo](images/salad-—-shrimpo-de-gallo.jpg)
-
 ## ingredients
 
 - 1 tbsp extra-virgin olive oil

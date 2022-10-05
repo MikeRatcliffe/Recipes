@@ -1,7 +1,5 @@
 # Instant Pot Spiced Roast Chicken
 
-![Instant Pot Spiced Roast Chicken](images/instant-pot-spiced-roast-chicken.jpg)
-
 ## ingredients
 
 Paste:

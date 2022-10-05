@@ -1,7 +1,5 @@
 # Keto Taco Omelette
 
-![Keto Taco Omelette](images/keto-taco-omelette.jpg)
-
 ## ingredients
 
 Taco seasoning:

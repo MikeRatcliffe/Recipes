@@ -1,7 +1,5 @@
 # Instant Pot Kalua Pig
 
-![Instant Pot Kalua Pig](images/instant-pot-kalua-pig.jpg)
-
 ## ingredients
 
 - 3 slices thick-cut bacon

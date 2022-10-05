@@ -1,7 +1,5 @@
 # Roast Brussels Sprouts and Bacon
 
-![Roast Brussels Sprouts and Bacon](images/roast-brussels-sprouts-and-bacon.jpg)
-
 ## ingredients
 
 - 700 g Brussels sprouts

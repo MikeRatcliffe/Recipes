@@ -1,7 +1,5 @@
 # Stir Fry - Garbage
 
-![Stir Fry - Garbage](images/stir-fry-—-garbage.jpg)
-
 ## ingredients
 
 - 450g quick cooking veggies pre-washed e.g. baby spinach, leftover sautéed chard, frozen broccoli, grated carrots, broccoli slaw, etc.

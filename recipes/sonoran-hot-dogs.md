@@ -1,7 +1,5 @@
 # Sonoran Hot Dogs
 
-![Sonoran Hot Dogs](images/sonoran-hot-dogs.jpg)
-
 ## ingredients
 
 - 4 bacon slices

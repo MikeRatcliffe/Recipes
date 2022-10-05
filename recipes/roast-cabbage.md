@@ -1,7 +1,5 @@
 # Roast Cabbage
 
-![Roast Cabbage](images/roast-cabbage.jpg)
-
 ## ingredients
 
 - 900 g green cabbage

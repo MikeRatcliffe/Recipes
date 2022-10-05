@@ -1,7 +1,5 @@
 # Instant Pot Spicy Whole Chicken
 
-![Instant Pot Spicy Whole Chicken](images/instant-pot-spicy-whole-chicken.jpg)
-
 ## ingredients
 
 - 1.3 kg Whole Chicken

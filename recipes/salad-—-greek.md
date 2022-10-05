@@ -1,7 +1,5 @@
 # Salad - Greek
 
-![Salad - Greek](images/salad-—-greek.jpg)
-
 ## ingredients
 
 For the salad:

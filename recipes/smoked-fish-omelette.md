@@ -1,7 +1,5 @@
 # Smoked Fish Omelette
 
-![Smoked Fish Omelette](images/smoked-fish-omelette.jpg)
-
 ## ingredients
 
 - 200g smoked fish

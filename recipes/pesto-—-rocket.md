@@ -1,7 +1,5 @@
 # Pesto - Rocket
 
-![Pesto - Rocket](images/pesto-—-rocket.jpg)
-
 ## ingredients
 
 - 480ml tightly packed rocket

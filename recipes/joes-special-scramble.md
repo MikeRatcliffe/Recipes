@@ -1,7 +1,5 @@
 # Joe’s Special Scramble
 
-![Joe’s Special Scramble](images/joes-special-scramble.jpg)
-
 ## ingredients
 
 - 10 large eggs

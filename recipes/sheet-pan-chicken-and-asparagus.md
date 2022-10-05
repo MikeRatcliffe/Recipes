@@ -1,7 +1,5 @@
 # Sheet Pan Chicken and Asparagus
 
-![Sheet Pan Chicken and Asparagus](images/sheet-pan-chicken-and-asparagus.jpg)
-
 ## ingredients
 
 - 1 kg boneless, skinless chicken thighs

@@ -1,7 +1,5 @@
 # Stir Fry - All-Purpose Sauce
 
-![Stir Fry - All-Purpose Sauce](images/stir-fry-—-all-purpose-sauce.jpg)
-
 ## ingredients
 
 - 240 ml coconut aminos

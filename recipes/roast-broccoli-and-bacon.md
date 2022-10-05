@@ -1,7 +1,5 @@
 # Roast Broccoli and Bacon
 
-![Roast Broccoli and Bacon](images/roast-broccoli-and-bacon.jpg)
-
 ## ingredients
 
 - 750 g broccoli (cut into florets)

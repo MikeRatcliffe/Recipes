@@ -1,7 +1,5 @@
 # Curry - Vegetable Madras
 
-![Curry - Vegetable Madras](images/curry-—-vegetable-madras.jpg)
-
 ## ingredients
 
 Base:

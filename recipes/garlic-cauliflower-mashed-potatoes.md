@@ -1,7 +1,5 @@
 # Garlic Cauliflower Mashed Potatoes
 
-![Garlic Cauliflower Mashed Potatoes](images/garlic-cauliflower-mashed-potatoes.jpg)
-
 ## ingredients
 
 - 1 large cauliflower

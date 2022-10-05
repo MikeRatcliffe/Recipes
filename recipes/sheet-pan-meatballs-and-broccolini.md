@@ -1,7 +1,5 @@
 # Sheet Pan Meatballs and Broccolini
 
-![Sheet Pan Meatballs and Broccolini](images/sheet-pan-meatballs-and-broccolini.jpg)
-
 ## ingredients
 
 - 400 g broccolini (ends trimmed)

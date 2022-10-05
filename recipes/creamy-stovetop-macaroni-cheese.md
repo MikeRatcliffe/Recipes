@@ -1,7 +1,5 @@
 # Creamy Stovetop Macaroni Cheese
 
-![Creamy Stovetop Macaroni Cheese](images/creamy-stovetop-macaroni-cheese.jpg)
-
 ## ingredients
 
 - 450 grams macaroni

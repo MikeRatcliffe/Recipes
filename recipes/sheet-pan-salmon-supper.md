@@ -1,7 +1,5 @@
 # Sheet Pan Salmon Supper
 
-![Sheet Pan Salmon Supper](images/sheet-pan-salmon-supper.jpg)
-
 ## ingredients
 
 - 120ml rocket pesto

@@ -1,7 +1,5 @@
 # Stir Fry - Minced Beef and Broccoli
 
-![Stir Fry - Minced Beef and Broccoli](images/stir-fry-—-minced-beef-and-broccoli.png)
-
 ## ingredients
 
 - 2 tablespoons lard

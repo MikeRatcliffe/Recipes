@@ -1,7 +1,5 @@
 # Roast Turkey
 
-![Roast Turkey](images/roast-turkey.jpg)
-
 ## ingredients
 
 - 1 x 5.6 kg / 12 pounds high welfare turkey roughly 2kg meat

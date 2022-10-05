@@ -1,7 +1,5 @@
 # Instant Pot Roast Pork
 
-![Instant Pot Roast Pork](images/instant-pot-roast-pork.jpg)
-
 ## ingredients
 
 - 1 1/2 tsp salt

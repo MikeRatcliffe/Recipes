@@ -1,7 +1,5 @@
 # Instant Pot Atakilt Wat (Ethiopian Cabbage Stew)
 
-![Instant Pot Atakilt Wat (Ethiopian Cabbage Stew)](images/instant-pot-atakilt-wat.jpg)
-
 ## ingredients
 
 - 2 tablespoons ghee

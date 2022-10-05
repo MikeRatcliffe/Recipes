@@ -1,7 +1,5 @@
 # Sheet Pan Pork Chop Supper
 
-![Sheet Pan Pork Chop Supper](images/sheet-pan-pork-chop-supper.jpg)
-
 ## ingredients
 
 - 5 tbsp extra virgin olive oil

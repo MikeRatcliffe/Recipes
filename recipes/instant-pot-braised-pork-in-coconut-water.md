@@ -1,7 +1,5 @@
 # Instant Pot Braised Pork in Coconut Water
 
-![Instant Pot Braised Pork in Coconut Water](images/instant-pot-braised-pork-in-coconut-water.jpg)
-
 ## ingredients
 
 - 1 tablespoon coconut water or ghee

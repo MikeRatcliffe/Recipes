@@ -1,7 +1,5 @@
 # Salad - Duck, Honey & Soy
 
-![Salad - Duck, Honey & Soy](images/salad-—-duck-honey-and-soy.jpg)
-
 ## ingredients
 
 - 2 duck breasts (skin on)

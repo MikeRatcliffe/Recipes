@@ -1,7 +1,5 @@
 # Ham & Cheese Breakfast Roll-Ups
 
-![Ham & Cheese Breakfast Roll-Ups](images/ham-and-cheese-breakfast-roll-ups.jpg)
-
 ## ingredients
 
 - 4 large eggs

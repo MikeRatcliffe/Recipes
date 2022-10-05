@@ -1,7 +1,5 @@
 # Salad - Strawberry Spinach
 
-![Salad - Strawberry Spinach](images/salad-—-strawberry-spinach.jpg)
-
 ## ingredients
 
 - 2 tbsp fresh lemon juice

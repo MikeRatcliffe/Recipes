@@ -1,7 +1,5 @@
 # Whole Roast Cauliflower
 
-![Whole Roast Cauliflower](images/whole-roast-cauliflower.jpg)
-
 ## ingredients
 
 - 1 whole cauliflower head (about 1kg)

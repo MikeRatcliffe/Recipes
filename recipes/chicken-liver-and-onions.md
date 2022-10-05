@@ -1,7 +1,5 @@
 # Chicken Liver and Onions
 
-![Chicken Liver and Onions](images/chicken-liver-and-onions.jpg)
-
 ## ingredients
 
 - 1 large onion

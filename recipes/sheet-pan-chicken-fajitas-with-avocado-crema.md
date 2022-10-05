@@ -1,7 +1,5 @@
 # Sheet Pan Chicken Fajitas with Avocado Crema
 
-![Sheet Pan Chicken Fajitas with Avocado Crema](images/sheet-pan-chicken-fajitas-with-avocado-crema.jpg)
-
 ## ingredients
 
 - 60 ml avocado oil or olive oil

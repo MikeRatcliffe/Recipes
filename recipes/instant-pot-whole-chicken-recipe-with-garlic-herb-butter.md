@@ -1,7 +1,5 @@
 # Instant Pot Whole Chicken Recipe With Garlic Herb Butter
 
-![Instant Pot Whole Chicken Recipe With Garlic Herb Butter](images/instant-pot-whole-chicken-recipe-with-garlic-herb-butter.jpg)
-
 ## ingredients
 
 - 4 sprigs Fresh rosemary (divided)

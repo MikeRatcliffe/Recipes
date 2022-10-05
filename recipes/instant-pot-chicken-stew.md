@@ -1,7 +1,5 @@
 # Instant Pot Chicken Stew
 
-![Instant Pot Chicken Stew](images/instant-pot-chicken-stew.jpg)
-
 ## ingredients
 
 - 700g chicken preferably with skin on (about 5-6 pieces, thighs and leg pieces are best)

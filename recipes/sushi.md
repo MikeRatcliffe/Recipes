@@ -1,7 +1,5 @@
 # Sushi
 
-![Sushi](images/sushi.jpg)
-
 ## ingredients
 
 Sushi Rice:

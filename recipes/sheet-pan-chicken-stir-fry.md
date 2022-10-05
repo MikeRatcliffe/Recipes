@@ -1,7 +1,5 @@
 # Sheet Pan Chicken Stir-Fry
 
-![Sheet Pan Chicken Stir-Fry](images/sheet-pan-chicken-stir-fry.jpg)
-
 ## ingredients
 
 - 120 ml All-Purpose Stir-Fry Sauce

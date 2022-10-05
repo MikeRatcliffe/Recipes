@@ -1,7 +1,5 @@
 # Crispy Roast Potatoes
 
-![Crispy Roast Potatoes](images/crispy-roast-potatoes.jpg)
-
 ## ingredients
 
 - 1kg floury potatoes - such as Maris Piper

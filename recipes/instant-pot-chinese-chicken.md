@@ -1,7 +1,5 @@
 # Instant Pot Chinese Chicken
 
-![Instant Pot Chinese Chicken](images/instant-pot-chinese-chicken.jpg)
-
 ## ingredients
 
 - 2 teaspoons salt

@@ -1,7 +1,5 @@
 # Salad - Antipasto
 
-![Salad - Antipasto](images/salad-—-antipasto.jpg)
-
 ## ingredients
 
 For the Salad:

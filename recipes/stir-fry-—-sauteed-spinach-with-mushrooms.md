@@ -1,7 +1,5 @@
 # Stir Fry - Sautéed Spinach with Mushrooms
 
-![Stir Fry - Sautéed Spinach with Mushrooms](images/stir-fry-—-sauteed-spinach-with-mushrooms.jpg)
-
 ## ingredients
 
 - 4 pieces bacon, diced

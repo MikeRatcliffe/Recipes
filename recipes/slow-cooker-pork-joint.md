@@ -1,7 +1,5 @@
 # Slow Cooker - Pork Joint
 
-![Slow Cooker - Pork Joint](images/slow-cooker-pork-joint.jpg)
-
 ## ingredients
 
 - 1.5 kg smoked gammon (deboned)

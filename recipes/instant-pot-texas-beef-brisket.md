@@ -1,7 +1,5 @@
 # Instant Pot - Texas Beef Brisket
 
-![Instant Pot - Texas Beef Brisket](images/instant-pot-texas-beef-brisket.jpg)
-
 ## ingredients
 
 - 3 tablespoons Worcestershire sauce

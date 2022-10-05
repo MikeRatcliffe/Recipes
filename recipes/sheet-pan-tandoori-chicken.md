@@ -1,7 +1,5 @@
 # Sheet Pan Tandoori Chicken
 
-![Sheet Pan Tandoori Chicken](images/sheet-pan-tandoori-chicken.jpg)
-
 ## ingredients
 
 Tandoori Marinade:

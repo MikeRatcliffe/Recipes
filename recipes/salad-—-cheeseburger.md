@@ -1,7 +1,5 @@
 # Salad - Cheeseburger
 
-![Salad - Cheeseburger](images/salad-—-cheeseburger.jpg)
-
 ## ingredients
 
 Burgers:

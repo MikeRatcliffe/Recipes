@@ -1,7 +1,5 @@
 # Sheet Pan Teriyaki Salmon
 
-![Sheet Pan Teriyaki Salmon](images/sheet-pan-teriyaki-salmon.jpg)
-
 ## ingredients
 
 - 4 salmon fillets (150g each)

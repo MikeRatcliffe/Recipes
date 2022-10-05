@@ -1,7 +1,5 @@
 # Sheet Pan Sweet and Spicy Pork
 
-![Sheet Pan Sweet and Spicy Pork](images/sheet-pan-sweet-and-spicy-pork.jpg)
-
 ## ingredients
 
 - 1 kg pork tenderloin (cut into 1-inch medallions)

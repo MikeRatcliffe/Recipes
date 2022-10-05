@@ -1,7 +1,5 @@
 # Salad - Beetroot and Cucumber
 
-![Salad - Beetroot and Cucumber](images/salad-—-beetroot-and-cucumber.jpg)
-
 ## ingredients
 
 - 400g beetroot

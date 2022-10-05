@@ -1,7 +1,5 @@
 # Bombay Potatoes
 
-![Bombay Potatoes](images/bombay-potatoes.jpg)
-
 ## ingredients
 
 - 2 cm piece of ginger

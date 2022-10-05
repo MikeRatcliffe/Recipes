@@ -1,7 +1,5 @@
 # Stir Fry - Grated Brussels Sprouts With Bacon
 
-![Stir Fry - Grated Brussels Sprouts With Bacon](images/stir-fry-—-grated-brussels-sprouts-with-bacon.jpg)
-
 ## ingredients
 
 - 4 slices bacon cut into 1/4" pieces

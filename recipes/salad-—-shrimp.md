@@ -1,7 +1,5 @@
 # Salad - Shrimp
 
-![Salad - Egg](images/salad-—-shrimp.jpg)
-
 ## ingredients
 
 For salad:

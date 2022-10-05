@@ -1,7 +1,5 @@
 # Sheet Pan Chicken and Mushrooms
 
-![Sheet Pan Chicken and Mushrooms](images/sheet-pan-chicken-and-mushrooms.jpg)
-
 ## ingredients
 
 - 1 large shallot (thinly sliced)

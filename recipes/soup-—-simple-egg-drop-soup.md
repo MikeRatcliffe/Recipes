@@ -1,7 +1,5 @@
 # Soup - Simple Egg Drop Soup
 
-![Soup - Simple Egg Drop Soup](images/soup-—-simple-egg-drop-soup.jpg)
-
 ## ingredients
 
 - 450ml cups bone broth

@@ -1,7 +1,5 @@
 # Houmous
 
-![Houmous](images/houmous.jpg)
-
 ## ingredients
 
 - 1 x 400g tin of chickpeas

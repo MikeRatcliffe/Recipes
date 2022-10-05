@@ -1,7 +1,5 @@
 # Salad - Tuna
 
-![Salad - Tuna](images/salad-—-tuna.jpg)
-
 ## ingredients
 
 - 1 small head lettuce such as Little Gem

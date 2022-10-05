@@ -1,7 +1,5 @@
 # Easy Chicken Tinga
 
-![Easy Chicken Tinga](images/easy-chicken-tinga.jpg)
-
 ## ingredients
 
 - 1 1/2 kg chicken thighs

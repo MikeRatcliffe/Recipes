@@ -1,7 +1,5 @@
 # Fried Pork Belly With Cauliflower
 
-![Fried Pork Belly With Cauliflower](images/fried-pork-belly-with-cauliflower.jpg)
-
 ## ingredients
 
 - 3 slices of pork belly (cut into large pieces)

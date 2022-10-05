@@ -1,7 +1,5 @@
 # Spinach and Wild Mushroom Breakfast Skillet
 
-![Spinach and Wild Mushroom Breakfast Skillet](images/spinach-and-wild-mushroom-breakfast-skillet.jpg)
-
 ## ingredients
 
 - 2 egg whites

@@ -1,7 +1,5 @@
 # Instant Pot Goat Curry
 
-![Instant Pot Goat Curry](images/instant-pot-goat-curry.jpg)
-
 ## ingredients
 
 - 2 tablespoons oil

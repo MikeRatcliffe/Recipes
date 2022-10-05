@@ -1,7 +1,5 @@
 # Salad - Chicken Caesar
 
-![Salad - Chicken Caesar](images/salad-—-chicken-caesar.jpg)
-
 ## ingredients
 
 - 3 cloves garlic, minced

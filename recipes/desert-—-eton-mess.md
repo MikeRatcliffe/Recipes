@@ -1,7 +1,5 @@
 # Desert - Eton Mess
 
-![Desert - Eton Mess](images/desert-—-eton-mess.jpg)
-
 ## ingredients
 
 Base:

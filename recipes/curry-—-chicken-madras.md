@@ -1,7 +1,5 @@
 # Curry - Chicken Madras
 
-![Curry - Chicken Madras](images/curry-—-chicken-madras.jpg)
-
 ## ingredients
 
 - 2 teaspoons garam masala

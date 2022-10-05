@@ -1,7 +1,5 @@
 # Huevos Rancheros
 
-![Huevos Rancheros](images/huevos-rancheros.png)
-
 ## ingredients
 
 - 120 ml olive oil

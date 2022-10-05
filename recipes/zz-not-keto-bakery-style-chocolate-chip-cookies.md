@@ -1,7 +1,5 @@
 # NOT KETO - Bakery Style Chocolate Chip Cookies
 
-![NOT KETO - Bakery Style Chocolate Chip Cookies](images/zz-not-keto-bakery-style-chocolate-chip-cookies.jpg)
-
 ## ingredients
 
 - 380 g all-purpose flour

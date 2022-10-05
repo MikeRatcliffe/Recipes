@@ -1,7 +1,5 @@
 # Roast Carrots
 
-![Roast Carrots](images/roast-carrots.jpg)
-
 ## ingredients
 
 - 6 large carrots peeled and sliced length-wise

@@ -1,7 +1,5 @@
 # Sheet Pan Chicken, Green Beans and Cherry Tomatoes
 
-![Sheet Pan Chicken, Green Beans and Cherry Tomatoes](images/sheet-pan-chicken-green-beans-and-cherry-tomatoes.jpg)
-
 ## ingredients
 
 - 3 tbsp olive oil
