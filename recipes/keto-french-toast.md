@@ -28,3 +28,7 @@ Batter:
 4. Let cool and remove from the mug. Slice in half.
 5. In a bowl or deep plate, whisk together the eggs, cream and cinnamon with a pinch of salt. Pour over the bread slices and let them get soaked. Turn them around a few times so the bread slices absorb as much of the egg mixture as possible.
 6. Fry in plenty of butter and serve immediately.
+
+## based on
+
+- https://www.dietdoctor.com/recipes/keto-french-toast

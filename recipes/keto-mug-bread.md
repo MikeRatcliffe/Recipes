@@ -17,3 +17,7 @@
 2. Mix together all dry ingredients in a bowl. Crack in the egg, add the melted butter, and stir in the cream. Combine until smooth and make sure there are no lumps.
 3. Pour the batter into the mug and microwave on high for 2 minutes. Check if the bread is done in the middle – if not, microwave for another 15-30 seconds.
 4. Let cool and remove from the mug. Slice in half and toast — that's how you get the best texture and taste.
+
+## based on
+
+- https://www.dietdoctor.com/recipes/low-carb-mug-bread

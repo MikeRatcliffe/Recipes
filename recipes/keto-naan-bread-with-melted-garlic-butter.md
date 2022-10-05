@@ -29,3 +29,7 @@ Garlic Butter:
 6. Heat the oven to 70°C and keep the bread warm while you make more.
 7. Melt the butter and stir in the freshly squeezed garlic.
 8. Apply the melted butter on the bread pieces using a brush and sprinkle flaked salt on top.
+
+## based on
+
+- https://www.dietdoctor.com/recipes/keto-naan-bread-with-melted-garlic-butter

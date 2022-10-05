@@ -31,3 +31,7 @@
 13. Toss zoodles in the oil and sauté very quickly until just softened (about 1 or 2 minutes). Do not overcook the zoodles or they will become watery and mushy.
 14. Place the zoodles in a large serving dish and toss with the Alfredo sauce.
 15. Finish off with some grated parmesan, a sprinkle of black pepper and some fresh basil.
+
+## based on
+
+- https://ketodietapp.com/Blog/lchf/keto-zucchini-noodle-alfredo

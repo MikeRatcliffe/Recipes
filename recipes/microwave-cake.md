@@ -17,3 +17,7 @@
 2. Spoon into a lightly greased microwave safe dish and level the top. A china casserole, glass dish or a soufflé dish is ideal.
 3. Microwave on full power for 7 minutes. Allow to Stand for 1 minute.
 4. Turn out and allow to cool.
+
+## based on
+
+- https://fabflour.co.uk/recipes/all-in-one-microwave-cake/

@@ -25,3 +25,7 @@
 7. Top cauliflower with cheddar, cooked bacon, and spring onions, and pour over egg mixture.
 8. Bake until eggs are set and top is golden, 35 to 40 minutes.
 9. Garnish with hot sauce and more spring onions before serving.
+
+## based on
+
+- https://www.delish.com/cooking/recipe-ideas/recipes/a51520/loaded-cauliflower-breakfast-bake-recipe/

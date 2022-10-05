@@ -21,3 +21,7 @@
 5. Remove lids and place in the microwave.
 6. Microwave on low for 4 minutes, checking every 30 seconds.
 7. Garnish with chives and serve.
+
+## based on
+
+- https://www.delish.com/cooking/recipe-ideas/recipes/a53842/mason-jar-omelets-recipe/
