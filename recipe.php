@@ -36,7 +36,7 @@
 			// (ex: aloo-matar.md would have an image aloo-matar.jpg)
 			// will fail gracefully if an image doesn't exist, but you can
 			// turn it off entirely if you want
-			let lookForHeroImage = true;
+			let lookForHeroImage = false;
 
 			// turn text-only urls to links in these sections
 			// (in other sections, markdown links will work as normal)
