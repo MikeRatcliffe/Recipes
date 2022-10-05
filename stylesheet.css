@@ -25,16 +25,12 @@ em {
   font-style: italic;
 }
 
-#heroimage {
-  position: relative;
-}
-
 #heroimage img {
   position: absolute;
   border: 1px solid rgb(200,200,200);
   right: 0;
   top: 7px;
-  max-height: 130px;
+  max-height: 165px;
   max-width: 200px;
 }
 
@@ -160,6 +156,7 @@ a:active, a:hover {
   width:     90%;
   max-width: 700px;
   margin:    1em auto 4em auto;
+  position: relative;
 }
 .paren {
   color:      rgb(170,170,170);
@@ -172,8 +169,6 @@ a:active, a:hover {
 }
 #title {
   text-align:     center;
-  padding-bottom: 1.3em;
-  border-bottom:  1px solid gray;
 }
 #footer {
   color:      rgb(170,170,170);
