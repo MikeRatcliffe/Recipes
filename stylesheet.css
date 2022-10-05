@@ -112,12 +112,12 @@ ol li {
   break-inside:                avoid-column;
 }
 
-section > ul ul {
+#steps > ul ul {
   list-style: circle;
   padding-left: 40px;
 }
 
-section > ul li {
+#steps > ul li {
   padding-left: 10px;
 }
 
