@@ -8,7 +8,6 @@ Lazy Devil Fillings:
 
 - Chipotle Lime Mayonnaise
 - Cucumbers (Sliced)
-- Furikake
 - Guacamole
 - Mayonnaise
 - Radishes (Sliced)
@@ -28,12 +27,12 @@ Lazy Devils:
 
 1. Simply cut the hard cooked eggs in half, slather on your favorite spread (e.g., mayo, guacamole, tonnato sauce, etc.) and adorn with your favorite toppings.
 
-  - Here are some of my faves:
+  - Suggested fillings:
 
     - Guacamole & Sliced Radishes
-    - Mayonnaise, Furikake & Sliced Persian Cucumbers
-    - Chipotle Lime Mayonnaise, Furikake & Sliced spring onions
-    - Chipotle Lime Mayonnaise, Prosciutto, Sliced Cucumbers & spring onions
+    - Mayonnaise, Sliced Persian Cucumbers
+    - Chipotle Lime Mayonnaise & Sliced Spring Onions
+    - Chipotle Lime Mayonnaise, Prosciutto, Sliced Cucumbers & Spring Onions
 
 ## based on
 
