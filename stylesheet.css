@@ -25,18 +25,8 @@ em {
   font-style: italic;
 }
 
-/* images full width */
-/* h/t @mpember for the pr suggestion */
 #heroimage img {
-  width:  100%;
   border: 1px solid rgb(200,200,200);
-}
-
-#title {
-  position: relative;
-}
-
-#title img {
   position: absolute;
   right: 0;
   top: 7px;
