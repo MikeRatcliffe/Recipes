@@ -5,16 +5,16 @@
 - 1 teaspoon Olive Oil
 - 450 g Ground Beef
 - 1/2 teaspoon Salt
-- 1/4 teaspoon White Pepper ground
-- 140 g Bacon diced
-- 1 small Onion diced
-- 2 Dill Pickles sliced
-- 60ml Sugar-Free Tomato Ketchup
+- 1/4 teaspoon White Pepper (ground)
+- 140 g Bacon (diced)
+- 1 small Onion (diced)
+- 2 Dill Pickles (sliced)
+- 60ml Tomato Ketchup
 - 60ml Yellow Mustard
 - 60ml Low Carb Mayonnaise
 - 2 tablespoons Worcestershire Sauce
 - 1 teaspoon Garlic Powder
-- 1 cup Cheddar Cheese shredded
+- 1 cup Cheddar Cheese (shredded)
 - 3 large Eggs
 - 1/4 cup Heavy Cream
 

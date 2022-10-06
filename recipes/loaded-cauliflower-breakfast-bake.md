@@ -3,7 +3,7 @@
 ## ingredients
 
 - 1 large head cauliflower
-- 8 slices bacon, chopped
+- 8 slices bacon (chopped)
 - 10 large eggs
 - 240ml milk
 - 2 cloves garlic, crushed

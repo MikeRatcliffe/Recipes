@@ -10,7 +10,7 @@
 - 60 - 120 ml dry white wine
 - Pinch of sea salt
 - Small handful of basil, sliced
-- Large bunch of parsley, chopped
+- Large bunch of parsley (chopped)
 
 ## steps
 

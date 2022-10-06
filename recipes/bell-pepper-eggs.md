@@ -2,12 +2,12 @@
 
 ## ingredients
 
-- 1 bell pepper, sliced into 1cm rings
+- 1 bell pepper (sliced into 1cm rings)
 - 6 eggs
 - Salt
 - Black pepper
-- 2 tablespoons chives, chopped
-- 2 tablespoons parsley, chopped
+- 2 tablespoons chives (chopped)
+- 2 tablespoons parsley (chopped)
 
 ## steps
 

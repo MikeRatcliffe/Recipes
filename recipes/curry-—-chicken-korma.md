@@ -24,7 +24,7 @@ Korma:
 
 - 1 tablespoon olive oil
 - 2-3 spicy chili peppers
-- 1 medium onion, chopped
+- 1 medium onion (chopped)
 - 120ml chicken stock or more as needed
 - 120ml heavy cream or coconut milk
 

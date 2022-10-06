@@ -7,7 +7,7 @@
 - 50g cheddar, grated
 - 1/2 Onion, finely chopped
 - 75g ham, diced
-- 1 red pepper, chopped
+- 1 red pepper (chopped)
 - Salt
 - Black pepper
 - 1 tbsp. freshly chopped chives

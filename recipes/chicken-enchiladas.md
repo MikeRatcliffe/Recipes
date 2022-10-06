@@ -17,12 +17,12 @@ Enchiladas:
 
 - 2 tbsp olive oil
 - 1 small white onion (diced)
-- 500g boneless skinless chicken breasts (diced)
-- Diced green chiles
+- 500 g boneless skinless chicken breasts (diced)
+- Green chillies (diced)
 - Salt and black pepper
 - 1 can black beans (rinsed and drained)
 - 8 large flour tortillas
-- 3 cups grated cheese
+- 250 g cheese (grated)
 - 1 batch red enchilada sauce
 
 ## steps

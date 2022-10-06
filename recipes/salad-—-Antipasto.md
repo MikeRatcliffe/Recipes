@@ -4,7 +4,7 @@
 
 For the Salad:
 
-- 2 large romaine hearts, chopped
+- 2 large romaine hearts (chopped)
 - 450g salami
 - 240g mozzarella balls, halved
 - 168g quartered artichoke hearts

@@ -14,7 +14,7 @@
 To serve:
 
 - Cheese, grated
-- 4 tbsp fresh coriander, chopped
+- 4 tbsp fresh coriander (chopped)
 - 1 avocado, sliced
 
 ## steps

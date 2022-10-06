@@ -5,7 +5,7 @@
 - 2 teaspoons garam masala
 - 3 tablespoons ghee
 - 4 skinless, boneless chicken breasts cut into large chunks
-- 1 medium onion, chopped
+- 1 medium onion (chopped)
 - 2 garlic cloves, peeled and finely chopped
 - 1 teaspoon fresh ginger, grated
 - 1 teaspoon turmeric

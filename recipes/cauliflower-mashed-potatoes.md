@@ -3,9 +3,9 @@
 ## ingredients
 
 - 1 large cauliflower
-- 5 large garlic cloves peeled and sliced
+- 5 large garlic cloves (peeled and sliced)
 - Salt
-- 1/4 teaspoon ground nutmeg
+- 1/4 teaspoon nutmeg (ground)
 - 1/4 teaspoon black pepper
 - 2 tablespoons butter
 
