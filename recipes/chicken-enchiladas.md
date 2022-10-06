@@ -6,9 +6,9 @@ Sauce:
 
 - 4 tbsp olive oil
 - 4 tbsp flour
-- 1/4 tsp Chili
+- 1/4 tsp Chilli
 - 2 tsp garlic powder
-- 2 tsp ground cumin
+- 2 tsp cumin
 - 1 tsp dried oregano
 - 1 litre chicken or vegetable stock
 - Fine sea salt, to taste
@@ -23,7 +23,7 @@ Enchiladas:
 - 1 can black beans (rinsed and drained)
 - 8 large flour tortillas
 - 250 g cheese (grated)
-- 1 batch red enchilada sauce
+- 1 batch red enchilada sauce (see above)
 
 ## steps
 
@@ -31,7 +31,7 @@ Sauce:
 
 1. Heat oil in a small saucepan over medium-high heat.
 2. Add flour and cook for 1 minute, whisking constantly.
-3. Add in the chili powder, garlic powder, cumin and oregano and cook for 1 more minute, whisking constantly.
+3. Add in the chilli powder, garlic powder, cumin and oregano and cook for 1 more minute, whisking constantly.
 4. Gradually pour in the stock, whisking constantly to combine until no lumps remain.
 5. Simmer for about 10-15 minutes, uncovered, until the sauce has slightly thickened.
 6. Give the sauce a taste and season with salt, as needed.
@@ -47,7 +47,7 @@ Enchiladas:
 7. Remove pan from heat and set aside.
 8. Lay out a tortilla, and spread two tbsp of sauce over the surface of the tortilla.
 9. Add a generous spoonful of the chicken mixture in a line down the center of the tortilla.
-10. Sprinkle with 1/3 cup cheese.
+10. Sprinkle with 30 g cheese.
 11. Roll up tortilla and place in a greased 20 x 30cm baking tray.
 12. Assemble the remaining enchiladas and add them to the baking tray.
 13. Spread any remaining chicken and sauce evenly over the top of the enchiladas, followed by any extra cheese.

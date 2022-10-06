@@ -3,19 +3,19 @@
 ## ingredients
 
 - 2 tbsp oil
-- 900g bone-in goat (or lamb) pieces (shoulder or leg)
-- 2 onions, diced
-- 7.5cm fresh ginger, minced
-- 3 cloves garlic, minced
+- 900 g bone-in goat (or lamb) pieces (shoulder or leg)
+- 2 onions (diced)
+- 7.5cm fresh ginger (minced)
+- 3 cloves garlic (minced)
 
 Spices:
 
 - 4 whole cloves
 - 4 cardamom pods
 - 1 bay leaf
-- 1 tbsp coriander powder
-- 2 tsp salt, adjust to taste
-- 1 tsp ground cumin
+- 1 tbsp coriander
+- 2 tsp salt (adjust to taste)
+- 1 tsp cumin
 - 1 tsp garam masala
 - 1 tsp paprika
 - 1 tsp turmeric
@@ -23,9 +23,9 @@ Spices:
 
 Optional:
 
-- 800g diced tomatoes
-- 120ml water
-- 225g potatoes (leave whole), optional
+- 800 g diced tomatoes
+- 120 ml water
+- 225 g potatoes (leave whole, optional)
 
 ## steps
 

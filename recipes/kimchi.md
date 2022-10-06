@@ -8,10 +8,10 @@
 - 2" fresh ginger (peeled and finely sliced)
 - Medium apples or pears (peeled, cored and roughly chopped)
 - 2 tsp fish sauce
-- 2 tbsp korean chili flakes (gochugaru)
+- 2 tbsp korean chilli flakes (gochugaru)
 - 1 large carrot (cut into 1/4" coins)
-- Small red pepper, cut into matchsticks
-- 3 cloves garlic, peeled and thinly sliced
+- Small red pepper (cut into matchsticks)
+- 3 cloves garlic (peeled and thinly sliced)
 
 ## steps
 
@@ -20,7 +20,7 @@
 3. Rinse the chinese leaf in a colander cleaning as much salt as possible off then leave to drain until dry.
 4. Put the spring onion whites, ginger, apple, fish sauce and 2 tsp salt in a blender.
 5. Blitz until smooth.
-6. Stir in the Korean chili flakes.
+6. Stir in the Korean chilli flakes.
 7. In a large bowl, combine the drained chinese leaf with the spring onion greens, carrot, pepper and garlic.
 8. Pour in the paste and mix well with your hands.
 9. Pack the Kimchi tightly into a 1 litre container leaving a 1" space at the top.

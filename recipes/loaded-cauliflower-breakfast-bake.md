@@ -5,13 +5,13 @@
 - 1 large head cauliflower
 - 8 slices bacon (chopped)
 - 10 large eggs
-- 240ml milk
-- 2 cloves garlic, crushed
+- 240 ml milk
+- 2 cloves garlic (crushed)
 - 2 tsp paprika
 - Salt
 - Black pepper
-- 166g grated cheddar
-- 2 spring onions, thinly sliced, plus more for garnish
+- 166 g cheddar (grated)
+- 2 spring onions (thinly sliced, plus more for garnish)
 - Hot sauce, for serving
 
 ## steps

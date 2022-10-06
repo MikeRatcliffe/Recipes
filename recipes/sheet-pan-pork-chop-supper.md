@@ -2,17 +2,17 @@
 
 ## ingredients
 
-- 5 tbsp extra virgin olive oil
-- juice of 1 lemon
-- 2 tbsp chopped fresh sage
+- 5 tbsp olive oil
+- Juice of 1 lemon
+- 2 tbsp fresh sage (chopped)
 - 4 garlic cloves (minced)
-- salt
+- Salt
 - 4 bone-in pork chops (about 1-inch thick)
 - 1 large Fuji apple (cored and cut into 8 wedges)
-- 1 pound Brussels sprouts (halved or quartered)
+- 500 g Brussels sprouts (halved or quartered)
 - 1/2 large red onion (peeled and cut into 6 wedges)
-- black pepper
-- aged balsamic vinegar
+- Black pepper
+- Aged balsamic vinegar
 
 ## steps
 

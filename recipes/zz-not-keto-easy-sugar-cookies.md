@@ -5,7 +5,7 @@
 - 220 g all-purpose flour
 - 1 tsp bicarbonate of soda
 - 1/2 tsp baking powder
-- 225 g butter, softened
+- 225 g butter (softened)
 - 300 g white sugar
 - 1 egg
 - 1 tsp vanilla extract

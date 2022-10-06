@@ -4,12 +4,12 @@
 
 - 1 kg mussels
 - 2 tbsp butter
-- 4 cloves of garlic, minced
-- 1 hot pepper, sliced
-- 2 large, ripe tomatoes, coarsely chopped
+- 4 cloves of garlic (minced)
+- 1 hot pepper (sliced)
+- 2 large, ripe tomatoes (coarsely chopped)
 - 60 - 120 ml dry white wine
 - Pinch of sea salt
-- Small handful of basil, sliced
+- Small handful of basil (sliced)
 - Large bunch of parsley (chopped)
 
 ## steps

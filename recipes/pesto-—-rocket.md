@@ -2,15 +2,15 @@
 
 ## ingredients
 
-- 480ml tightly packed rocket
-- 240ml tightly packed Italian parsley
-- 120ml toasted almond slivers
+- 480 ml rocket (tightly packed)
+- 240 ml Italian parsley (tightly packed)
+- 120 ml almond slivers (toasted)
 - 1 tbsp capers (rinsed and drained)
 - 1 medium garlic clove
 - 2 tbsp lemon juice
-- 120ml extra virgin olive oil
-- salt
-- pepper
+- 120 ml extra virgin olive oil
+- Salt
+- Pepper
 
 ## steps
 

@@ -2,12 +2,12 @@
 
 ## ingredients
 
-- 1 tbsp extra virgin olive oil avocado oil, ghee, or fat of choice
-- 80g finely diced onion
-- 120g mushrooms thinly sliced
+- 1 tbsp olive oil
+- 80 g onion (finely diced)
+- 120 g mushrooms (thinly sliced)
 - Magic Mushroom Powder or salt
 - 1 pound sausages
-- 500ml tomato sauce
+- 500 ml tomato sauce
 - 1 tsp crushed chillies
 - 4 large eggs
 - Black pepper

@@ -3,9 +3,9 @@
 ## ingredients
 
 - 120 ml olive oil
-- 1 white onion, sliced
-- 2 garlic cloves, minced
-- 2 fresh jalapeños, minced
+- 1 white onion (sliced)
+- 2 garlic cloves (minced)
+- 2 fresh jalapeños (minced)
 - 400 g crushed tomatoes
 - 2 tsp salt
 - 1 tsp pepper
@@ -13,9 +13,9 @@
 
 To serve:
 
-- Cheese, grated
+- Cheese (grated)
 - 4 tbsp fresh coriander (chopped)
-- 1 avocado, sliced
+- 1 avocado (sliced)
 
 ## steps
 

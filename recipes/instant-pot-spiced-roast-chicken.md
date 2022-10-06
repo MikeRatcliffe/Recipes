@@ -5,15 +5,15 @@
 Paste:
 
 - 3 tbsp Shallots (diced)
-- 1 tsp Cayenne Pepper
+- 1 tsp Cayenne
 - 4 tsp Garlic (minced)
 - 1 tbsp Fresh Ginger (minced)
-- 30 g Tomato Paste
+- 30 g Tomato Puree
 - 1 tsp Cumin
-- 3/4 tsp Ground Coriander
-- 2 tbsp Coconut Aminos
+- 3/4 tsp Coriander
+- 2 tbsp soy sauce
 - 1 tsp Honey
-- 1 tbsp Chili Powder
+- 1 tbsp Chilli Powder
 - 2 tsp Sea Salt
 - 1/4 tin Coconut Milk
 
@@ -22,7 +22,7 @@ Everything Else:
 - 3 medium Limes
 - 1 Chicken
 - 1 tbsp Coconut Oil
-- 1 1/2 cups Chicken Broth
+- 360 ml Chicken Broth
 
 ## steps
 

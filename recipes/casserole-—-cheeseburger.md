@@ -3,26 +3,26 @@
 ## ingredients
 
 - 1 tsp Olive Oil
-- 450 g Ground Beef
+- 450 g Beef (minced)
 - 1/2 tsp Salt
 - 1/4 tsp White Pepper (ground)
 - 140 g Bacon (diced)
 - 1 small Onion (diced)
 - 2 Dill Pickles (sliced)
-- 60ml Tomato Ketchup
-- 60ml Yellow Mustard
-- 60ml Low Carb Mayonnaise
+- 60 ml Tomato Ketchup
+- 60 ml Yellow Mustard
+- 60 ml Low Carb Mayonnaise
 - 2 tbsp Worcestershire Sauce
 - 1 tsp Garlic Powder
-- 1 cup Cheddar Cheese (shredded)
+- 250g Cheddar Cheese (grated)
 - 3 large Eggs
-- 1/4 cup Heavy Cream
+- 60 ml Heavy Cream
 
 ## steps
 
 1. Preheat your oven to 190C.
 2. Place a large saucepan over high heat
-3. Add the oil, ground beef, salt, and pepper.
+3. Add the oil (minced) beef, salt, and pepper.
 4. Break the beef up and cook until browned, then remove from the heat.
 5. Place the bacon into a non-stick frying pan over high heat and sauté until crisp
 6. Drain off the fat and add the bacon to the beef mixture.

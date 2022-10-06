@@ -7,7 +7,7 @@
 - 1 tsp garlic powder
 - 2 tbsp olive oil
 - 1 kg boneless pork shoulder
-- 1 cup unsalted chicken broth or water
+- 240 ml unsalted chicken broth or water
 - 1 onion (cut into quarters)
 
 ## steps

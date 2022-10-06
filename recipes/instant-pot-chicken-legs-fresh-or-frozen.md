@@ -2,7 +2,7 @@
 
 ## ingredients
 
-- 240ml water (1 cup)
+- 240 ml water
 - 14-16 chicken drumsticks
 - Your favorite sauce (I like buffalo or teriyaki sauce)
 
@@ -10,7 +10,7 @@
 
 Cook the chicken:
 
-1. Add 1 cup water and the trivet to the Instant Pot.
+1. Add 240 ml water and the trivet to the Instant Pot.
 2. Stack fresh or frozen chicken drumsticks/legs on top of trivet.
 3. Lock the lid, turn the knob to sealing, and cook on Manual High pressure for 10 minutes for fresh, 11 minutes for semi-frozen, and 12 minutes for frozen.
 

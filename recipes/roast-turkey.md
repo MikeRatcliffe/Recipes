@@ -2,21 +2,21 @@
 
 ## ingredients
 
-- 1 x 5.6 kg / 12 pounds high welfare turkey roughly 2kg meat
-- 1 bunch rosemary 15g
-- 1 bunch thyme 15g
-- 1 bunch sage 15g
-- 5 bay leaves 1g
-- 1 - 2 tbsp olive oil to baste
-- 78 g parma ham approx. 6 thin slices
+- 1 x 5.6 kg / 12 pounds turkey (roughly 2 kg meat)
+- 1 bunch rosemary (15 g)
+- 1 bunch thyme (15 g)
+- 1 bunch sage (15 g)
+- 5 bay leaves
+- 1 - 2 tbsp olive oil (to baste)
+- 78 g parma ham (approx. 6 thin slices)
 
 Gravy Trivet:
 
 - Turkey giblets
-- 1 small onion 60g
-- 1 carrot peeled and quartered
-- 2 sticks celery chopped in half
-- 1 bulb garlic halved
+- 1 small onion
+- 1 carrot (peeled and quartered)
+- 2 sticks celery (halved)
+- 1 bulb garlic (halved)
 - 240 ml water
 
 ## steps
@@ -30,7 +30,7 @@ Gravy Trivet:
 
 Cooking Times:
 
-1. Cook a high welfare bird for 25 - 30 mins per kilo, standard 35 - 40 mins per kilo. Mine was 5.6kg and took about 3hrs 10 mins.
+1. Cook a high welfare bird for 25 - 30 mins per kilo, standard 35 - 40 mins per kilo. Mine was 5. 6 kg and took about 3hrs 10 mins.
 2. If cooking upside down, cook for 1 hour and then turn the right way (breast up) and cover with foil again.
 3. About 1 hour before the end of cooking, remove the foil and baste the turkey with the pan juices. 15 - 20 minutes before the end of cooking add the parma ham.
 4. To check it’s done, pierce into the thick part of the turkey breast or thigh with a knife or skewer. If the juices run clear, it's done.

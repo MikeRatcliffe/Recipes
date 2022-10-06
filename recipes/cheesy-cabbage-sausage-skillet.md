@@ -8,9 +8,9 @@
 - 1/2 onion (diced)
 - 3 cloves garlic (minced)
 - 1/2 small head cabbage (cored and chopped)
-- 1 cup tomatoes (diced)
-- 2 cups mozzarella (shredded)
-- salt and pepper to taste
+- 200 g tomatoes (diced)
+- 100 g mozzarella (grated)
+- Salt and pepper to taste
 
 ## steps
 

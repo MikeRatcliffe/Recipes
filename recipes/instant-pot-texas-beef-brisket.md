@@ -3,9 +3,9 @@
 ## ingredients
 
 - 3 tbsp Worcestershire sauce
-- 2 tsp chili powder
+- 2 tsp chilli powder
 - 2 bay leaves
-- 3 garlic cloves minced
+- 3 garlic cloves (minced)
 - 1 tsp onion salt
 - 1 tsp pepper
 - 2 tsp liquid smoke
@@ -15,7 +15,7 @@
 
 ## steps
 
-1. In a large resealable plastic bag, combine the Worcestershire sauce, chili powder, bay leaves, garlic, onion salt, pepper and liquid smoke.
+1. In a large resealable plastic bag, combine the Worcestershire sauce, chilli powder, bay leaves, garlic, onion salt, pepper and liquid smoke.
 2. Add brisket to bag.
 3. Seal bag, and refrigerate overnight.
 4. Transfer beef to a slow cooker.

@@ -4,7 +4,7 @@
 
 Sushi Rice:
 
-- 500 grams sushi rice
+- 500 g sushi rice
 - 350 ml cold water
 - 7 tbsp rice vinegar
 - 5 tbsp granulated sugar

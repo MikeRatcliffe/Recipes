@@ -2,22 +2,22 @@
 
 ## ingredients
 
-- 1kg (3 large heads) broccoli, cut into florets
-- 1 medium red onion, cut into bite-size squares
-- 1 orange bell pepper, cut into bite-size squares
-- 2 portobello mushroom caps, sliced
-- 3 garlic cloves, minced
-- 2 tsp ginger, grated (about a 2-inch nub)
+- 1 kg broccoli (3 large heads, cut into florets)
+- 1 medium red onion (cut into bite-size squares)
+- 1 orange bell pepper (cut into bite-size squares)
+- 2 portobello mushroom caps (sliced)
+- 3 garlic cloves (minced)
+- 2 inches ginger (grated)
 - 2 tbsp rice wine
 - 2 tbsp rice vinegar
 - 2 tbsp soy sauce
-- 1 tsp Sriracha hot sauce
+- 1 tsp Sriracha
 - 2 tbsp sesame oil (regular, not toasted)
-- Kosher salt
+- Salt
 
 For the garnish:
 
-- Sliced green onion
+- Spring onion (sliced)
 - Sesame seeds (optional)
 
 ## steps

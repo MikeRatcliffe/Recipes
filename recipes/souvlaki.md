@@ -2,14 +2,14 @@
 
 ## ingredients
 
-- 120ml fresh lemon juice
-- 180ml extra virgin olive oil
-- 4 garlic cloves, minced
+- 120 ml fresh lemon juice
+- 180 ml extra virgin olive oil
+- 4 garlic cloves (minced)
 - 1 tbsp dried oregano
 - 2 tsp salt
 - 1/2 tsp black pepper
-- 1.5kg boneless pork loin or shoulder, leg of lamb or skinless chicken thighs cut into 1.5″ cubes
-- 1 medium red onion, cut into 1.5″ cubes
+- 1.5 kg boneless pork loin or shoulder, leg of lamb or skinless chicken thighs (cut into 1.5" cubes)
+- 1 medium red onion (cut into 1.5" cubes)
 - Ghee or fat of choice
 
 ## steps

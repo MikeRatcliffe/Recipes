@@ -2,25 +2,24 @@
 
 ## ingredients
 
-- 400g beetroot
-- 1 cucumber
-- 1 small red onion
+- 400 g beetroot (diced)
+- 1 cucumber (diced)
+- 1 small red onion (diced)
 
 Garlic Yogurt Dressing:
 
-- 120ml full-fat Greek yogurt
-- 3 cloves garlic, minced
+- 120 ml full-fat Greek yogurt
+- 3 cloves garlic (minced)
 - 2 tbsp red wine vinegar
 - 4 tbsp extra virgin olive oil
-- 1 tbsp chopped fresh dill
-- 2 tbsp chopped fresh mint
+- 1 tbsp fresh dill (chopped)
+- 2 tbsp fresh mint (chopped)
 - 1/2 tsp sea salt (or more to taste)
 - 1/4 tsp white pepper
 
 ## steps
 
-1. Slice the beetroots and cucumbers into uniform pieces.
-2. Slice the red onion and add to a medium-large bowl with the beetroots and cucumbers.
+1. Add the red onion to a medium-large bowl with the beetroots and cucumbers.
 
 Yogurt dressing:
 

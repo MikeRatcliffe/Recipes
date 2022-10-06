@@ -4,17 +4,17 @@
 
 - Nonstick cooking spray
 - 4 large eggs
-- 50g cheddar, grated
-- 1/2 Onion, finely chopped
-- 75g ham, diced
+- 50 g cheddar (grated)
+- 1/2 Onion (finely chopped)
+- 75 g ham (diced)
 - 1 red pepper (chopped)
 - Salt
 - Black pepper
-- 1 tbsp. freshly chopped chives
+- 1 tbsp chives (freshly chopped)
 
 ## steps
 
-1. Grease two 500ml mason jars with nonstick cooking spray.
+1. Grease two 500 ml mason jars with nonstick cooking spray.
 2. Crack two eggs into each jar.
 3. Divide cheese, onion, ham, and pepper between the two jars and season with salt and pepper.
 4. Place lids on jars and shake until eggs are scrambled and ingredients are combined.

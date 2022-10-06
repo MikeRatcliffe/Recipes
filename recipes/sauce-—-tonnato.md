@@ -2,12 +2,12 @@
 
 ## ingredients
 
-- 200g can tuna packed in olive oil, drained
-- 2 tbsp capers, rinsed and drained
-- 5 anchovies packed in olive oil, drained
+- 200 g can tuna packed in olive oil (drained)
+- 2 tbsp capers (rinsed and drained)
+- 5 anchovies packed in olive oil (drained)
 - 3 tbsp lemon juice
-- 120ml extra virgin olive oil
-- 120ml Paleo Mayonnaise
+- 120 ml extra virgin olive oil
+- 120 ml Paleo Mayonnaise
 - Salt
 - Black pepper
 

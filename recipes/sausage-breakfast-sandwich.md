@@ -4,17 +4,17 @@
 
 - 2 large eggs
 - 3/4 tbsp heavy cream
-- Pinch crushed chili
+- Pinch crushed chilli
 - Salt
 - Black pepper
 - 1 tsp butter
 - 1 slice cheddar
-- 2 lorne sausage, heated according to package instructions
+- 2 lorne sausage, cooked according to package instructions
 - Avocado, sliced
 
 ## steps
 
-1. In a small bowl beat eggs, heavy cream, and red pepper flakes together.
+1. In a small bowl beat eggs, heavy cream, and crushed chillies together.
 2. Season generously with salt and pepper.
 3. In a nonstick skillet over medium heat, melt butter.
 4. Pour the eggs into the skillet.

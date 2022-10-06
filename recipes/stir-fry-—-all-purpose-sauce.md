@@ -2,8 +2,8 @@
 
 ## ingredients
 
-- 240 ml coconut aminos
-- 120 ml fresh pineapple juice
+- 240 ml soy sauce
+- 120 ml pineapple juice
 - 60 ml fish sauce
 - 2 tbsp rice vinegar
 - 2 tsp garlic powder
@@ -11,8 +11,8 @@
 
 single serving:
 
-- 80 ml coconut aminos
-- 40 ml fresh pineapple juice
+- 80 ml soy sauce
+- 40 ml pineapple juice
 - 20 ml fish sauce
 - 2/3 tbsp rice vinegar
 - 1 tsp garlic powder

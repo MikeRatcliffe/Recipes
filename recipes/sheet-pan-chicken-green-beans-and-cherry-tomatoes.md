@@ -5,14 +5,14 @@
 - 3 tbsp olive oil
 - 1 tbsp paprika
 - 1 tbsp garlic powder
-- 1 tsp ground cumin
+- 1 tsp cumin
 - 1/2 tsp cayenne pepper
-- 1/2 tsp kosher salt
-- 1/4 tsp freshly ground black pepper
-- 400g green beans, trimmed
-- 1 cup cherry tomatoes
-- 1 large shallot, thinly sliced
-- 1kg Chicken breast or drumsticks
+- 1/2 tsp salt
+- 1/4 tsp black pepper
+- 400 g green beans (trimmed)
+- 150 g cherry tomatoes
+- 1 large shallot (thinly sliced)
+- 1 kg Chicken breast or drumsticks
 
 ## steps
 

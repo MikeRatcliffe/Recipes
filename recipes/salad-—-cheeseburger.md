@@ -4,7 +4,7 @@
 
 Burgers:
 
-- 225g minced beef
+- 225 g minced beef
 - 1 tsp Worcestershire sauce
 - 1/2 tsp garlic powder
 - 1/2 tsp onion powder
@@ -12,7 +12,7 @@ Burgers:
 
 Dressing:
 
-- 60ml mayonnaise
+- 60 ml mayonnaise
 - 2 tbsp ketchup
 - 2 tbsp mustard
 - 1 tbsp dill relish
@@ -21,11 +21,11 @@ Dressing:
 
 Salad:
 
-- 40g lettuce
-- 6 slices bacon, fried and diced
-- 1/2 cup grated cheddar cheese
-- 1/2 cup grape tomatoes, halved
-- 1/4 cup dill pickle chips
+- 40 g lettuce
+- 6 slices bacon (fried and diced)
+- 60 g cheddar cheese (grated)
+- 120 g cherry tomatoes (halved)
+- 40 g dill pickle chips
 
 ## steps
 

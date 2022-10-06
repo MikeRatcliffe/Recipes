@@ -2,7 +2,7 @@
 
 ## ingredients
 
-- 50 g ground psyllium husk powder
+- 50 g psyllium husk powder
 - 140 g almond flour
 - 2 tsp baking powder
 - 1 tsp sea salt

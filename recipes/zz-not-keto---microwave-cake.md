@@ -2,10 +2,10 @@
 
 ## ingredients
 
-- 175g soft margarine
-- 175g caster sugar
-- 40g cocoa powder
-- 150g Self raising flour, sifted
+- 175 g soft margarine
+- 175 g caster sugar
+- 40 g cocoa powder
+- 150 g Self raising flour (sifted)
 - 1 tsp baking powder
 - 3 tbsp milk
 - 3 medium eggs

@@ -4,12 +4,12 @@
 
 Keto Naan:
 
-- 180 ml (75 g) coconut flour
-- 2 tbsp ground psyllium husk powder
+- 75 g coconut flour
+- 2 tbsp psyllium husk powder
 - 1/2 tsp onion powder (optional)
 - 1/2 tsp baking powder
 - 1 tsp salt
-- 80 ml melted coconut oil
+- 80 ml coconut oil (melted)
 - 475 ml boiling water
 - Coconut oil, for frying (optional)
 - Sea salt
@@ -17,7 +17,7 @@ Keto Naan:
 Garlic Butter:
 
 - 110 g butter
-- 2 garlic cloves, minced
+- 2 garlic cloves (minced)
 
 ## steps
 

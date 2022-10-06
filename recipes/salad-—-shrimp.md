@@ -4,22 +4,21 @@
 
 For salad:
 
-- 450g shrimp, peeled and deveined
-- 1 tbsp extra-virgin olive oil
+- 450 g shrimp (peeled and deveined)
+- 1 tbsp olive oil
 - Salt
-- Freshly ground black pepper
-- 1/4 red onion, finely chopped
-- 1 stalk celery, finely chopped
-- 2 tbsp freshly chopped dill
-- Toasted bread or butterhead or romaine lettuce, for serving
+- Freshly black pepper
+- 1/4 red onion (finely chopped)
+- 1 stalk celery (finely chopped)
+- 2 tbsp dill (freshly chopped)
+- Toasted bread or butterhead or romaine lettuce (for serving)
 
 For dressing:
 
-- 1/2 cup mayonnaise
+- 115 g mayonnaise
 - Juice and zest of 1 lemon
 - 1 tsp Dijon mustard
 - Mayonnaise
-- Juice and zest of 1 lemon
 
 ## steps
 

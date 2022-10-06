@@ -3,10 +3,10 @@
 ## ingredients
 
 - 3 slices thick-cut bacon
-- 2.5kg bone in pork shoulder
-- 5 peeled garlic cloves
+- 2.5 kg bone in pork shoulder
+- 5 garlic cloves (peeled)
 - 3/4 tbsp salt
-- 1 cabbage, cored and cut into 6 wedges
+- 1 cabbage (cored and cut into 6 wedges)
 
 ## steps
 
@@ -16,7 +16,7 @@
 4. With a sharp paring knife, make a few slits in each piece of pork and tuck the garlic cloves into these slits.
 5. Season the pork with salt.
 6. Arrange the pork in a single layer on top of the bacon.
-7. Pour in 240ml water.
+7. Pour in 240 ml water.
 8. Cook under high pressure for 90 minutes.
 9. Let the pressure release naturally. The meat should be fall-apart tender, otherwise cook for another 5-10 minutes.
 10. Transfer the cooked pork into a large bowl. Taste the remaining liquid in the pot, and adjust the seasoning with more water or salt as required.

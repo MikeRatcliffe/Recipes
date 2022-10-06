@@ -2,12 +2,12 @@
 
 ## ingredients
 
-- 2 peppers, halved and seeds removed
-- 8 eggs, lightly beaten
-- 60ml milk
-- 4 slices bacon, cooked and crumbled
-- 80g grated cheddar
-- 2 tbsp finely chopped chives, plus more for garnish
+- 2 peppers (halved and seeds removed)
+- 8 eggs (lightly beaten)
+- 60 ml milk
+- 4 slices bacon (cooked and crumbled)
+- 80 g cheddar (grated)
+- 2 tbsp finely chopped chives (plus more for garnish)
 - Salt
 - Black pepper
 

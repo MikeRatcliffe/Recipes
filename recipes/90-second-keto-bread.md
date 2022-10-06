@@ -7,7 +7,7 @@
 - 1/2 tsp baking powder
 - Tiny pinch of salt
 - 1 large egg
-- 1 tbsp olive or avocado oil
+- 1 tbsp olive oil
 
 ## steps
 

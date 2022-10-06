@@ -2,12 +2,12 @@
 
 ## ingredients
 
-- 225g cheddar cheese, grated
-- 120g chopped green chiles
-- 120ml heavy cream
+- 225 g cheddar cheese (grated)
+- 120 g green chiles (chopped)
+- 120 ml heavy cream
 - 3 eggs
 - 1/8 tsp cumin
-- 1/8 tsp chili powder
+- 1/8 tsp chilli powder
 - 1/8 tsp salt
 
 ## steps

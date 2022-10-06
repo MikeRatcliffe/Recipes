@@ -7,7 +7,7 @@
 - 1 tsp fine sea salt
 - 227 g unsalted butter (room temperature)
 - 100 g granulated sugar
-- 247 g lightly packed light brown sugar
+- 247 g light brown sugar (lightly packed)
 - 2 tsp vanilla
 - 2 large eggs (room temperature)
 - 340 g chocolate chips

@@ -2,14 +2,14 @@
 
 ## ingredients
 
-- 4 pieces bacon, diced
-- 25g butter
-- 1/2 onion, thinly sliced
-- 200g sliced mushrooms
-- 2 cloves crushed garlic
+- 4 pieces bacon (diced)
+- 25 g butter
+- 1/2 onion (thinly sliced)
+- 200 g mushrooms (sliced)
+- 2 cloves garlic (crushed)
 - 1 bag baby spinach
 - Salt and Pepper
-- Squeeze of fresh lemon
+- Squeeze of lemon juice
 - 1/2 tsp Sriracha (optional)
 
 ## steps

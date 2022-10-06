@@ -2,9 +2,9 @@
 
 ## ingredients
 
-- 2 tbsp avocado oil or ghee
-- 3 medium garlic cloves, peeled
-- 1 small yellow onion, roughly chopped
+- 2 tbsp butter
+- 3 medium garlic cloves (peeled)
+- 1 small yellow onion (roughly chopped)
 - 6 chillies (chopped)
 - 2 tbsp apple cider vinegar
 - 1 can diced tomatoes

@@ -6,15 +6,15 @@
 - 1/2 tsp black pepper
 - Salt
 - 2 tbsp ghee or lard
-- 1 small white onion, finely chopped
+- 1 small white onion (finely chopped)
 - 1 tbsp tomato puree
-- 6 medium garlic cloves, minced
+- 6 medium garlic cloves (crushed)
 - 2 tsp dried oregano
-- 2 tsp chili powder
+- 2 tsp chilli powder
 - 2 bay leaves
-- 2 tins diced tomatoes, drained
+- 2 tins diced tomatoes (drained)
 - 2 tbsp apple cider vinegar
-- 500ml bone broth
+- 500 ml bone broth
 
 ## steps
 

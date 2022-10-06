@@ -5,9 +5,9 @@
 - 750 g broccoli (cut into florets)
 - 5 garlic cloves (crushed)
 - 4 slices bacon (cut into bite-size pieces)
-- 2 tbsp fat of choice
-- salt
-- black pepper
+- 2 tbsp olive oil
+- Salt
+- Black pepper
 - Juice from 1 lemon
 
 ## steps

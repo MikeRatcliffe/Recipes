@@ -4,15 +4,15 @@
 
 - 2 tsp salt
 - 1/4 tsp black pepper
-- 1.5kg chicken
+- 1. 5 kg chicken
 - 2 tbsp ghee
-- 120g shiitake mushrooms, stemmed and quartered
-- 3 spring onions, trimmed and cut into 2" segments
-- 3 medium garlic cloves, pealed and trimmed
-- 1" fresh ginger, peeled and cut into 5mm coins
+- 120 g shiitake mushrooms (stemmed and quartered)
+- 3 spring onions (trimmed and cut into 2" segments)
+- 3 medium garlic cloves (peeled and trimmed)
+- 1" fresh ginger (peeled and cut into 5mm coins)
 - Juice from 1 lime
 - 1/2 tsp sesame oil
-- 120ml sliced spring onions
+- 120 ml spring onions (sliced)
 
 ## steps
 
@@ -23,7 +23,7 @@
 5. Push the vegetables to the side of the pot. Add a tsp of ghee to the exposed bit in the center.
 6. Sear the chicken breast side down for 5 minutes then breast side up for 5 minutes.
 7. Turn off the saute function.
-8. Transfer the chicken to a plate then pour 120ml water into the pot, scraping off any brown bits.
+8. Transfer the chicken to a plate then pour 120 ml water into the pot, scraping off any brown bits.
 9. Add a steamer insert to the bottom of the pressure cooker, and lay the bird on top of it, breast side up.
 10. Pressure cook on high for 20 minutes then release the pressure.
 11. Move the chicken to a plate and tent it with foil leaving it to rest for 10 minutes.

@@ -7,7 +7,7 @@
 ## steps
 
 1. Adjust an oven rack to the middle position and place a loaf pan or cake pan in the bottom of the oven.
-2. Place the container of dough on the middle rack and pour 720ml of boiling water into the pan.
+2. Place the container of dough on the middle rack and pour 720 ml of boiling water into the pan.
 3. Close the oven door and allow the dough to rise as instructed.
 
 ## notes

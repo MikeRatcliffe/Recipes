@@ -3,9 +3,9 @@
 ## ingredients
 
 - 2 duck breasts (skin on)
-- 100g bag rocket
-- 250g cherry tomatoes (halved)
-- bunch spring onions (sliced diagonally)
+- 100 g rocket
+- 250 g cherry tomatoes (halved)
+- Bunch spring onions (sliced diagonally)
 
 Dressing:
 

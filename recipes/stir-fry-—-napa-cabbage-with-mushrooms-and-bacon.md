@@ -2,13 +2,13 @@
 
 ## ingredients
 
-- 115g bacon (diced)
+- 115 g bacon (diced)
 - 1 small onion (thinly sliced)
 - Salt
 - Black pepper
-- 230g cremini mushrooms (thinly sliced)
+- 230 g cremini mushrooms (thinly sliced)
 - 1 small Napa cabbage (sliced crosswise into 1/2" pieces)
-- 60ml chicken broth
+- 60 ml chicken broth
 
 ## steps
 

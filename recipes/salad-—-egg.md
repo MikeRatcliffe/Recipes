@@ -4,13 +4,13 @@
 
 - 3 tbsp mayonnaise
 - 2 tsp lemon juice
-- 1 tbsp finely chopped chives
+- 1 tbsp chives (finely chopped)
 - Black pepper
 - Salt
-- 6 hard boiled eggs, peeled and chopped
-- 1 avocado, cubed
-- Lettuce, for serving
-- Cooked bacon, for serving
+- 6 hard boiled eggs (peeled and chopped)
+- 1 avocado (cubed)
+- Lettuce (for serving)
+- Cooked bacon (for serving)
 
 ## steps
 

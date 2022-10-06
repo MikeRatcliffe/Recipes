@@ -4,13 +4,13 @@
 
 - 1 large shallot (thinly sliced)
 - 3 tbsp balsamic vinegar
-- 3 tbsp fat of choice
+- 3 tbsp olive oil
 - 1 tbsp soy sauce
 - 1 tbsp fish sauce
 - 1/2 tsp salt
 - 700 g boneless skinless chicken thighs
 - 450 g assorted mushrooms (cut into the same size pieces)
-- 15 g minced fresh Italian parsley and/or chives
+- 15 g Italian parsley or chives (chopped)
 
 ## steps
 

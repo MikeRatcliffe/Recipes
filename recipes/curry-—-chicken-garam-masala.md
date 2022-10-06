@@ -7,19 +7,19 @@ Garam Masala:
 - 1 tsp cumin
 - 1 tsp coriander
 - 1 tsp cardamom
-- 1 tsp turmeric, ground
-- 1 tsp ground ginger
+- 1 tsp turmeric
+- 1 tsp ginger
 - 1 tsp paprika
-- 1 tsp chili
+- 1 tsp chilli
 - 1 pinch nutmeg
 
 Chicken:
 
-- 450g chicken breasts (without skin)
+- 450 g chicken breasts (without skin)
 - 3 tbsp butter
 - Salt
-- 1/2 red pepper, finely diced
-- 300ml unsweetened coconut cream or heavy whipping cream
+- 1/2 red pepper (finely diced)
+- 300 ml unsweetened coconut cream or heavy whipping cream
 
 ## steps
 

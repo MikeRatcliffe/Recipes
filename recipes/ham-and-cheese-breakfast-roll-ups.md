@@ -3,12 +3,12 @@
 ## ingredients
 
 - 4 large eggs
-- 60ml milk
-- 2 tbsp Chopped chives
+- 60 ml milk
+- 2 tbsp chives (chopped)
 - Salt
 - Black pepper
 - 1 tbsp butter
-- 80g grated cheddar, divided
+- 80 g grated cheddar
 - 4 slices ham
 
 ## steps
@@ -18,7 +18,7 @@
 3. In a medium skillet over medium heat, melt butter.
 4. Pour half of the egg mixture into the skillet, moving to create a thin layer that covers the entire pan.
 5. Cook for 2 minutes.
-6. Add 80g cheddar and cover for 2 minutes more, until the cheese is melted.
+6. Add  80 g cheddar and cover for 2 minutes more, until the cheese is melted.
 7. Put it onto a plate, place 2 slices of ham on top, and roll tightly.
 8. Repeat with remaining ingredients and serve.
 

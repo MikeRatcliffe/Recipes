@@ -8,7 +8,7 @@
 - 2 tbsp paleo mayonnaise
 - 1 medium spring onion or chives (freshly chopped)
 - 1 tbsp lemon juice
-- 1 tbsp extra virgin olive oil
+- 1 tbsp olive oil
 - Sea salt
 
 ## steps
@@ -17,7 +17,7 @@
 2. Spread the leaves over the bottom of the serving bowl.
 3. Add tuna.
 4. Top with hard-boiled eggs, mayo mixed with lemon juice and spring onion.
-5. Drizzle with extra virgin olive oil
+5. Drizzle with olive oil
 
 ## based on
 

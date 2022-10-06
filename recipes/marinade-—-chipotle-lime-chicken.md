@@ -3,18 +3,18 @@
 ## ingredients
 
 - Zest from 1 lime
-- 60 ml freshly squeezed lime juice
-- 2 tbsp avocado oil
-- 2 cloves garlic minced
+- 60 ml lime juice
+- 2 tbsp olive oil
+- 2 cloves garlic (minced)
 - 1 tbsp chipotle powder
-- 1 tbsp chopped fresh cilantro
+- 1 tbsp fresh coriander (chopped)
 - 3/4 tsp sea salt
 - 1/2 tsp pepper
 
 ## steps
 
 1. Whisk ingredients together in a bowl.
-2. Pour over 500g of chicken in a bowl or in a ziploc bag.
+2. Pour over  500 g of chicken in a bowl or in a ziploc bag.
 3. Refrigerate and let marinate at least 3 hours before cooking.
 4. Grill, pan-fry, air-fry, or bake!
 

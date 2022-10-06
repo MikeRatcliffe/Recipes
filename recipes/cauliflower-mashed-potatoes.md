@@ -12,7 +12,7 @@
 ## steps
 
 1. Wash and trim a large head of cauliflower and cut up the florets and stem into pieces of roughly the same size. Don’t worry about how everything looks because it’ll get pulverized later in the food processor.
-2. Pour 240ml of water into the Instant Pot.
+2. Pour 240 ml of water into the Instant Pot.
 3. Insert and place a steamer on top.
 4. Toss in the stems, half of the florets, and all of the garlic.
 5. Salt everything liberally.

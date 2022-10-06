@@ -4,20 +4,20 @@
 
 For the salad:
 
-- 1 punnet grape or cherry tomatoes, halved
-- 1 cucumber, thinly sliced into half moons
-- 180g olives
-- 1/2 red onion, thinly sliced
-- 150g crumbled feta
+- 1 punnet cherry tomatoes (halved)
+- 1 cucumber (thinly sliced into half moons)
+- 180 g olives
+- 1/2 red onion (thinly sliced)
+- 150 g feta (crumbled)
 
 For the dressing:
 
-- 2 tbsp. red wine vinegar
+- 2 tbsp red wine vinegar
 - Juice of 1/2 a lemon
 - 1 tsp dried oregano
 - Salt
 - Black pepper
-- 60ml extra-virgin olive oil
+- 60 ml olive oil
 
 ## steps
 

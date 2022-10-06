@@ -9,12 +9,12 @@
 - Ghee
 - 8 spring onions
 - 1 fresh red chilli
-- 1/2 bunch of fresh coriander
+- 1/2 bunch fresh coriander
 - 1 tsp cumin seeds
 - 1 tsp mustard seeds
-- 1 tsp ground turmeric
-- 1 tsp ground coriander
-- 1 pinch of garam masala
+- 1 tsp turmeric
+- 1 tsp coriander
+- 1 pinch garam masala
 - 4 tbsp natural yoghurt
 
 ## steps

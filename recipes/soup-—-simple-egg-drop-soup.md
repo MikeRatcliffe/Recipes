@@ -2,13 +2,13 @@
 
 ## ingredients
 
-- 450ml cups bone broth
+- 450 ml bone broth
 - 1 large egg
 - Fish sauce
 - Salt
-- 1 spring onion (thinly sliced - optional)
+- 1 spring onion (thinly sliced, optional)
 - 2 tbsp coriander leaves (optional)
-- Hot chili peppers thinly sliced (optional)
+- Hot chilli peppers thinly sliced (optional)
 
 ## steps
 
@@ -20,7 +20,7 @@
 
 ## notes
 
-- The soup tastes delicious as-is, but you can fancy it up with your favorite add-ins. My favorite garnishes include sliced spicy peppers, minced spring onions, and coriander leaves.
+- The soup tastes delicious as-is, but you can fancy it up with your favorite add-ins. My favorite garnishes include sliced spicy peppers (minced) spring onions, and coriander leaves.
 
 ## based on
 

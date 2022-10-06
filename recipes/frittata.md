@@ -3,14 +3,14 @@
 ## ingredients
 
 - 6 large eggs
-- 1/4 cup heavy cream
+- 60 ml heavy cream
 - 1 tsp salt
 - 4 slices bacon
 - 2 potatoes (thinly sliced)
 - 1/4 tsp black pepper
-- 2 cups baby spinach
+- 60 g baby spinach
 - 2 cloves garlic (minced)
-- 1 cup grated cheese
+- 100 g cheese (grated)
 
 ## steps
 

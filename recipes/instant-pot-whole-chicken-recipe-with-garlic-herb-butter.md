@@ -3,7 +3,7 @@
 ## ingredients
 
 - 4 sprigs Fresh rosemary (divided)
-- 100g Butter (softened)
+- 100 g Butter (softened)
 - 1 head Garlic (4 cloves minced, remaining ones peeled and whole)
 - 2 tsp Sea salt
 - 1/2 tsp Paprika

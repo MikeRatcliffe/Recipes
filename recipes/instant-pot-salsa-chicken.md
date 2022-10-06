@@ -2,10 +2,10 @@
 
 ## ingredients
 
-- 1 tsp chili powder
-- 1/2 tsp kosher salt
-- 1kg boneless, skinless chicken breasts
-- 240ml Tomato Salsa
+- 1 tsp chilli powder
+- 1/2 tsp salt
+- 1 kg boneless, skinless chicken breasts
+- 240 ml Tomato Salsa
 
 ## steps
 

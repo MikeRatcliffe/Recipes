@@ -13,7 +13,7 @@
 
 - 1 tbsp soy sauce
 - 1/4 tsp black pepper
-- salt to taste
+- Salt to taste
 
 ## steps
 

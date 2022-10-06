@@ -2,10 +2,10 @@
 
 ## ingredients
 
-- 1 butternut squash (1.2kg)
+- 1 butternut squash (1.2 kg)
 - Groundnut oil
-- 2 x 400g tins of light coconut milk
-- 400g leftover cooked greens, such as Brussels sprouts, Brussels tops, kale, cabbage, broccoli
+- 2 x 400 g tins of light coconut milk
+- 400 g leftover cooked greens (such as Brussels sprouts, Brussels tops, kale, cabbage, broccoli)
 - Sesame oil
 - 1 fresh red chilli
 - 2 limes
@@ -20,7 +20,7 @@ Curry Paste:
 - 2 tbsp fish sauce
 - 4 fresh green chillies
 - 2 tbsp desiccated coconut
-- 1 bunch fresh coriander (30g)
+- 1 bunch fresh coriander (30 g)
 - 1 stick lemongrass
 - 1 lime
 

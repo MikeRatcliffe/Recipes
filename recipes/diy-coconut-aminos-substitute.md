@@ -2,10 +2,10 @@
 
 ## ingredients
 
-- 500ml beef broth
+- 500 ml beef broth
 - 2 tbsp balsamic vinegar
 - 1 tbsp fish sauce
-- 2 tsp tomato paste
+- 2 tsp tomato puree
 - 1/8 tsp onion powder
 - 1/4 tsp sea salt
 

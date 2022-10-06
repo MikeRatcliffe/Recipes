@@ -3,11 +3,11 @@
 ## ingredients
 
 - 4 Boneless, Skinless Chicken Breasts
-- 3 tbsp. Olive Oil
-- 2 tbsp. Spanish Smoked Paprika
-- 2 tbsp. Lemon Juice (1 Lemon)
-- 1 tbsp. Maple Syrup
-- 2 tsp. Minced Garlic
+- 3 tbsp Olive Oil
+- 2 tbsp Spanish Smoked Paprika
+- 2 tbsp Lemon Juice (1 Lemon)
+- 1 tbsp Maple Syrup
+- 2 tsp Garlic (minced)
 - Salt and Pepper
 
 ## steps

@@ -2,7 +2,7 @@
 
 ## ingredients
 
-- 1 x 400g tin of chickpeas
+- 1 x 400 g tin of chickpeas
 - 1 small clove of garlic
 - 1 tbsp tahini
 - 1 lemon

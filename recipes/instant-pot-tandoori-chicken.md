@@ -9,12 +9,12 @@ Stuffing:
 - 10 black peppercorns
 - 8 cloves
 - 1 cinnamon stick
-- 1/2 large onion chopped
+- 1/2 large onion (chopped)
 - 1 lemon (sliced)
 
 Marinade:
 
-- 1 tbsp chili powder
+- 1 tbsp chilli powder
 - 1/2 tsp turmeric
 - 2 tbsp salt
 - 1 tbsp garam masala
@@ -40,8 +40,8 @@ Cooking:
 
 1. Take the chicken out an hour before cooking.
 2. Sauté the chicken in ghee or oil.
-3. Add 240ml of water to the inner pot and place the trivet with chicken inside the pot.
-4. Cook time for 450g of bone-in chicken is 6 minutes. So a 2kg chicken the pressure cooking time would be about 24 minutes...close the lid and pressure cook for the appropriate amount of time.
+3. Add 240 ml of water to the inner pot and place the trivet with chicken inside the pot.
+4. Cook time for  450 g of bone-in chicken is 6 minutes. So a  2 kg chicken the pressure cooking time would be about 24 minutes...close the lid and pressure cook for the appropriate amount of time.
 5. Allow 10 minutes of natural pressure release and then open the Instant Pot.
 6. Remove the chicken from the pot and remove the stuffing.
 

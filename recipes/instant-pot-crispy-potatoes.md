@@ -2,14 +2,14 @@
 
 ## ingredients
 
-- 450 g potatoes peeled and cut into uniform 1" cubes
+- 450 g potatoes (peeled and cut into 1" cubes)
 - 2 tbsp ghee
 - Salt
 - Black pepper
 
 ## steps
 
-1. Add 120ml of water to the cooking insert of an Instant Pot.
+1. Add 120 ml of water to the cooking insert of an Instant Pot.
 2. Dump in the potatoes.
 3. Cook in Instant Pot for 5 minutes under high pressure.
 4. When the potatoes are done cooking, turn off the Instant Pot and let the pressure release naturally (~10 minutes). Instant Pot users can manually release the pressure at the 10 minute mark if the pressure hasn’t completely dropped by then.

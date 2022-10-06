@@ -2,8 +2,8 @@
 
 ## ingredients
 
-- 1 whole cauliflower head (about 1kg)
-- 120ml extra virgin olive oil or melted ghee
+- 1 whole cauliflower head (about  1 kg)
+- 120 ml extra virgin olive oil
 - Salt
 
 ## steps

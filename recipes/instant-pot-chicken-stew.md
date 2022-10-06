@@ -2,19 +2,19 @@
 
 ## ingredients
 
-- 700g chicken preferably with skin on (about 5-6 pieces, thighs and leg pieces are best)
-- 2 onions chopped
-- 2 tomatoes chopped
-- 1/2 kg baby potatoes halved
-- 3 carrots cut into 1cm pieces
-- 3 celery stalks cut into chunks
-- 5 cloves garlic minced
+- 700 g chicken preferably with skin on (about 5-6 pieces, thighs and leg pieces are best)
+- 2 onions (chopped)
+- 2 tomatoes (chopped)
+- 1/2 kg baby potatoes (halved)
+- 3 carrots (cut into 1cm pieces)
+- 3 celery stalks (cut into chunks)
+- 5 cloves garlic (crushed)
 - Salt and pepper to taste
 - 1 bay leaf
 - Few sprigs of rosemary
-- 120ml white wine optional
+- 120 ml white wine (optional)
 - 2 tsp Worscestershire sauce
-- 480ml of chicken stock
+- 480 ml of chicken stock
 - 2 tsp red wine vinegar
 - 2 tbsp arrowroot powder
 

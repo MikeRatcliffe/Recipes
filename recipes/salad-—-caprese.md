@@ -2,12 +2,12 @@
 
 ## ingredients
 
-- 450g fresh mozzarella
-- 4 large ripe tomatoes, sliced
-- 1 bunch basil, stems removed and discarded
-- Extra-virgin olive oil, for drizzling
-- Flaky sea salt
-- Freshly ground black pepper
+- 450 g fresh mozzarella
+- 4 large ripe tomatoes (sliced)
+- 1 bunch basil (stems removed and discarded)
+- Extra-virgin olive oil (for drizzling)
+- Sea salt flakes
+- Black pepper
 
 ## steps
 

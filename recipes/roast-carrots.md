@@ -2,7 +2,7 @@
 
 ## ingredients
 
-- 6 large carrots peeled and sliced length-wise
+- 6 large carrots (peeled and sliced length-wise)
 - 2-3 tbsp roasted garlic flavored extra virgin olive oil
 - Salt
 - Black pepper

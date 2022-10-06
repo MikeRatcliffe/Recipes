@@ -2,12 +2,12 @@
 
 ## ingredients
 
-- 200g smoked fish
+- 200 g smoked fish
 - 4 spring onions (sliced)
 - Olive oil
 - 2 small knobs of butter
 - A dash of lemon juice
-- salt and pepper
+- Salt and pepper
 - 5 large eggs
 - Parmesan cheese
 

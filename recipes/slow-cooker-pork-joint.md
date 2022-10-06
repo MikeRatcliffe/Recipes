@@ -8,7 +8,7 @@
 - 2 cloves garlic (peeled)
 - 1 carrot (roughly chopped)
 - 330 ml cider or apple juice
-- 750 ml chicken stock made with a stock cube
+- 750 ml chicken stock (made with a stock cube)
 
 Glaze:
 

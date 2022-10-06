@@ -3,17 +3,17 @@
 ## ingredients
 
 - 1 tbsp coconut water or ghee
-- 1 kg boneless pork shoulder, cut into 2" cubes
+- 1 kg boneless pork shoulder (cut into 2" cubes)
 - 1 tsp salt
-- 1 medium shallot, thinly sliced
-- 3 carrots, peeled and cut into into 2" pieces
-- 120g shiitake mushrooms, stemmed and cut in half
+- 1 medium shallot (thinly sliced)
+- 3 carrots (peeled and cut into into 2" pieces)
+- 120 g shiitake mushrooms (stemmed and cut in half)
 - 3 coin sized slices fresh ginger
-- 4 garlic cloves, crushed
-- 240ml coconut water
-- 120ml fish sauce
-- 120ml coriander leaves
-- 3 spring onions, thinly sliced
+- 4 garlic cloves (crushed)
+- 240 ml coconut water
+- 120 ml fish sauce
+- 120 ml coriander leaves
+- 3 spring onions (thinly sliced)
 
 ## steps
 

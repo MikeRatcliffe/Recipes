@@ -168,15 +168,15 @@ Tools / Equipment / Non-food items
 Units of measurement & sizing
 
 - tsp (US,UK, CA) is 5 mL (note: abbreviated 't' or 'tsp')
-- dessert spoon (UK) is 10 mL (although may have historically been closer to 15mL)
-- tbsp (US,CA) is roughly 15 mL (note: abbreviated 'T', 'TB', or 'tbsp') but a tbsp (UK) is 17.7mL and tbsp (AU) is 20 mL. Historical British cookbooks may use an ~25mL tbsp. (more details).
-- A stick of butter (US) is 1/4 lb (113 g); the physical stick is marked into eight "tbsp" divisions [slightly larger than an actual tbsp, roughly 14g each]
+- dessert spoon (UK) is 10 mL (although may have historically been closer to 15 ml)
+- tbsp (US,CA) is roughly 15 mL (note: abbreviated 'T', 'TB', or 'tbsp') but a tbsp (UK) is 17.7 ml and tbsp (AU) is 20 mL. Historical British cookbooks may use an ~25 ml tbsp. (more details).
+- A stick of butter (US) is 1/4 lb (113 g); the physical stick is marked into eight "tbsp" divisions [slightly larger than an actual tbsp, roughly  14 g each]
 - A knob of butter (UK) is somewhere around 2 TB (US), but is an inexact measure.
-- A pat of butter (US) is between 1 and 2 tsp (5 to 10 mL), most commonly 48 per lb, or ~1.5 tsp. (~9.5 grams, 7.5mL)
-- A cup (US) for cooking is a fixed measure of ~236mL (8 fluid ounces, 16 TB, 1/2 a US pint); A British Imperial cup is 1/2 of an Imperial pint (~284mL) Other countries may use a 225mL 'cup' or 250mL 'metric cup' (AU, and some regions of CA?)
+- A pat of butter (US) is between 1 and 2 tsp (5 to 10 mL), most commonly 48 per lb, or ~1.5 tsp. (~9.5 grams, 7.5 ml)
+- A cup (US) for cooking is a fixed measure of ~236 ml (8 fluid ounces, 16 TB, 1/2 a US pint); A British Imperial cup is 1/2 of an Imperial pint (~284 ml) Other countries may use a 225 ml 'cup' or 250 ml 'metric cup' (AU, and some regions of CA?)
 - A cup of coffee or tea (when measuring electric kettles) may be based on 5 or 6 oz 'cups'. Always look for the volume in mL or L when buying such items.
-- A cup of uncooked rice (for rice cooker instructions) is 175mL, roughly 3/4 of a US cup.
+- A cup of uncooked rice (for rice cooker instructions) is 175 ml, roughly 3/4 of a US cup.
 - A pint (UK, AU) is 20 Imperial fluid ounces (568.261 mL), while a pint (US) is 16 fluid ounces (473.176 mL).
 - A gas mark (UK) refers to the dials on some British gas ovens (Farmhouse Cookery). The marks from 1 to 9 correspond roughly to 275 - 475 °F (at 25 °F intervals) or 140 - 250 °C (at 10 °C intervals) (more detail below)
-- A tin (UK) of tomatoes is the sized tin can (in US, just called a "can") that it's typically sold in. For many vegetables, this is a 400mL / ~14oz container, but is not a constant (for example, anchovies or tomato paste). (ref; see below)
+- A tin (UK) of tomatoes is the sized tin can (in US, just called a "can") that it's typically sold in. For many vegetables, this is a 400 ml / ~14oz container, but is not a constant (for example, anchovies or tomato paste). (ref; see below)
 - Unless otherwise qualified, assume an egg is about 60 grams. (a 'large egg' (US,CA), but a 'medium egg' in Europe).

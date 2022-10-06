@@ -2,16 +2,16 @@
 
 ## ingredients
 
-- 1.2 kg courgettes, spiralised
-- 4 tbsp extra virgin olive oil
-- 2 cloves garlic, minced
+- 1.2 kg courgettes (spiralised)
+- 4 tbsp olive oil
+- 2 cloves garlic (minced)
 - 170 g unsalted butter
 - 700 ml heavy cream
 - 170 g cream cheese
-- 170 g Parmesan cheese or other Italian hard cheese
-- 170 g grated cheddar cheese
-- 1 tsp chopped oregano
-- 1 tbsp chopped basil
+- 170 g Parmesan cheese
+- 170 g cheddar cheese (grated)
+- 1 tsp oregano (chopped)
+- 1 tbsp basil (chopped)
 - Salt and pepper to taste
 
 ## steps

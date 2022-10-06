@@ -1,14 +1,12 @@
 # Two Minute Keto Bun
 
-![Two Minute Keto Bun](images/two-minute-keto-bun.png)
-
 ## ingredients
 
-- 3 tbsp Almond Flour
-- 1/2 tsp Baking Powder
+- 3 tbsp almond flour
+- 1/2 tsp baking powder
 - 1.5 tbsp olive oil
-- 1 Egg
-- pinch of salt
+- 1 egg
+- Pinch of salt
 
 ## steps
 

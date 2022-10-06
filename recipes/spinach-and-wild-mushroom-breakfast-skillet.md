@@ -8,7 +8,7 @@
 - 1 garlic clove (minced)
 - 1 shallot (thinly sliced)
 - 50 g mushrooms
-- 1 cup fresh spinach (chopped, loosely packed)
+- 30 g fresh spinach (chopped, loosely packed)
 - 25 g parmesan (grated)
 - 1 tbsp olive oil
 - 1 tbsp butter
@@ -20,7 +20,7 @@
 2. Add garlic and shallots and continue sautéing for another 2-3 minutes until fragrant.
 3. Add spinach and sauté until wilted, another minute.
 4. Add butter while skillet is still hot and let it melt into the veggies.
-5. Separate 2 egg whites in a bowl, add 1/4 cup heavy cream and parmesan. Whisk lightly to combine.
+5. Separate 2 egg whites in a bowl, add 60 ml heavy cream and parmesan. Whisk lightly to combine.
 6. Pour the egg white/cream mixture into the skillet, over the vegetables.
 7. Dot with cream cheese and sprinkle a pinch of salt and black pepper.
 8. Bake for 10 minutes.

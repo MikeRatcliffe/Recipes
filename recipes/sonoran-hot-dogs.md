@@ -9,10 +9,10 @@
 
 Toppings:
 
-- 1 large onion, thinly sliced
-- 1 red bell pepper or other color, thinly sliced
+- 1 large onion (thinly sliced)
+- 1 red bell pepper or other color (thinly sliced)
 - Salsa
-- 1 avocado, peeled and thinly sliced
+- 1 avocado (peeled and thinly sliced)
 
 ## steps
 

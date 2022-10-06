@@ -6,9 +6,9 @@
 - 8 eggs
 - 2 tbps cream
 - Salt
-- Black pepper ground
-- 10 cherry tomatoes quartered
-- 75g spinach chopped
+- Black pepper
+- 10 cherry tomatoes (quartered)
+- 75 g spinach (chopped)
 - 1 tsp vegetable oil
 
 ## steps

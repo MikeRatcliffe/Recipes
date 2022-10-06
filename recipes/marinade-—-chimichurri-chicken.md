@@ -2,19 +2,19 @@
 
 ## ingredients
 
-- 1 cup fresh parsley leaves
-- 2 tbsp chopped red onion
-- 1 clove garlic chopped
-- 2 tbsp avocado oil
+- 25 g fresh parsley leaves
+- 2 tbsp red onion (chopped)
+- 1 clove garlic (chopped)
+- 2 tbsp olive oil
 - 2 tbsp red wine vinegar
-- 1/8 tsp red pepper flakes
+- 1/8 tsp crushed chillies
 - 1/2 tsp sea salt
 - 1/2 tsp pepper
 
 ## steps
 
 1. Combine all ingredients in a blender and blend until smooth.
-2. Pour over 500g of chicken in a bowl or in a ziploc bag.
+2. Pour over  500 g of chicken in a bowl or in a ziploc bag.
 3. Refrigerate and let marinate at least 3 hours before cooking.
 4. Grill, pan-fry, air-fry, or bake!
 

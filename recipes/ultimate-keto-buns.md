@@ -20,7 +20,7 @@
 
 1. Preheat the oven to 175C.
 2. Use a kitchen scale to measure all the ingredients and add them to a mixing bowl (apart from the sesame seeds which are used for topping): almond flour, coconut flour, ground flaxseed, psyllium husk powder, garlic powder, onion powder, cream of tartar, baking soda and salt.
-3. Do not use whole psyllium husks - if you cannot find psyllium husk powder, use a blender or coffee grinder and process until fine.
+3. Do not use whole psyllium husks. If you cannot find psyllium husk powder, use a blender or coffee grinder and process until fine.
 4. Mix all the dry ingredients apart from psyllium husk powder.
 5. In a separate bowl, mix the wet ingredients: eggs, egg whites, lukewarm water with psyllium husk powder.
 6. Pour the wet mixture into the bowl with the dry ingredients and process well using a mixer until the dough is thick.

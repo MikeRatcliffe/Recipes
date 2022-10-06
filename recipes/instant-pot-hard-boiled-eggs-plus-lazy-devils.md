@@ -7,11 +7,11 @@
 Lazy Devil Fillings:
 
 - Chipotle Lime Mayonnaise
-- Cucumbers (Sliced)
+- Cucumbers (sliced)
 - Guacamole
 - Mayonnaise
-- Radishes (Sliced)
-- Spring onions (Sliced)
+- Radishes (sliced)
+- Spring onions (sliced)
 
 ## steps
 

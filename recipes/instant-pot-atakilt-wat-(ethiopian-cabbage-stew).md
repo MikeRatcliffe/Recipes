@@ -3,14 +3,14 @@
 ## ingredients
 
 - 2 tbsp ghee
-- 1 medium onion diced
-- 3 garlic cloves minced
-- 3 medium carrots peeled and cut into 1" thick coins
-- 900g cauliflower cut into large florets
-- 700g cabbage cored and cut into 1" cubes
+- 1 medium onion (diced)
+- 3 garlic cloves (minced)
+- 3 medium carrots (peeled and cut into 1" thick coins)
+- 900 g cauliflower (cut into large florets)
+- 700 g cabbage (cored and cut into 1" cubes)
 - 1/2 tbsp salt
-- 2 tsp ground turmeric
-- 1 tsp ground cumin
+- 2 tsp turmeric
+- 1 tsp cumin
 - 1/2 tsp black pepper
 - 120 ml chicken broth or vegetable broth
 
