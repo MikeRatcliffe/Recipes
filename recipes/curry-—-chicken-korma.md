@@ -6,23 +6,23 @@ Marinade:
 
 - 1kg boneless chicken breast or thighs, chopped into bite sized pieces
 - 70g cashews lightly chopped (or use almonds)
-- 3 tablespoons tomato puree
+- 3 tbsp tomato puree
 - 4 cloves garlic chopped
-- 1 tablespoon minced fresh ginger
-- 1 tablespoon garam masala
-- 1 teaspoon red pepper flakes
-- 1 teaspoon paprika
-- 1 teaspoon turmeric
-- 1 teaspoon ground coriander
-- 1/2 teaspoon ground cardamom
-- 1/2 teaspoon cumin
-- 1/2 teaspoon cinnamon
+- 1 tbsp minced fresh ginger
+- 1 tbsp garam masala
+- 1 tsp red pepper flakes
+- 1 tsp paprika
+- 1 tsp turmeric
+- 1 tsp ground coriander
+- 1/2 tsp ground cardamom
+- 1/2 tsp cumin
+- 1/2 tsp cinnamon
 - 120ml plain yogurt
 - Salt and pepper to taste
 
 Korma:
 
-- 1 tablespoon olive oil
+- 1 tbsp olive oil
 - 2-3 spicy chili peppers
 - 1 medium onion (chopped)
 - 120ml chicken stock or more as needed
@@ -33,7 +33,7 @@ Korma:
 1. Add the chopped chicken to a large bowl and set aside.
 2. Add the cashew nuts to a food processor and pulse to break them up.
 3. Add the tomato paste, garlic, ginger, and seasonings.
-4. Add salt and pepper to taste and pulse to form a thick paste. If it is too thick, add a couple tablespoons of water to thin it just slightly.
+4. Add salt and pepper to taste and pulse to form a thick paste. If it is too thick, add a couple tbsp of water to thin it just slightly.
 5. Mix the paste in a small bowl with the yogurt.
 6. Spoon the marinade over the chopped chicken and mix well. Cover and refrigerate at least 1 hour to let the flavors develop. You can leave it overnight to develop even more flavor.
 7. When you’re ready to cook, heat the oil in a large pan.

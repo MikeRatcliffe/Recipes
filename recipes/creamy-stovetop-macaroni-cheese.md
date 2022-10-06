@@ -4,10 +4,10 @@
 
 - 450 grams macaroni
 - 350ml milk
-- 2 tablespoons plain flour
+- 2 tbsp plain flour
 - 700g grated cheese
-- 1 teaspoon salt
-- 1/4 teaspoon powdered mustard
+- 1 tsp salt
+- 1/4 tsp powdered mustard
 
 ## steps
 

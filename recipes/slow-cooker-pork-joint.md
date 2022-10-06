@@ -13,8 +13,8 @@
 Glaze:
 
 - 115 ml maple syrup
-- 1 tablespoon English mustard (optional)
-- 2 teaspoons mixed spice
+- 1 tbsp English mustard (optional)
+- 2 tsp mixed spice
 
 ## steps
 

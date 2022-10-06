@@ -3,7 +3,7 @@
 ## ingredients
 
 - 400 g broccolini (ends trimmed)
-- 2 tablespoons extra virgin olive oil
+- 2 tbsp extra virgin olive oil
 - 1 tsp salt
 - 700 g sausage meat
 - 400 g marinara sauce

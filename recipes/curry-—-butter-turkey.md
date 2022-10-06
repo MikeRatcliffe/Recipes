@@ -2,24 +2,24 @@
 
 ## ingredients
 
-- 2 tablespoons oil
+- 2 tbsp oil
 - 2 yellow onions, roughly chopped
-- 3 tablespoons chopped ginger
+- 3 tbsp chopped ginger
 - 6 garlic cloves, crushed
 - 2 cans diced tomatoes
 - 450g cooked turkey, shredded
 - 60mg cream, yogurt, or coconut milk
-- 2 tablespoons almond butter
-- 2–4 tablespoons coconut sugar or brown sugar
+- 2 tbsp almond butter
+- 2–4 tbsp coconut sugar or brown sugar
 - Sea salt, to taste
 
 Spices:
 
-- 1 tablespoon garam masala
-- 1 teaspoon ground turmeric
-- 1 teaspoon ground coriander
-- 1 teaspoon ground cumin
-- 1/4 to 1 teaspoon chili powder
+- 1 tbsp garam masala
+- 1 tsp ground turmeric
+- 1 tsp ground coriander
+- 1 tsp ground cumin
+- 1/4 to 1 tsp chili powder
 - Seeds from 4 cardamom pods
 
 ## steps

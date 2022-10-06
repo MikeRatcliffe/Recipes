@@ -3,14 +3,14 @@
 ## ingredients
 
 - 227g Sirlion Steak
-- 1/4 teaspoon Salt
+- 1/4 tsp Salt
 - 1/8 tsp Black Pepper
 - 1/8 tsp Cumin Seed
 - 1/4 tsp Paprika
-- 2 teaspoons Olive Oil
-- 1/2 tablespoon Olive Oil
+- 2 tsp Olive Oil
+- 1/2 tbsp Olive Oil
 - Peppers
-- 1/8 teaspoon Salt
+- 1/8 tsp Salt
 - 1/8 tsp Black Pepper
 - 30g Monterey Cheese, grated
 

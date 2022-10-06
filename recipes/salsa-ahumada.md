@@ -2,13 +2,13 @@
 
 ## ingredients
 
-- 2 tablespoons avocado oil or ghee
+- 2 tbsp avocado oil or ghee
 - 3 medium garlic cloves, peeled
 - 1 small yellow onion, roughly chopped
 - 6 chillies (chopped)
-- 2 tablespoons apple cider vinegar
+- 2 tbsp apple cider vinegar
 - 1 can diced tomatoes
-- 1/2 teaspoon salt
+- 1/2 tsp salt
 
 ## steps
 

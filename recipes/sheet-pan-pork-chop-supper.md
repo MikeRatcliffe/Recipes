@@ -17,10 +17,10 @@
 ## steps
 
 1. Set the oven to 220C.
-2. In a large bowl, combine 3 tbsp olive oil, lemon juice, sage, garlic, and 1 1/2 teaspoons salt. Mix well.
+2. In a large bowl, combine 3 tbsp olive oil, lemon juice, sage, garlic, and 1 1/2 tsp salt. Mix well.
 3. Throw in the pork chops, and coat them well.
 4. Line a large rimmed baking sheet with parchment, and arrange the coated pork chops on the pan. (If you leave off the parchment, the ingredients will brown better BUT clean-up is harder.)
-5. Toss the apple wedges, Brussels sprouts, and onion into the bowl with the remaining 2 tablespoons of olive oil and 1/2 teaspoon salt.
+5. Toss the apple wedges, Brussels sprouts, and onion into the bowl with the remaining 2 tbsp of olive oil and 1/2 tsp salt.
 6. Spread the veggies in an even layer around the pork chops. Grind some pepper on top.
 7. Make sure everything’s in a single layer, and roast for 12 minutes or until the chops are just cooked through (63C in the thickest parts).
 8. Crank the heat to broil and cook for an additional 3-5 minutes or until the pork and veggies are browned.

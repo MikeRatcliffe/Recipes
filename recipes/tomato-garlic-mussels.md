@@ -3,7 +3,7 @@
 ## ingredients
 
 - 1 kg mussels
-- 2 tablespoons butter
+- 2 tbsp butter
 - 4 cloves of garlic, minced
 - 1 hot pepper, sliced
 - 2 large, ripe tomatoes, coarsely chopped

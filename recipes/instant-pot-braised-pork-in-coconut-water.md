@@ -2,9 +2,9 @@
 
 ## ingredients
 
-- 1 tablespoon coconut water or ghee
+- 1 tbsp coconut water or ghee
 - 1 kg boneless pork shoulder, cut into 2" cubes
-- 1 teaspoon salt
+- 1 tsp salt
 - 1 medium shallot, thinly sliced
 - 3 carrots, peeled and cut into into 2" pieces
 - 120g shiitake mushrooms, stemmed and cut in half

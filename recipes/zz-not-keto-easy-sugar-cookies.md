@@ -17,7 +17,7 @@
 3. In a large bowl, cream together the butter and sugar until smooth.
 4. Beat in egg and vanilla.
 5. Gradually blend in the dry ingredients.
-6. Roll rounded teaspoonfuls of dough into balls, and place onto ungreased cookie sheets.
+6. Roll rounded tspfuls of dough into balls, and place onto ungreased cookie sheets.
 7. Bake 8 to 10 minutes in the preheated oven, or until golden. Let stand on cookie sheet two minutes before removing to cool on wire racks.
 
 ## based on

@@ -4,8 +4,8 @@
 
 - 120 ml All-Purpose Stir-Fry Sauce
 - 1 tbsp olive oil plus more for greasing the sheet pan
-- 2 teaspoons arrowroot powder
-- 1/2 teaspoon Diamond Crystal kosher salt
+- 2 tsp arrowroot powder
+- 1/2 tsp Diamond Crystal kosher salt
 - 700 g boneless and skinless chicken breasts cut into 1-inch cubes
 - 450 g sugar snap peas trimmed
 - 110 g fresh shiitake mushrooms cut in half or quarters

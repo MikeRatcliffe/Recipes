@@ -13,10 +13,10 @@
 - 1 bay leaf
 - Few sprigs of rosemary
 - 120ml white wine optional
-- 2 teaspoon Worscestershire sauce
+- 2 tsp Worscestershire sauce
 - 480ml of chicken stock
-- 2 teaspoon red wine vinegar
-- 2 tablespoons arrowroot powder
+- 2 tsp red wine vinegar
+- 2 tbsp arrowroot powder
 
 ## steps
 

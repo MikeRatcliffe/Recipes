@@ -2,13 +2,13 @@
 
 ## ingredients
 
-- 1 tablespoon extra virgin olive oil avocado oil, ghee, or fat of choice
+- 1 tbsp extra virgin olive oil avocado oil, ghee, or fat of choice
 - 80g finely diced onion
 - 120g mushrooms thinly sliced
 - Magic Mushroom Powder or salt
 - 1 pound sausages
 - 500ml tomato sauce
-- 1 teaspoon crushed chillies
+- 1 tsp crushed chillies
 - 4 large eggs
 - Black pepper
 
@@ -17,7 +17,7 @@
 1. Preheat the oven to 200C with the rack in the upper-middle position.
 2. Heat a large skillet over medium heat and swirl in the extra virgin olive oil or fat of choice when the pan is hot.
 3. Add the onions and saute until translucent, about 5 minutes.
-4. Toss in the mushrooms and add 1/2 teaspoon Magic Mushroom Powder or salt. Cook for 5 minutes, stirring frequently, until the moisture released by the mushrooms evaporates.
+4. Toss in the mushrooms and add 1/2 tsp Magic Mushroom Powder or salt. Cook for 5 minutes, stirring frequently, until the moisture released by the mushrooms evaporates.
 5. Add the sausage to the pan, breaking it up with a spatula. Cook the sausage until it’s no longer pink.
 6. Pour the tomato sauce into the pan and stir in the crushed chillies. Continue cooking the meaty sauce until it starts bubbling.
 7. Put the sauce in a casserole dish.

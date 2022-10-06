@@ -5,23 +5,23 @@
 Plain Cloud Bread:
 
 - 3 large eggs
-- 1/4 teaspoon cream of tartar
+- 1/4 tsp cream of tartar
 - Salt
 - 60g cream cheese, softened
 
 Pizza Cloud Bread:
 
-- 1 tablespoons Italian seasoning
-- 2 tablespoons shredded mozzarella or grated Parmesan
-- 2 teaspoon tomato puree
+- 1 tbsp Italian seasoning
+- 2 tbsp shredded mozzarella or grated Parmesan
+- 2 tsp tomato puree
 
 Everything Bagel Cloud Bread:
 
-- 1/8 teaspoon salt
-- 1 teaspoon poppy seeds
-- 1 teaspoon sesame seeds
-- 1 teaspoon minced dried garlic
-- 1 teaspoon minced dried onion
+- 1/8 tsp salt
+- 1 tsp poppy seeds
+- 1 tsp sesame seeds
+- 1 tsp minced dried garlic
+- 1 tsp minced dried onion
 
 ## steps
 
@@ -40,18 +40,18 @@ Plain Cloud Bread:
 Pizza Cloud Bread:
 
 1. Into the egg yolk mixture, add:
-   - 1 tablespoon Italian seasoning
+   - 1 tbsp Italian seasoning
    - 2 tbsp shredded mozzarella or grated Parmesan
-   - 2 teaspoons tomato puree
+   - 2 tsp tomato puree
 
 Everything Bagel Cloud Bread::
 
 1. Into the egg yolk mixture, add:
-   - 1/8 teaspoon salt
-   - 1 teaspoon poppy seeds
-   - 1 teaspoon sesame seeds
-   - 1 teaspoon minced dried garlic
-   - 1 teaspoon minced dried onion.
+   - 1/8 tsp salt
+   - 1 tsp poppy seeds
+   - 1 tsp sesame seeds
+   - 1 tsp minced dried garlic
+   - 1 tsp minced dried onion.
 
 ## based on
 

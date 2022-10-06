@@ -3,11 +3,11 @@
 ## ingredients
 
 - 120ml All-Purpose Stir-Fry Sauce
-- 1 1/2 teaspoons arrowroot powder divided
+- 1 1/2 tsp arrowroot powder divided
 - 600g boneless, skinless chicken thighs or breasts cut into bite-size pieces
-- 2 tablespoons coconut oil divided
-- 1 teaspoon fish sauce
-- 1/2 teaspoon salt
+- 2 tbsp coconut oil divided
+- 1 tsp fish sauce
+- 1/2 tsp salt
 - 1 large shallot thinly sliced
 - 400g broccoli cut into small florets and stems thinly sliced
 - 2 garlic cloves minced
@@ -16,9 +16,9 @@
 ## steps
 
 1. Shake up a bottle of All-Purpose Stir-Fry Sauce if you don’t already have one in the fridge.
-2. Pour 120ml of the sauce into a small measuring jug and whisk in 1 teaspoon of arrowroot powder. Set it aside.
-3. In a medium bowl, combine the chicken, 1 tablespoon avocado oil, fish sauce, kosher salt, and remaining 1/2 teaspoon arrowroot powder. Mix well to combine.
-4. Heat a large skillet over medium high heat. When the pan is hot, add 1 tablespoon oil.
+2. Pour 120ml of the sauce into a small measuring jug and whisk in 1 tsp of arrowroot powder. Set it aside.
+3. In a medium bowl, combine the chicken, 1 tbsp avocado oil, fish sauce, kosher salt, and remaining 1/2 tsp arrowroot powder. Mix well to combine.
+4. Heat a large skillet over medium high heat. When the pan is hot, add 1 tbsp oil.
 5. Add the shallots and cook for 1-2 minutes or until slightly softened.
 6. Place the marinated chicken in the pan and fry the meat for 2-3 minutes or until it’s mostly cooked through. Transfer the chicken to another platter.
 7. Add the broccoli to the empty skillet and pour in 120ml of water. Cover the pan and cook the florets until they are bright green and tender-crisp, about 2-3 minutes.

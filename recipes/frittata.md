@@ -15,9 +15,9 @@
 ## steps
 
 1. Preheat oven to 200C.
-2. Whisk the eggs, heavy cream, and 1/2 teaspoon salt together in a small bowl; set aside.
+2. Whisk the eggs, heavy cream, and 1/2 tsp salt together in a small bowl; set aside.
 3. Cook the bacon, remove from pan but leave the fat in.
-4. Fry the potatoes in the bacon fat, sprinkle with the pepper and the remaining 1/2 teaspoon salt. Cook, stirring occasionally, until tender and lightly browned, 4 to 6 minutes.
+4. Fry the potatoes in the bacon fat, sprinkle with the pepper and the remaining 1/2 tsp salt. Cook, stirring occasionally, until tender and lightly browned, 4 to 6 minutes.
 5. Pile the spinach into the pan with the garlic and thyme, and cook, stirring, for 30 seconds to 1 minute or until spinach wilts.
 6. Add the bacon back to the pan and stir to evenly distribute.
 7. Spread the vegetables into an even layer, flattening with a spatula. Sprinkle the cheese on top and let it just start to melt.

@@ -5,13 +5,13 @@
 Tandoori Marinade:
 
 - 226 g full-fat coconut milk
-- 2 tablespoons tandoori spice mix (no salt added)
-- 1 1/2 teaspoons salt
-- 1 tablespoon lemon juice
+- 2 tbsp tandoori spice mix (no salt added)
+- 1 1/2 tsp salt
+- 1 tbsp lemon juice
 
 Sheet Pan Tandoori Chicken:
 
-- 1 tablespoon fat of choice
+- 1 tbsp fat of choice
 - 1 small cauliflower 1 kg or less (cut into florets)
 - 1 small red onion (cut into thin wedges)
 - 680 g chicken thighs (boneless and skinless)

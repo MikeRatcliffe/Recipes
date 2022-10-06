@@ -20,10 +20,10 @@
 ## steps
 
 1. Preheat the oven to 220C, with one rack in the upper middle position and another one in the lower middle position. While you’re waiting for the oven to heat up, prep the ingredients.
-2. Grab the pork medallions and toss well with 1 1/2 teaspoons salt.
-3. Next, combine the jam, soy sauce, sriracha, tomato paste, fish sauce, garlic, and 1/4 teaspoon freshly ground black pepper in a large bowl. Whisk until smooth.
+2. Grab the pork medallions and toss well with 1 1/2 tsp salt.
+3. Next, combine the jam, soy sauce, sriracha, tomato paste, fish sauce, garlic, and 1/4 tsp freshly ground black pepper in a large bowl. Whisk until smooth.
 4. Add the pork to the bowl and mix well. Arrange the pork in a single-layer on two rimmed baking sheet.
-5. Toss in the green beans, mushrooms, bell pepper, and onions, and 1 teaspoon salt to the bowl with the remaining sauce. Use your hands to coat all the vegetables evenly in the sauce.
+5. Toss in the green beans, mushrooms, bell pepper, and onions, and 1 tsp salt to the bowl with the remaining sauce. Use your hands to coat all the vegetables evenly in the sauce.
 6. Arrange the veggies in a single layer around the pork on the baking sheets.
 7. Pop the trays in the oven and roast for a total of 15 to 20 minutes or until the pork is cooked through (60C in the thickest parts of the pork medallions), swapping the pans at the halfway point to ensure even doneness.
 8. If you want your pork and veggies with a little more char, place each tray about 6 inches under the grill for a few minutes to brown. Top with scallions and serve.

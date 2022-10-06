@@ -15,10 +15,10 @@
 
 ## steps
 
-1. In a large bowl toss the chinese leaf with at least 2 tablespoons salt.
+1. In a large bowl toss the chinese leaf with at least 2 tbsp salt.
 2. Set aside to brine for 1 hour.
 3. Rinse the chinese leaf in a colander cleaning as much salt as possible off then leave to drain until dry.
-4. Put the spring onion whites, ginger, apple, fish sauce and 2 teaspoons salt in a blender.
+4. Put the spring onion whites, ginger, apple, fish sauce and 2 tsp salt in a blender.
 5. Blitz until smooth.
 6. Stir in the Korean chili flakes.
 7. In a large bowl, combine the drained chinese leaf with the spring onion greens, carrot, pepper and garlic.

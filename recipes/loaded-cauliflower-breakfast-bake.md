@@ -7,7 +7,7 @@
 - 10 large eggs
 - 240ml milk
 - 2 cloves garlic, crushed
-- 2 teaspoons paprika
+- 2 tsp paprika
 - Salt
 - Black pepper
 - 166g grated cheddar

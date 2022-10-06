@@ -4,12 +4,12 @@
 
 - 450 g bag frozen cauliflower
 - 110 g cream cheese
-- 2 tablespoons heavy cream or low carb milk
+- 2 tbsp heavy cream or low carb milk
 - 110 g cheddar cheese, grated
 - 2 spring onions, finely chopped
-- 1 teaspoon minced chives, optional
-- 1/2 teaspoon salt, or to taste
-- 1/2 teaspoon pepper, or to taste
+- 1 tsp minced chives, optional
+- 1/2 tsp salt, or to taste
+- 1/2 tsp pepper, or to taste
 - 60g cheddar cheese, grated
 
 ## steps

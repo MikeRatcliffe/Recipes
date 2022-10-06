@@ -8,7 +8,7 @@ Sushi Rice:
 - 350 ml cold water
 - 7 tbsp rice vinegar
 - 5 tbsp granulated sugar
-- 2 teaspoon salt
+- 2 tsp salt
 
 Filling Ideas:
 

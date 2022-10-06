@@ -2,7 +2,7 @@
 
 ## ingredients
 
-- 2 tablespoons coconut oil
+- 2 tbsp coconut oil
 - 450g lamb stew meat cut into 1 1/2" chunks
 - Salt
 - Black pepper
@@ -10,7 +10,7 @@
 - 2 small onions coarsely chopped
 - 120g mushrooms quartered
 - 7 garlic cloves minced
-- 2 tablespoons Rogan Josh seasoning
+- 2 tbsp Rogan Josh seasoning
 - 120 ml full-fat coconut milk
 - 120 ml water
 

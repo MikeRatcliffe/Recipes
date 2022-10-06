@@ -45,7 +45,7 @@ Enchiladas:
 5. Sauté the mixture for 6-8 minutes, stirring occasionally, or until the chicken is cooked through.
 6. Add in the beans and stir until evenly combined.
 7. Remove pan from heat and set aside.
-8. Lay out a tortilla, and spread two tablespoons of sauce over the surface of the tortilla.
+8. Lay out a tortilla, and spread two tbsp of sauce over the surface of the tortilla.
 9. Add a generous spoonful of the chicken mixture in a line down the center of the tortilla.
 10. Sprinkle with 1/3 cup cheese.
 11. Roll up tortilla and place in a greased 20 x 30cm baking tray.

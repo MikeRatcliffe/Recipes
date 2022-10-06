@@ -4,8 +4,8 @@
 
 - 1 large egg yolk
 - 1 tablepoon lemon juice
-- 1 tablespoon Water
-- 1 teaspoon Dijon Mustard
+- 1 tbsp Water
+- 1 tsp Dijon Mustard
 - 240ml avocado oil
 - Salt
 

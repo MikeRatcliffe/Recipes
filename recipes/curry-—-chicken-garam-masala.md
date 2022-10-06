@@ -16,7 +16,7 @@ Garam Masala:
 Chicken:
 
 - 450g chicken breasts (without skin)
-- 3 tablespoons butter
+- 3 tbsp butter
 - Salt
 - 1/2 red pepper, finely diced
 - 300ml unsweetened coconut cream or heavy whipping cream

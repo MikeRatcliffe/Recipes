@@ -4,14 +4,14 @@
 
 Base:
 
-- 3 tablespoons ghee
+- 3 tbsp ghee
 - 1 medium onion (chopped)
 - 2 garlic cloves, peeled and finely chopped
-- 1 teaspoon fresh ginger, grated
-- 2 teaspoons garam masala
-- 1 teaspoon turmeric
-- 1 teaspoon hot chili powder
-- 1 tablespoon tomato puree
+- 1 tsp fresh ginger, grated
+- 2 tsp garam masala
+- 1 tsp turmeric
+- 1 tsp hot chili powder
+- 1 tbsp tomato puree
 - 400 grams diced tomatoes
 
 Vegetables:
@@ -20,8 +20,8 @@ Vegetables:
 
 After Veg is added:
 
-- 1/2 teaspoon salt
-- 1/4 teaspoon ground black pepper
+- 1/2 tsp salt
+- 1/4 tsp ground black pepper
 - 400 grams coconut milk
 
 ## steps

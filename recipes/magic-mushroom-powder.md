@@ -4,9 +4,9 @@
 
 - 85 g dried porcini mushrooms
 - 200g salt
-- 3 tablespoons crushed chillies
-- 2 tablespoons dried thyme
-- 1 tablespoon black pepper
+- 3 tbsp crushed chillies
+- 2 tbsp dried thyme
+- 1 tbsp black pepper
 
 ## steps
 

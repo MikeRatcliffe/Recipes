@@ -6,7 +6,7 @@
 - 240 ml yogurt
 - 120 ml milk
 - 1-2 tbsp sugar
-- 1/4 teaspoon cardamom powder
+- 1/4 tsp cardamom powder
 
 ## steps
 

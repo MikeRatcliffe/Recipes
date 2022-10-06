@@ -19,7 +19,7 @@
 3. In a medium bowl combine the flour, baking soda, and salt.
 4. In the bowl of an electric mixer beat the butter, granulated sugar, and brown sugar until creamy (about 2 minutes).
 5. Add the vanilla and eggs. Gradually beat in the flour mixture. Stir in the chocolate chips.
-6. Divide the dough into 3-tablespoon sized balls using a large cookie scoop and drop onto prepared baking sheets.
+6. Divide the dough into 3-tbsp sized balls using a large cookie scoop and drop onto prepared baking sheets.
 7. Bake for 11-13 minutes, or until golden brown. Cool for 5 minutes before removing to wire racks to cool completely.
 
 ## based on

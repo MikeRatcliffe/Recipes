@@ -2,16 +2,16 @@
 
 ## ingredients
 
-- 2 tablespoons lard
+- 2 tbsp lard
 - 1 medium onion chopped
 - 1 clove garlic minced
-- 1/2 teaspoon ginger powder
-- 1/2 tablespoon Chinese 5 spice
+- 1/2 tsp ginger powder
+- 1/2 tbsp Chinese 5 spice
 - 1 1/2 cups broccoli finely chopped
 - 500g minced beef
-- 1/2 teaspoon salt
+- 1/2 tsp salt
 - 1/4 cup parsley chopped
-- 1 tablespoon sesame seeds
+- 1 tbsp sesame seeds
 
 ## steps
 

@@ -3,11 +3,11 @@
 ## ingredients
 
 - 700 g Brussels sprouts
-- 2 tablespoons fat of choice
+- 2 tbsp fat of choice
 - Salt
 - Black pepper
 - 4 bacon slices, diced
-- 1 tablespoon aged balsamic vinegar
+- 1 tbsp aged balsamic vinegar
 
 ## steps
 

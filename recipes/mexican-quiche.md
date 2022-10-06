@@ -6,9 +6,9 @@
 - 120g chopped green chiles
 - 120ml heavy cream
 - 3 eggs
-- 1/8 teaspoon cumin
-- 1/8 teaspoon chili powder
-- 1/8 teaspoon salt
+- 1/8 tsp cumin
+- 1/8 tsp chili powder
+- 1/8 tsp salt
 
 ## steps
 

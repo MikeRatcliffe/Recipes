@@ -4,10 +4,10 @@
 
 - 4 large eggs
 - 60ml milk
-- 2 tablespoons Chopped chives
+- 2 tbsp Chopped chives
 - Salt
 - Black pepper
-- 1 tablespoon butter
+- 1 tbsp butter
 - 80g grated cheddar, divided
 - 4 slices ham
 

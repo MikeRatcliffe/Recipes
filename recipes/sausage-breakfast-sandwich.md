@@ -3,11 +3,11 @@
 ## ingredients
 
 - 2 large eggs
-- 3/4 tablespoon heavy cream
+- 3/4 tbsp heavy cream
 - Pinch crushed chili
 - Salt
 - Black pepper
-- 1 teaspoon butter
+- 1 tsp butter
 - 1 slice cheddar
 - 2 lorne sausage, heated according to package instructions
 - Avocado, sliced

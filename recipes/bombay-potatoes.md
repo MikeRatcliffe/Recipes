@@ -10,17 +10,17 @@
 - 8 spring onions
 - 1 fresh red chilli
 - 1/2 bunch of fresh coriander
-- 1 teaspoon cumin seeds
-- 1 teaspoon mustard seeds
-- 1 teaspoon ground turmeric
-- 1 teaspoon ground coriander
+- 1 tsp cumin seeds
+- 1 tsp mustard seeds
+- 1 tsp ground turmeric
+- 1 tsp ground coriander
 - 1 pinch of garam masala
-- 4 tablespoons natural yoghurt
+- 4 tbsp natural yoghurt
 
 ## steps
 
 1. Peel the ginger and garlic, chop the tomatoes, then place in a blender and blitz until smooth. Chop the potatoes into 2cm chunks.
-2. Melt 2 tablespoons of ghee into a large non-stick frying pan over a medium–high heat.
+2. Melt 2 tbsp of ghee into a large non-stick frying pan over a medium–high heat.
 3. Add the potatoes and cook for 10 minutes, or until golden, gently squishing them with a potato masher to increase the surface area and give you more crispy bits.
 4. Trim and roughly chop the spring onions, and deseed and finely slice the chilli.
 5. Pick the coriander leaves and reserve, then finely chop the stalks.

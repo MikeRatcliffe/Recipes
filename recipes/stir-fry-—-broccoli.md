@@ -7,12 +7,12 @@
 - 1 orange bell pepper, cut into bite-size squares
 - 2 portobello mushroom caps, sliced
 - 3 garlic cloves, minced
-- 2 teaspoons ginger, grated (about a 2-inch nub)
-- 2 tablespoons rice wine
-- 2 tablespoons rice vinegar
-- 2 tablespoons soy sauce
-- 1 teaspoon Sriracha hot sauce
-- 2 tablespoons sesame oil (regular, not toasted)
+- 2 tsp ginger, grated (about a 2-inch nub)
+- 2 tbsp rice wine
+- 2 tbsp rice vinegar
+- 2 tbsp soy sauce
+- 1 tsp Sriracha hot sauce
+- 2 tbsp sesame oil (regular, not toasted)
 - Kosher salt
 
 For the garnish:

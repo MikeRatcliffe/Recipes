@@ -5,19 +5,19 @@
 Burgers:
 
 - 225g minced beef
-- 1 teaspoon Worcestershire sauce
-- 1/2 teaspoon garlic powder
-- 1/2 teaspoon onion powder
-- 1/2 teaspoon salt
+- 1 tsp Worcestershire sauce
+- 1/2 tsp garlic powder
+- 1/2 tsp onion powder
+- 1/2 tsp salt
 
 Dressing:
 
 - 60ml mayonnaise
-- 2 tablespoons ketchup
-- 2 tablespoons mustard
-- 1 tablespoon dill relish
-- 1 teaspoon fresh dill
-- 1 teaspoon white distilled vinegar
+- 2 tbsp ketchup
+- 2 tbsp mustard
+- 1 tbsp dill relish
+- 1 tsp fresh dill
+- 1 tsp white distilled vinegar
 
 Salad:
 

@@ -2,13 +2,13 @@
 
 ## ingredients
 
-- 3 tablespoons Worcestershire sauce
-- 2 teaspoons chili powder
+- 3 tbsp Worcestershire sauce
+- 2 tsp chili powder
 - 2 bay leaves
 - 3 garlic cloves minced
-- 1 teaspoon onion salt
-- 1 teaspoon pepper
-- 2 teaspoons liquid smoke
+- 1 tsp onion salt
+- 1 tsp pepper
+- 2 tsp liquid smoke
 - 2 kg beef brisket
 - 120 ml beef broth
 - 500 ml barbecue sauce

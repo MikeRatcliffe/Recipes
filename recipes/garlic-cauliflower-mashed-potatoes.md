@@ -5,9 +5,9 @@
 - 1 large cauliflower
 - 5 large garlic cloves peeled and sliced
 - Salt
-- 1/4 teaspoon freshly ground nutmeg
-- 1/4 teaspoon black pepper
-- 2 tablespoons ghee olive oil, avocado oil, or fat of choice
+- 1/4 tsp freshly ground nutmeg
+- 1/4 tsp black pepper
+- 2 tbsp ghee olive oil, avocado oil, or fat of choice
 
 ## steps
 

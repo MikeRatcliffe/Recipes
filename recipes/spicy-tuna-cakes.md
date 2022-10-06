@@ -2,10 +2,10 @@
 
 ## ingredients
 
-- 3 tablespoons melted ghee (divided)
+- 3 tbsp melted ghee (divided)
 - 300 g canned albacore tuna packed in water (drained)
 - 3 spring onions (thinly sliced)
-- 2 tablespoons fresh coriander (finely chopped)
+- 2 tbsp fresh coriander (finely chopped)
 - 175 g mashed sweet potato
 - Zest from 1/2 medium lemon (finely grated)
 - 15 ml jalapeño pepper (crushed)
@@ -16,9 +16,9 @@
 
 ## steps
 
-1. Preheat the oven to 175C, and use a brush to grease a 12-slot regular sized muffin tin with one tablespoon of melted ghee.
+1. Preheat the oven to 175C, and use a brush to grease a 12-slot regular sized muffin tin with one tbsp of melted ghee.
 2. In a large bowl, mix together the tuna, spring onions, and coriander. Add the mashed sweet potato to the tuna mixture, and gently combine.
-3. Then, mix in the lemon zest, jalapeño, the remaining two tablespoons of ghee, eggs, and crushed chillies. Season with salt and pepper to taste. I normally use 1 teaspoon salt.
+3. Then, mix in the lemon zest, jalapeño, the remaining two tbsp of ghee, eggs, and crushed chillies. Season with salt and pepper to taste. I normally use 1 tsp salt.
 4. Use your hands to mix everything together because that way you can make sure that the fish chunks aren’t overly broken up.
 5. Scoop a 60ml of the mixture into each greased muffin tin slot and flatten with the back of a spoon.
 6. Bake the tuna cakes for 20-25 minutes or until an inserted toothpick comes out cleanly.

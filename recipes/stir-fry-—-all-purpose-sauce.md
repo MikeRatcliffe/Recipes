@@ -5,18 +5,18 @@
 - 240 ml coconut aminos
 - 120 ml fresh pineapple juice
 - 60 ml fish sauce
-- 2 tablespoons rice vinegar
-- 2 teaspoons garlic powder
-- 2 teaspoons ginger powder
+- 2 tbsp rice vinegar
+- 2 tsp garlic powder
+- 2 tsp ginger powder
 
 single serving:
 
 - 80 ml coconut aminos
 - 40 ml fresh pineapple juice
 - 20 ml fish sauce
-- 2/3 tablespoon rice vinegar
-- 1 teaspoon garlic powder
-- 1 teaspoon ginger powder
+- 2/3 tbsp rice vinegar
+- 1 tsp garlic powder
+- 1 tsp ginger powder
 
 ## steps
 

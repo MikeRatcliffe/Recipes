@@ -5,7 +5,7 @@
 - 480ml tightly packed rocket
 - 240ml tightly packed Italian parsley
 - 120ml toasted almond slivers
-- 1 tablespoon capers (rinsed and drained)
+- 1 tbsp capers (rinsed and drained)
 - 1 medium garlic clove
 - 2 tbsp lemon juice
 - 120ml extra virgin olive oil

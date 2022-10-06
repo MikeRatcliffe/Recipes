@@ -5,9 +5,9 @@
 - 1 large cauliflower
 - 5 large garlic cloves (peeled and sliced)
 - Salt
-- 1/4 teaspoon nutmeg (ground)
-- 1/4 teaspoon black pepper
-- 2 tablespoons butter
+- 1/4 tsp nutmeg (ground)
+- 1/4 tsp black pepper
+- 2 tbsp butter
 
 ## steps
 

@@ -15,7 +15,7 @@
 
 1. Grab (or make) some Rocket Pesto. It’ll take just a few minutes!
 2. Heat oven to 220C with the rack in the middle position.
-3. In a rimmed baking sheet, toss the asparagus and cherry tomatoes with 1/2 teaspoon kosher salt, 1/4 teaspoon black pepper, and 1/4 cup oil.
+3. In a rimmed baking sheet, toss the asparagus and cherry tomatoes with 1/2 tsp kosher salt, 1/4 tsp black pepper, and 1/4 cup oil.
 4. Arrange the vegetables in a single layer.
 5. Pat the salmon fillets dry with a paper towel. Place the fillets in the pan and flip them around to coat all sides with the oil.
 6. Sprinkle the salmon with salt and pepper on both sides and arrange the fillets skin-side down among the veggies.

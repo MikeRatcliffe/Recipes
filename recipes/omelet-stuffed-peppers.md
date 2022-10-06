@@ -7,7 +7,7 @@
 - 60ml milk
 - 4 slices bacon, cooked and crumbled
 - 80g grated cheddar
-- 2 tablespoons finely chopped chives, plus more for garnish
+- 2 tbsp finely chopped chives, plus more for garnish
 - Salt
 - Black pepper
 

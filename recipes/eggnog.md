@@ -5,12 +5,12 @@
 - 250 ml milk
 - 250 ml cream
 - 3 egg yolks
-- 1/2 teaspoon stevia
-- 1 teaspoons vanilla extract
-- 1/2 teaspoon ground cinnamon
-- 1/4 teaspoon ground nutmeg
-- 1/8 teaspoon ground cloves
-- 1 teaspoon rum extract
+- 1/2 tsp stevia
+- 1 tsp vanilla extract
+- 1/2 tsp ground cinnamon
+- 1/4 tsp ground nutmeg
+- 1/8 tsp ground cloves
+- 1 tsp rum extract
 - Pinch of salt
 
 ## steps

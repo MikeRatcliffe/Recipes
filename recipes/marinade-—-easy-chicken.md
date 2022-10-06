@@ -2,12 +2,12 @@
 
 ## ingredients
 
-- 3 tablespoons fresh lemon juice
-- 1 tablespoon dried oregano (fresh would be even better!)
+- 3 tbsp fresh lemon juice
+- 1 tbsp dried oregano (fresh would be even better!)
 - 3 cloves garlic, pressed or minced
-- 2 tablespoons olive oil
-- 2 teaspoons salt
-- 1/4 teaspoon black pepper, freshly ground
+- 2 tbsp olive oil
+- 2 tsp salt
+- 1/4 tsp black pepper, freshly ground
 - 12 chicken drumsticks, raw
 
 ## steps

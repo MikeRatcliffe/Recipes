@@ -3,23 +3,23 @@
 ## ingredients
 
 - 1 1/2 kg chicken thighs
-- 1/2 teaspoon black pepper
+- 1/2 tsp black pepper
 - Salt
-- 2 tablespoons ghee or lard
+- 2 tbsp ghee or lard
 - 1 small white onion, finely chopped
-- 1 tablespoon tomato puree
+- 1 tbsp tomato puree
 - 6 medium garlic cloves, minced
-- 2 teaspoons dried oregano
-- 2 teaspoons chili powder
+- 2 tsp dried oregano
+- 2 tsp chili powder
 - 2 bay leaves
 - 2 tins diced tomatoes, drained
-- 2 tablespoons apple cider vinegar
+- 2 tbsp apple cider vinegar
 - 500ml bone broth
 
 ## steps
 
-1. In a large bowl, toss the chicken thighs with pepper and 2 teaspoons of salt.
-2. Melt the fat in a large pot over medium heat. Once the fat is shimmering hot, add the onions, tomato puree, and 1/2 teaspoon salt. Cook, stirring until the onions have softened.
+1. In a large bowl, toss the chicken thighs with pepper and 2 tsp of salt.
+2. Melt the fat in a large pot over medium heat. Once the fat is shimmering hot, add the onions, tomato puree, and 1/2 tsp salt. Cook, stirring until the onions have softened.
 3. Toss in the garlic, oregano, chilli powder, and bay leaves. Stir for about 30 seconds or until fragrant.
 4. Add the drained tomatoes and apple cider vinegar, and pour in the broth.
 5. Stir well to combine, and then add the chicken. Increase the heat to high, and bring everything to a boil.

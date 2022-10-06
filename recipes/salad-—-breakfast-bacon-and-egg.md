@@ -6,11 +6,11 @@ Bacon Vinaigrette:
 
 - 4 slices bacon
 - 1 shallot, finely diced
-- 3 tablespoons red wine vinegar
-- 1 teaspoon Dijon mustard
-- 1/4 teaspoon salt
-- 1/4 teaspoon black pepper
-- 4 tablespoons oil
+- 3 tbsp red wine vinegar
+- 1 tsp Dijon mustard
+- 1/4 tsp salt
+- 1/4 tsp black pepper
+- 4 tbsp oil
 
 Salad:
 

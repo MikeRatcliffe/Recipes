@@ -2,11 +2,11 @@
 
 ## ingredients
 
-- 1 tablespoon extra virgin olive oil or avocado oil
-- 1 tablespoon lemon juice
+- 1 tbsp extra virgin olive oil or avocado oil
+- 1 tbsp lemon juice
 - 2 garlic cloves minced
-- 1 teaspoon Magic Mushroom Powder or salt
-- 1/4 teaspoon black pepper
+- 1 tsp Magic Mushroom Powder or salt
+- 1/4 tsp black pepper
 - 500g green beans
 
 ## steps

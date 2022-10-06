@@ -3,7 +3,7 @@
 ## ingredients
 
 - 450 g potatoes peeled and cut into uniform 1" cubes
-- 2 tablespoons ghee
+- 2 tbsp ghee
 - Salt
 - Black pepper
 
