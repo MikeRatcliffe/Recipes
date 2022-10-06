@@ -20,3 +20,7 @@
 5. When peppers are done baking, pour egg mixture into peppers.
 6. Place back in the oven and bake 35 to 40 minutes more, until eggs are set.
 7. Garnish with more chives and serve.
+
+## based on
+
+- https://www.delish.com/cooking/recipe-ideas/recipes/a58119/omelet-stuffed-peppers-recipe/

@@ -16,3 +16,7 @@
 1. Dump all the ingredients in a blender and blitz until smooth and creamy.
 2. Adjust for seasoning with salt and pepper.
 3. The sauce can be kept in a tightly sealed container in the fridge for a about a week.
+
+## based on
+
+- https://nomnompaleo.com/post/51555264490/tonnato-sauce#recipe

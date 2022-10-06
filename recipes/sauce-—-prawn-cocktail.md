@@ -12,3 +12,7 @@
 ## steps
 
 1. Add all ingredients to a small bowl and stir until combined and smooth.
+
+## based on
+
+- https://havebutterwilltravel.com/keto-prawn-cocktail-sauce-recipe/

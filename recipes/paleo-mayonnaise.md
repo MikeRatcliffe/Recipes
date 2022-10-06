@@ -15,3 +15,7 @@
 2. Add the oil.
 3. Place the head of the immersion blender at the bottom of the jar. Blend raising the blender slowly so that the mixture emulsifies bottom to top.
 4. Add salt to taste.
+
+## based on
+
+- https://nomnompaleo.com/post/3440774534/paleo-mayonnaise

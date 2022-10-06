@@ -20,3 +20,7 @@
 2. Drizzle the second amount of olive oil in a skillet, and cook the steak on high heat for 6-7 minutes per side - until it’s cooked through and has a golden brown char on the outside. Remove the steak from the skillet, and set it aside to rest.
 3. Slice the pepper into strips. Turn the skillet heat down to medium-low, and cook the peppers until they’re soft and browned with the remaining salt and pepper.
 4. Slice the cooked steak into strips. Return them to the skillet with the peppers, and turn the heat off. Sprinkle the cheese over the ingredients so it melts slightly.
+
+## based on
+
+- https://www.carbmanager.com/recipe-detail/ug:d045b6a3-e6b9-d16e-3b2a-c113e3202524/keto-steak-fajita-skillet

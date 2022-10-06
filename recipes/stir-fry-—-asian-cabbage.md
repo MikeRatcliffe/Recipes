@@ -25,3 +25,7 @@
 6. Add spring onions and cabbage to the meat. Stir until everything is hot. Salt and pepper to taste. Drizzle with sesame oil before serving.
 
 Serve with Mayo
+
+## based on
+
+- https://www.dietdoctor.com/recipes/keto-asian-cabbage-stir-fry

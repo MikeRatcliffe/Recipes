@@ -28,3 +28,7 @@
 8. Top each of the buns with sesame seeds (or any other seeds) and press them into the dough, so they don't fall out. Place in the oven and cook for 45-50 minutes.
 9. Remove from the oven, let the tray cool down and place thebuns on a rack to cool down to room temperature. Store them at room temperature if you plan to use them in the next couple of days or store in the freezer for future use.
 10. Top with butter or cream cheese, burger meat or any topping you like.
+
+## based on
+
+- https://ketodietapp.com/Blog/lchf/Ultimate-Keto-Buns

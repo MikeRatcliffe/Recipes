@@ -1,4 +1,4 @@
-# How to Proof Bread In Your Oven
+# How to Proof Dough In Your Oven
 
 ## ingredients
 
@@ -13,3 +13,7 @@
 ## notes
 
 - If you limit the time that the oven door is open, the proof box can be used for both the first and second rise without the need to refresh the water.
+
+## based on
+
+- https://www.cooksillustrated.com/how_tos/6398-turning-your-oven-into-a-proof-box

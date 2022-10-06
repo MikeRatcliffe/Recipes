@@ -2,16 +2,16 @@
 
 ## ingredients
 
-- 3 tablespoons melted ghee divided
-- 300 g canned albacore tuna packed in water drained
-- 3 spring onions thinly sliced
-- 2 tablespoons finely minced fresh coriander
-- 175 g mashed baked sweet potato
-- Finely grated zest from 1/2 medium lemon
-- 15 ml crushed jalapeño pepper
+- 3 tablespoons melted ghee (divided)
+- 300 g canned albacore tuna packed in water (drained)
+- 3 spring onions (thinly sliced)
+- 2 tablespoons fresh coriander (finely chopped)
+- 175 g mashed sweet potato
+- Zest from 1/2 medium lemon (finely grated)
+- 15 ml jalapeño pepper (crushed)
 - 2 large eggs
-- 2.5 ml crushed chillies
-- Kosher salt
+- 2.5 ml chillies (crushed)
+- Salt
 - Black pepper
 
 ## steps
@@ -23,3 +23,7 @@
 5. Scoop a 60ml of the mixture into each greased muffin tin slot and flatten with the back of a spoon.
 6. Bake the tuna cakes for 20-25 minutes or until an inserted toothpick comes out cleanly.
 7. Transfer the cakes to a wire rack to cool. The easiest way I’ve found to get them out is to put the wire rack on top of the muffin tin, flip everything upside-down, and tap them gently on the counter.
+
+## based on
+
+- https://nomnompaleo.com/post/91332244628/spicy-tuna-cakes#recipe

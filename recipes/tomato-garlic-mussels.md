@@ -20,3 +20,7 @@
 4. Add the white wine and simmer rapidly until the sauce is reduced by 1/2.
 5. Add the salt and stir. Add the mussels, cover the pot and check periodically until most all the mussels have opened, 3-5 minutes.
 6. Toss with the basil and parsley.
+
+## based on
+
+- https://www.marksdailyapple.com/tomato-garlic-mussels/

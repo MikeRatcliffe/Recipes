@@ -20,3 +20,7 @@
 4. Pour the eggs into the skillet.
 5. Place a slice of cheese in the middle and let sit about 1 minute. Fold the sides of the egg into the middle, covering the cheese.
 6. Serve eggs between two sausage patties with avocado.
+
+## based on
+
+- https://www.delish.com/cooking/recipe-ideas/a19808800/keto-sausage-breakfast-sandwich-recipe/

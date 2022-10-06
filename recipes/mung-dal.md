@@ -23,3 +23,7 @@
 4. Bring to a boil over high heat, then cover, lower heat, and let dal simmer for 1 hour or until the beans have dissolved into a thick soup. Set aside.
 5. In small skillet add remaining ghee.
 6. When hot add cumin seeds and black mustard seeds. When the seeds start to crackle pour the mixture into the pot of dal.
+
+## based on
+
+- http://www.harekrishna.com/col/books/VEG/ht/mungdal.html

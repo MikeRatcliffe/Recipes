@@ -20,3 +20,7 @@
 6. Turn off the stove, and transfer the contents of the skillet to a blender.
 7. Add the salt to the blender.
 8. Puree everything until smooth. Pause to scrape down the sides of the blender if necessary. Taste the salsa and adjust with more salt if needed.
+
+## based on
+
+- Ready or Not!: 150+ Make-Ahead, Make-Over, and Make-Now Recipes by Nom Nom Paleo (page 72)

@@ -18,3 +18,7 @@
 3. Microwave on full power for 7 minutes. Allow to Stand for 1 minute.
 4. Turn out and allow to cool.
 5. Decorate as required.
+
+## based on
+
+- https://fabflour.co.uk/recipes/all-in-one-microwave-cake/
