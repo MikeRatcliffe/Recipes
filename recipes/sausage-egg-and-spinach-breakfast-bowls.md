@@ -12,7 +12,7 @@
 ## steps
 
 1. Brown sausage, drain grease, remove from skillet, and set aside.
-2. Scrambe eggs.
+2. Scramble eggs.
 3. Add sausage in pan with the eggs, stir together.
 4. Add the spinach until they wilt. Remove pan from stove.
 5. Sprinkle in seasoning, then stir in the cheese.
