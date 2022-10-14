@@ -74,10 +74,11 @@
 					}
 				}
 			}
-			
-			print('let files = ' . json_encode($files) . ";\n");
-			print("let titles = " . json_encode($titles) . ";\n");
 		?>
+
+		let files = <?=json_encode($files)?>;
+		let titles = <?=json_encode($titles)?>;
+
 	</script>
 	
 	<!-- javascript does the rest :) -->
