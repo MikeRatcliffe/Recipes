@@ -19,7 +19,7 @@ $(document).ready(function() {
 
     // create anchor and name from url
     let anchor = url.replace('.md', '');
-    let name = anchor.split('-').join(' ');
+    let name = titleMap.get(url);
 
     // if the first letter of the recipe hasn't been
     // seen yet, add to list of letters and put an achor in
