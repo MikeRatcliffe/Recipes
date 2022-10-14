@@ -13,7 +13,7 @@ $(document).ready(function() {
     
     // skip files that start with underscore
     // (such as the _template.md file)
-    if (url[0] === '_') {
+    if (url.startsWith('_')) {
       continue;
     }
 
@@ -26,7 +26,10 @@ $(document).ready(function() {
     let firstLetter = name.charAt(0).toUpperCase();
     if (firstLetter !== prevLetter) {
       listOfRecipes += '<li id="' + firstLetter + '">';
-      listOfLetters += '<a href="#' + firstLetter + '">' + firstLetter + ' </a>';
+
+      if (!url.startsWith('zz-')) {
+        listOfLetters += '<a href="#' + firstLetter + '">' + firstLetter + ' </a>';
+      }
     }
     else {
       listOfRecipes += '<li>';
