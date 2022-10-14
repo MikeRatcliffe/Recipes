@@ -51,8 +51,33 @@
 
 	<!-- combo php/js to get all recipes in the folder -->
 	<script>
-		<?php $files = array_map('basename', glob('recipes/*.md')); ?>
-  	let files = <?php echo json_encode($files) ?>;
+		<?php
+			$files = array_map('basename', glob('recipes/*.md'));
+			
+			static $titles;
+			$num_files = count($files);
+			
+			if (!isset($titles) || count($titles) !== $num_files) {
+				$titles = array();
+				
+				for($i = 0; $i < $num_files; ++$i) {
+					$file_contents = file_get_contents("recipes/$files[$i]");
+					$lines = explode("\n", $file_contents);
+					
+					for($j = 0; $j < count($lines); ++$j) {
+						$line = $lines[$j];
+						
+						if (strpos($line, '# ') === 0) {
+							$title = substr($line, 2);
+							$titles[] = $title;
+						}
+					}
+				}
+			}
+			
+			print('let files = ' . json_encode($files) . ";\n"
+			print("let titles = " . json_encode($titles) . ";\n");
+		?>
 	</script>
 	
 	<!-- javascript does the rest :) -->
