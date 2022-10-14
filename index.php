@@ -75,7 +75,7 @@
 				}
 			}
 			
-			print('let files = ' . json_encode($files) . ";\n"
+			print('let files = ' . json_encode($files) . ";\n");
 			print("let titles = " . json_encode($titles) . ";\n");
 		?>
 	</script>
