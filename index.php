@@ -61,7 +61,8 @@
 				$titles = array();
 				
 				for($i = 0; $i < $num_files; ++$i) {
-					$file_contents = file_get_contents("recipes/$files[$i]");
+					$filename = $files[$i];
+					$file_contents = file_get_contents("recipes/$filename");
 					$lines = explode("\n", $file_contents);
 					
 					for($j = 0; $j < count($lines); ++$j) {
@@ -69,7 +70,7 @@
 						
 						if (strpos($line, '# ') === 0) {
 							$title = substr($line, 2);
-							$titles[] = $title;
+							$titles[] = array($filename, $title);
 						}
 					}
 				}
@@ -77,8 +78,7 @@
 		?>
 
 		let files = <?=json_encode($files)?>;
-		let titles = <?=json_encode($titles)?>;
-
+		let titleMap = new Map(<?=json_encode($titles)?>);
 	</script>
 	
 	<!-- javascript does the rest :) -->
