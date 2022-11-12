@@ -4,7 +4,7 @@
 
 - 50 g semolina
 - 600 ml semi-skimmed milk
-- 1 tsp spoon vanilla extract
+- 1 tsp vanilla extract
 - 15 g butter
 - 60 g caster sugar
 
