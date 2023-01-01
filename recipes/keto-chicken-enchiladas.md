@@ -16,8 +16,7 @@ Enchiladas:
 
 - 2 tbsp olive oil
 - 1 small white onion (diced)
-- 500 g boneless skinless chicken breasts (diced)
-- 6 peppers (diced)
+- 340 g boneless skinless chicken breasts (diced)
 - Green chillies (diced)
 - Salt and black pepper
 - 1 can black beans (rinsed and drained)
@@ -39,7 +38,7 @@ Enchiladas:
 
 1. In a large frying pan, heat oil over medium-high heat.
 2. Add onion and fry for 3 minutes, stirring occasionally.
-3. Add diced chicken, peppers and green chiles, season with a generous pinch of salt and pepper.
+3. Add diced chicken and green chiles, season with a generous pinch of salt and pepper.
 4. Sauté the mixture for 6-8 minutes, stirring occasionally, or until the chicken is cooked through.
 5. Add in the beans and stir until evenly combined.
 6. Remove pan from heat and set aside.
