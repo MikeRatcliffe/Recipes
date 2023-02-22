@@ -1,4 +1,4 @@
-# https://www.bbcgoodfood.com/recipes/easy-pancakes-two-ways
+# NOT KETO - Crêpes
 
 ## ingredients
 
