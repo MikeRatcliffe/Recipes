@@ -2,36 +2,44 @@
 
 ## ingredients
 
-- 2 tbsp oil
-- 900 g bone-in goat (or lamb) pieces (shoulder or leg)
-- 2 onions (diced)
+Marinade:
+
+- 50 g butter (melted)
 - 7.5cm fresh ginger (minced)
 - 3 cloves garlic (minced)
-
-Spices:
-
 - 4 whole cloves
 - 4 cardamom pods
 - 1 bay leaf
 - 1 tbsp coriander
-- 2 tsp salt (adjust to taste)
+- 3 tsp salt (adjust to taste)
+- 1 tsp black pepper
 - 1 tsp cumin
 - 1 tsp garam masala
 - 1 tsp paprika
 - 1 tsp turmeric
+- 1 tsp curry powder
 - 1/4 – 1/2 tsp cayenne, adjust to taste
 
-Optional:
+Cooking:
 
-- 800 g diced tomatoes
+- 25 g butter
+- 1 onion (diced)
+- 900 g goat pieces
 - 120 ml water
-- 225 g potatoes (leave whole, optional)
 
 ## steps
 
-1. Press the sauté button on the Instant Pot, and add the oil and goat meat to the pot. Once the outside of the meat begins to brown, add the onion, garlic, ginger and spices. Stir-fry for 2-3 minutes.
-2. Pour in the diced tomatoes, water and potatoes if using.
-3. Secure the lid, close the pressure valve and cook for 45 minutes at high pressure.
+Marinade:
+
+1. Blend all of the marinade ingredients using a blender.
+2. Marinate for at least 4 hours... overnight if possible.
+
+Cooking:
+
+1. Sauté the buter and onion in the instant pot.
+2. Add the marinated goat meat and as much as the marinade that you can.
+3. Sauté until the meat is browned.
+4. Add the water and secure the lid. Close the pressure valve and cook for 45 minutes at high pressure.
 4. Allow the pressure to release naturally.
 5. If you’d like for the dish to have a thicker consistency, press the sauté button to reduce or boil off extra liquid.
 
