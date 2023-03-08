@@ -11,7 +11,7 @@ Step 1:
 - 1/2 tsp turmeric
 - 2 cardamoms
 - 4-5 cloves
-- 4 cups Water
+- 4 cups water
 
 Step 2:
 
