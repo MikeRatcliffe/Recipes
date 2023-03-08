@@ -6,7 +6,7 @@ Marinade:
 
 - 50 g butter (melted)
 - 7.5cm fresh ginger (minced)
-- 3 cloves garlic (minced)
+- 5 cloves garlic (minced)
 - 4 whole cloves
 - 4 cardamom pods
 - 1 bay leaf
