@@ -8,7 +8,7 @@ Marinade:
 - 7.5cm fresh ginger (minced)
 - 5 cloves garlic (minced)
 - 4 whole cloves
-- 4 cardamom pods
+- 4 cardamom pods (seeds only)
 - 1 bay leaf
 - 1 tbsp coriander
 - 3 tsp salt (adjust to taste)
