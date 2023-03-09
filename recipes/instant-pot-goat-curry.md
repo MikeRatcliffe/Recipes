@@ -11,7 +11,7 @@ Marinade:
 - 4 cardamom pods (seeds only)
 - 1 bay leaf
 - 1 tbsp coriander
-- 3 tsp salt (adjust to taste)
+- 1 1/2 tsp salt (adjust to taste)
 - 1 tsp black pepper
 - 1 tsp cumin
 - 1 tsp garam masala
@@ -25,7 +25,7 @@ Cooking:
 - 25 g butter
 - 1 onion (diced)
 - 900 g goat pieces
-- 120 ml water
+- 200 ml water
 
 ## steps
 
@@ -36,7 +36,7 @@ Marinade:
 
 Cooking:
 
-1. Sauté the buter and onion in the instant pot.
+1. Sauté the butter and onion in the instant pot.
 2. Add the marinated goat meat and as much as the marinade that you can.
 3. Sauté until the meat is browned.
 4. Add the water and secure the lid. Close the pressure valve and cook for 45 minutes at high pressure.
