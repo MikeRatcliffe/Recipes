@@ -21,8 +21,9 @@
 6. Lay half of the beef slices flat on the rack.
 7. Slide the Deluxe Layer through the lower layer’s handles.
 8. Lay the remaining beef slices flat on the top layer of the rack. Make sure none of the slices are touching one another.
-9. Close the lid and move the slider slider to AIR CRISP. Select DEHYDRATE, set temperature to 60C, and set time to 6 hours. Press START/STOP to begin cooking.
-10. When cooking is complete, remove the rack layers with the jerky. Store in an airtight container.
+9. Close the lid and move the slider slider to AIR CRISP. Select DEHYDRATE, set temperature to 75C, accept default amount of time. Press START/STOP to begin dehydrating and leave for just 10 minutes.
+10. Change temperature to 65C, and set time to 6 hours. Press START/STOP to begin dehydrating.
+11. When dehydrating is complete, remove the rack layers with the jerky. Store in an airtight container.
 
 
 ## based on
