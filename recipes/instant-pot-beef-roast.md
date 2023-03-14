@@ -10,12 +10,13 @@
 ## steps
 
 1. Turn on the saute function and melt the butter.
-2. Add the roasting joint and sear it on each side for about 2 minutes each.
-3. Add the broth until the meat is covered.
-4. Pressure cook on high for 90 minutes.
-5. Natural release for 5 minutes and then quick release.
-6. Transfer the roasting joint to a serving plate and rest for at least 10 minutes.
-7. Slice it across the grain.
+2. Salt the roasting joint.
+3. Add the roasting joint and sear it on each side for about 2 minutes each.
+4. Add the broth until the meat is covered.
+5. Pressure cook on high for 90 minutes.
+6. Natural release for 5 minutes and then quick release.
+7. Transfer the roasting joint to a serving plate and rest for at least 10 minutes.
+8. Slice it across the grain.
 
 ## based on
 
