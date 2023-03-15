@@ -20,4 +20,4 @@
 
 ## based on
 
-- https://www.primaledgehealth.com/easy-braised-beef-shank/
+- https://www.primaledgehealth.com/easy-braised-beef-shank
