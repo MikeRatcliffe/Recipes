@@ -10,10 +10,13 @@
 ## steps
 
 1. Season the meat with salt.
-2. Turn on the Instant pot and select sauté. Once hot add cooking fat to the pot and sear the meat, about 2-3 minutes per side, until golden brown.
-3. Add broth.
-4. Pressure cook on high for 35 minutes.
-5. Natural release pressure for 15 minutes then manually release the remaining pressure.
+2. Turn on the saute function and melt the butter.
+3. Add the meat and sear it on each side for about 2 minutes each.
+4. Add broth.
+5. Pressure cook on high for 35 minutes.
+6. Natural release pressure for 15 minutes then manually release the remaining pressure.
+7. Transfer the roasting joint to a serving plate and rest for at least 10 minutes.
+8. Slice it across the grain.
 
 ## based on
 
