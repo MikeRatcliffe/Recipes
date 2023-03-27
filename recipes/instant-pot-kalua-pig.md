@@ -5,7 +5,7 @@
 - 3 slices thick-cut bacon
 - 2.5 kg bone in pork shoulder
 - 5 garlic cloves (peeled)
-- 3/4 tbsp salt
+- 1.5 tsp salt (3/4 tsp salt for every 900g meat)
 - 1 cabbage (cored and cut into 6 wedges)
 
 ## steps
