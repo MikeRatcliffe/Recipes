@@ -1,3 +1,5 @@
+[![Build and Deploy](https://github.com/MikeRatcliffe/Recipes/actions/workflows/build-and-deploy.yaml/badge.svg)](https://github.com/MikeRatcliffe/Recipes/actions/workflows/build-and-deploy.yaml)
+
 # RECIPE BOOK
 
 A super minimal recipe website – great for keeping track of family recipes, mods to ones you find online, or have created yourself!
