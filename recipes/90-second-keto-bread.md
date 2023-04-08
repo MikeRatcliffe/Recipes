@@ -17,7 +17,7 @@
 4. Tap on the counter a few times to remove air bubbles.
 5. Microwave for 90 seconds.
 6. When cool, cut in half widthwise.
-7. Place in a toaste.
+7. Place in a toaster.
 8. Serve just like bread with any toppings.
 
 ## based on
