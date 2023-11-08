@@ -112,9 +112,8 @@ export const plugins: GatsbyConfig["plugins"] = [
   `gatsby-plugin-sitemap`,
 ];
 
-export const pathPrefix = "/Recipes";
-
 export default {
   siteMetadata,
   plugins,
+  pathPrefix: "/Recipes"
 };
