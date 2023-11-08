@@ -1,6 +1,6 @@
 ---
-title: Seasoning - Tony Chachere’s Original Creole
-recipe_img: ./tony-chacheres-original-creole-seasoning.jpg
+title: Seasoning - Tony Chachere’s Creole (Homemade Version)
+recipe_img: ./tony-chacheres-creole-seasoning-homemade-version.jpg
 tags:
   - Carnivore
   - Dinner
