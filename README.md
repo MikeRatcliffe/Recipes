@@ -8,11 +8,11 @@
 
 ```shell
 # Clone the repository
-git clone https://github.com/MikeRatcliffe/NewRecipes
-cd NewRecipes
+git clone https://github.com/MikeRatcliffe/Recipes
+cd Recipes
 
 # Install gatsby-cli globally
-pnpm install -g gatsby-cli
+npm install -g gatsby-cli
 
 # Compile and serves a development build of your site
 # at http://localhost:8000 that reflects your source
