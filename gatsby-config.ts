@@ -10,7 +10,6 @@ export const siteMetadata: GatsbyConfig["siteMetadata"] = {
 
 export const plugins: GatsbyConfig["plugins"] = [
   "gatsby-plugin-typescript",
-  "gatsby-plugin-pnpm-gatsby-5",
   {
     resolve: "gatsby-plugin-react-svg",
     options: {

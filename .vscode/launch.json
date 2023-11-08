@@ -5,14 +5,14 @@
       "name": "Run Script: develop",
       "type": "node-terminal",
       "request": "launch",
-      "command": "pnpm develop",
+      "command": "npm develop",
       "cwd": "${workspaceFolder}"
     },
     {
       "name": "Run Script: build",
       "type": "node-terminal",
       "request": "launch",
-      "command": "pnpm build",
+      "command": "npm build",
       "cwd": "${workspaceFolder}"
     }
   ]
