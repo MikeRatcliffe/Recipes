@@ -1,0 +1,39 @@
+@import "./Museo";
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "./_variables";
+
+[data-bs-theme="light"] {
+  --#{$prefix}link-color: #{$link-color};
+  --#{$prefix}link-hover-color: #{$link-hover-color};
+  --#{$prefix}link-color-rgb: #{to-rgb($link-color)};
+  --#{$prefix}link-hover-color-rgb: #{to-rgb($link-hover-color)};
+}
+
+[data-bs-theme="dark"] {
+  .badge {
+    --bs-primary-rgb: #{to-rgb($body-color-dark)};
+    --bs-badge-color: #{$body-bg-dark};
+
+    color: var(--bs-badge-color);
+    background-color: rgba(
+      var(--bs-primary-rgb),
+      var(--bs-bg-opacity)
+    ) !important;
+  }
+
+  --#{$prefix}body-color: #{$body-color-dark};
+  --#{$prefix}body-color-rgb: #{to-rgb($body-color-dark)};
+  --#{$prefix}body-bg: #{$body-bg-dark};
+  --#{$prefix}body-bg-rgb: #{to-rgb($body-bg-dark)};
+
+  --#{$prefix}nav-link-color: #{$link-color-dark};
+  --#{$prefix}nav-link-hover-color: #{$link-color-dark};
+
+  --#{$prefix}link-color: #{$link-color-dark};
+  --#{$prefix}link-hover-color: #{$link-hover-color-dark};
+  --#{$prefix}link-color-rgb: #{to-rgb($link-color-dark)};
+  --#{$prefix}link-hover-color-rgb: #{to-rgb($link-hover-color-dark)};
+}
+
+@import "./styles";

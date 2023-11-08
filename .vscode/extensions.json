@@ -1,0 +1,26 @@
+{
+  // List of extensions which should be recommended for users of this workspace.
+  "recommendations": [
+    "alefragnani.project-manager",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "GraphQL.vscode-graphql-syntax",
+    "GraphQL.vscode-graphql",
+    "NathanRidley.autotrim",
+    "naumovs.color-highlight",
+    "Orta.vscode-jest",
+    "pflannery.vscode-versionlens",
+    "samverschueren.final-newline",
+    "shardulm94.trailing-spaces",
+    "techer.open-in-browser",
+    "vincaslt.highlight-matching-tag"
+  ],
+  // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+  "unwantedRecommendations": []
+}

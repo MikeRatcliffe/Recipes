@@ -1,0 +1,7 @@
+.cache
+node_modules
+package.json
+package-lock.json
+public
+coverage
+src/gatsby-types.d.ts
