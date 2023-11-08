@@ -90,7 +90,7 @@
     }
   },
   "scripts": {
-    "build": "gatsby build",
+    "build": "gatsby build --prefix-paths",
     "build:serve": "gatsby build && gatsby serve -p 8000",
     "clobber": "rm -rf .cache public node_modules package-lock.json",
     "clobber:install": "npm run clobber && npm install",
