@@ -19,6 +19,12 @@ tags:
 
 Huevos Rancheros is a traditional Mexican breakfast featuring warm corn tortillas and fried eggs covered with delicious ranch-style salsa.
 
+## ingredients
+
+- Oil for frying
+- 4 corn tortillas
+- 4 large eggs
+
 ### Ranchero Salsa
 
 - 2 tbsp olive oil
@@ -29,12 +35,6 @@ Huevos Rancheros is a traditional Mexican breakfast featuring warm corn tortilla
 - 1 tsp cumin
 - 1/2 tsp salt
 - 1/2 tsp pepper
-
-## ingredients
-
-- Oil for frying
-- 4 corn tortillas
-- 4 large eggs
 
 ### Guacamole
 
