@@ -25,8 +25,8 @@ This easy  cheeseburger casserole is hearty and filling and makes a wonderful lo
 - 2 tsp salt
 - 1/4 tsp black pepper
 - 1 tbsp garlic (minced)
-- 1/4 cup mayonnaise
-- 1/4 cup ketchup
+- 60 ml mayonnaise
+- 60 ml ketchup
 - 1 tbsp mustard
 - 180 g mature cheddar
 
