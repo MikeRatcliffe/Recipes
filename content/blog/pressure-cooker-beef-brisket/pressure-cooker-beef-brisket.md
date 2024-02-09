@@ -21,9 +21,9 @@ Moist brisket made quickly... need I say more.
 - Beef Brisket
 - Salt
 - Pepper
-- 2 carrots
-- 2 sticks of celery
-- 2 onions
+- 2 carrots (chopped)
+- 2 sticks of celery (chopped)
+- 2 onions (chopped)
 - 3 Sprigs of Thyme (or use dried)
 - Squirt of Tomato Puree
 - Dash of Balsamic Vinegar
