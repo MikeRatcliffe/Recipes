@@ -32,9 +32,21 @@ A lovely non-spicy mixed vegetable curry.
 
 ## steps
 
-1. Steam broccoli until tender. Deep fry potatoes on high heat until golden and tender. Then deep fry carrots until golden and tender. Drain and set aside vegetables.
+### Vegetables
 
-In small sauce pan put 1 tbsp ghee and add flour and milk. Bring to a boil and cook until mixture thickens. Add all spices except salt and cook 30 seconds more. Then stir in sour cream and salt. Mix vegetables into sauce. Serve hot.
+1. Steam broccoli until tender.
+2. Deep fry potatoes on high heat until golden and tender.
+3. Deep fry carrots until golden and tender.
+4. Drain and set aside vegetables.
+
+### Curry
+
+1. In small sauce pan put 1 tbsp ghee, flour and milk.
+2. Bring to a boil and cook until mixture thickens.
+3. Add all spices except salt and cook 30 seconds more.
+4. Stir in sour cream and salt.
+5. Mix vegetables into sauce.
+6. Serve hot.
 
 ## based on
 
