@@ -195,6 +195,7 @@ The burritos may be assembled a few hours ahead of time, wrapped tightly in plas
   - Fish
   - Green Beans
   - Lamb
+  - Lentils
   - Lettuce
   - Mango
   - Minced Beef
