@@ -5,6 +5,7 @@ tags:
   - Lunch
   - Dinner
   - High Carb
+  - Japan
 ---
 
 ## description
