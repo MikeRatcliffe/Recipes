@@ -1,6 +1,6 @@
 ---
-title: Courgette Noodle Alfredo
-recipe_img: ./courgette-noodle-alfredo.jpg
+title: Alfredo With Courgette Noodles
+recipe_img: ./alfredo-with-courgette-noodles.jpg
 tags:
   - Courgettes
   - Dinner
@@ -14,7 +14,7 @@ tags:
 
 ## description
 
-A great tasting Keto Courgette Alfredo... need I say more?
+A great tasting Alfredo with Courgette Noodles... need I say more?
 
 ## ingredients
 
