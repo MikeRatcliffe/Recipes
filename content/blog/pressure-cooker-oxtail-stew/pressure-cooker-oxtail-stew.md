@@ -29,11 +29,11 @@ This Caribbean Brown Oxtail Stew is a rich, savory dish of tender oxtail simmere
 - 1 tbsp Worcestershire sauce
 - 1 tbsp brown sugar
 - 500 ml beef stock
-- 1 teaspoon dried thyme
+- 1 tsp dried thyme
 - 2 bay leaves
-- 1 teaspoon allspice (pimento)
+- 1 tsp allspice
 - Salt and black pepper, to taste
-- 2 tbsp (30 ml) tomato paste
+- 2 tbsp tomato puree
 - 1 tbsp apple cider vinegar or white vinegar
 - Fresh parsley or thyme for garnish
 
@@ -49,7 +49,7 @@ This Caribbean Brown Oxtail Stew is a rich, savory dish of tender oxtail simmere
 
 1. In the same pot, add onion, garlic, carrots, celery, and bell pepper.
 2. Sauté for 4–5 minutes until slightly softened.
-3. Stir in tomato paste and cook for 1 minute to deepen flavor.
+3. Stir in tomato puree and cook for 1 minute to deepen flavor.
 
 ### Deglaze & Build Flavor
 
