@@ -32,7 +32,7 @@ This Caribbean Brown Oxtail Stew is a rich, savory dish of tender oxtail simmere
 - 1 tsp dried thyme
 - 2 bay leaves
 - 1 tsp allspice
-- Salt and black pepper, to taste
+- Salt and black pepper
 - 2 tbsp tomato puree
 - 1 tbsp apple cider vinegar or white vinegar
 - Fresh parsley or thyme for garnish
@@ -63,7 +63,6 @@ This Caribbean Brown Oxtail Stew is a rich, savory dish of tender oxtail simmere
 2. Seal the Ninja Foodi lid and set to Pressure Cook for 1 hour.
 3. Once done, allow natural release for 10–15 minutes.
 4. Check flavours and season more as needed.
-r a touch of brown sugar if needed.
 
 ## based on
 
