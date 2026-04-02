@@ -50,10 +50,13 @@ A Ploughman’s-style plate (or platter) is a traditional cold British meal, oft
 - Hummus
 - Olives (halved)
 - Pickled onions
+- Pork Pies (mini)
 - Radish (sliced)
 - Salami (sliced)
+- Scotch Eggs (halved)
 - Thick-cut ham
 - Tomatoes (sliced)
+- Crusty Bread
 
 ## steps
 
