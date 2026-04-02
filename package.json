@@ -46,8 +46,8 @@
     "@types/prop-types": "^15.7.13",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
-    "@typescript-eslint/eslint-plugin": "^7.18.0",
-    "@typescript-eslint/parser": "^7.18.0",
+    "@typescript-eslint/eslint-plugin": "^8.58.0",
+    "@typescript-eslint/parser": "^8.58.0",
     "babel-jest": "^29.7.0",
     "babel-preset-gatsby": "^3.16.0",
     "eslint": "^8.57.1",
@@ -64,8 +64,8 @@
     "url-join": "^5.0.0"
   },
   "overrides": {
-    "@typescript-eslint/eslint-plugin": "^7.18.0",
-    "@typescript-eslint/parser": "^7.18.0",
+    "@typescript-eslint/eslint-plugin": "^8.58.0",
+    "@typescript-eslint/parser": "^8.58.0",
     "react": "^18.3.1"
   },
   "homepage": "https://github.com/MikeRatcliffe/NewRecipes",
