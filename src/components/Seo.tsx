@@ -7,7 +7,6 @@
 
 import React from "react";
 import PropTypes from "prop-types";
-import urlJoin from "url-join";
 import { useStaticQuery, graphql } from "gatsby";
 
 const Seo = ({
@@ -22,21 +21,19 @@ const Seo = ({
   basedOn,
   children,
 }: ISeo) => {
-  const { site }: GraphQL.data = useStaticQuery(
-    graphql`
-      query Seo {
-        site {
-          siteMetadata {
-            title
-            description
-            author
-            siteUrl
-            twitterUsername
-          }
+  const { site }: GraphQL.data = useStaticQuery(graphql`
+    query Seo {
+      site {
+        siteMetadata {
+          title
+          description
+          author
+          siteUrl
+          twitterUsername
         }
       }
-    `
-  );
+    }
+  `);
 
   const siteogimage = "og-image-16x9.jpg";
   const metaDescription = description || site.siteMetadata.description;
