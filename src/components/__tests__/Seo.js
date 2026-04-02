@@ -1,7 +1,7 @@
 import React from "react";
 import { render } from "@testing-library/react";
 import { mockData, mockMegaMap } from "gatsby";
-import "@testing-library/jest-dom/extend-expect";
+import "@testing-library/jest-dom";
 import { extractRecipeData } from "../../utils/utilityFunctions";
 
 import Seo from "../Seo";

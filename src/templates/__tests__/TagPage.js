@@ -1,7 +1,7 @@
 import React from "react";
 import { render } from "@testing-library/react";
 import { mockData, mockMegaMapTag } from "gatsby";
-import "@testing-library/jest-dom/extend-expect";
+import "@testing-library/jest-dom";
 import slug from "slug";
 import { sortPosts } from "../../utils/utilityFunctions";
 import { textContent } from "../../../testing/test-helpers";

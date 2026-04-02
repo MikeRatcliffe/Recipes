@@ -1,7 +1,7 @@
 import React from "react";
 import { fireEvent, render } from "@testing-library/react";
 import { navigate, mockData, mockMegaMapAppendix } from "gatsby";
-import "@testing-library/jest-dom/extend-expect";
+import "@testing-library/jest-dom";
 import { extractRecipeData } from "../../utils/utilityFunctions";
 import { checkImage, textContent, href } from "../../../testing/test-helpers";
 import slug from "slug";

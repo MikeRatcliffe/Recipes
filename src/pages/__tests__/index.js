@@ -2,7 +2,7 @@ import React from "react";
 import { render } from "@testing-library/react";
 import { mockData } from "gatsby";
 import slug from "slug";
-import "@testing-library/jest-dom/extend-expect";
+import "@testing-library/jest-dom";
 import { textContent, href } from "../../../testing/test-helpers";
 
 import BlogIndex from "../index";

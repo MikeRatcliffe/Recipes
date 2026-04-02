@@ -1,7 +1,7 @@
 import React from "react";
 import { render } from "@testing-library/react";
 import { mockData } from "gatsby";
-import "@testing-library/jest-dom/extend-expect";
+import "@testing-library/jest-dom";
 import { checkImage, href, textContent } from "../../../testing/test-helpers";
 import slug from "slug";
 
