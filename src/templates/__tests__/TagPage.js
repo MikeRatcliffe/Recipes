@@ -41,15 +41,19 @@ describe("TagPage component", () => {
 
   it("Check that the Head component renders correctly", async () => {
     const location = {
-      pathName: "Mock path",
+      pathname: "Mock path",
     };
 
-    const { container: head } = render(
-      <Head location={location} pageContext={pageContextTagPage} />
-    );
+    // Render to document.head like the Seo test does
+    render(<Head location={location} pageContext={pageContextTagPage} />, {
+      container: document.head,
+    });
+
+    const { head } = document;
 
     for (const [selector, value] of mockMegaMapTag.entries()) {
       const metaTag = head.querySelector(selector);
+      expect(metaTag).not.toBeNull();
       expect(metaTag.getAttribute("content")).toEqual(value);
     }
   });

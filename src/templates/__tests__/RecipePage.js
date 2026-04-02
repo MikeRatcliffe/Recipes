@@ -98,15 +98,18 @@ describe("RecipePage component", () => {
 
   it("Check that the Head component renders correctly", async () => {
     const location = {
-      pathName: "Mock path",
+      pathname: "Mock path",
     };
 
-    const { container: head } = render(
-      <Head location={location} data={mockData} />
-    );
+    render(<Head location={location} data={mockData} />, {
+      container: document.head,
+    });
+
+    const { head } = document;
 
     for (const [selector, value] of mockMegaMap.entries()) {
       const metaTag = head.querySelector(selector);
+      expect(metaTag).not.toBeNull();
       expect(metaTag.getAttribute("content")).toEqual(value);
     }
   });

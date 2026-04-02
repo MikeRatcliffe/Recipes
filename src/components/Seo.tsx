@@ -93,10 +93,10 @@ const Seo = ({
   return (
     <>
       <title>{title}</title>
-      <meta name="og:title" content={title} />
-      <meta name="og:image" content={ogimage} />
-      <meta name="og:description" content={metaDescription} />
-      <meta name="og:type" content="website" />
+      <meta property="og:title" content={title} />
+      <meta property="og:image" content={ogimage} />
+      <meta property="og:description" content={metaDescription} />
+      <meta property="og:type" content="website" />
 
       <meta name="description" content={metaDescription} />
       <meta name="image" content={ogimage} />

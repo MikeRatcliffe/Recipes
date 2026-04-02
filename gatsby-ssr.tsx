@@ -2,6 +2,7 @@ exports.onRenderBody = ({
   setHeadComponents,
   setHtmlAttributes,
 }: IHeadComponents) => {
+  // eslint-disable-next-line no-useless-assignment
   const React = require("react");
 
   setHeadComponents([

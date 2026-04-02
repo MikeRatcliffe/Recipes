@@ -37,7 +37,7 @@ describe("Seo component", () => {
         }
         steps={steps}
         notes={recipeData.notesPlain}
-        pathname={location.pathname}
+        pathname="Mock path"
         basedOn={recipeData.basedOnLink || recipeData.basedOnText}
       />,
       { container: document.head }
@@ -136,7 +136,7 @@ describe("Seo component", () => {
         }
         steps={steps}
         notes={recipeData.notesPlain}
-        pathname={location.pathname}
+        pathname="Mock path"
         basedOn={recipeData.basedOnLink || recipeData.basedOnText}
       />,
       { container: document.head }

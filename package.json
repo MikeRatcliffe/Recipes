@@ -30,9 +30,9 @@
     "gatsby-transformer-sharp": "^5.16.0",
     "node-html-parser": "^7.1.0",
     "prop-types": "^15.8.1",
-    "react": "^18.2.0",
+    "react": "19.2.4",
     "react-bootstrap": "^2.9.1",
-    "react-dom": "^18.2.0",
+    "react-dom": "19.2.4",
     "slug": "^11.0.1"
   },
   "devDependencies": {
@@ -67,7 +67,7 @@
   "overrides": {
     "@typescript-eslint/eslint-plugin": "^8.58.0",
     "@typescript-eslint/parser": "^8.58.0",
-    "react": "^18.3.1"
+    "react": "^19.2.4"
   },
   "homepage": "https://github.com/MikeRatcliffe/NewRecipes",
   "keywords": [
