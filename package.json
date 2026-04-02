@@ -80,7 +80,7 @@
     "build": "gatsby build --prefix-paths",
     "build:serve": "gatsby build && gatsby serve -p 8000",
     "checkForUpdates": "npm-check -u",
-    "clobber": "rm -rf .cache public node_modules package-lock.json bun.lockb bun.lock",
+    "clobber": "rm -rf .cache public node_modules package-lock.json yarn.lock",
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json,css,scss,md}\"",
