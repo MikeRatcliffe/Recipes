@@ -1,4 +1,4 @@
-[![Gatsby v5.0](https://img.shields.io/badge/Gatsby-v5.0-blue)](https://www.gatsbyjs.com/) [![MIT](https://img.shields.io/badge/License-MIT-blue)](https://www.gnu.org/licenses/gpl-3.0.html) [![npm](https://img.shields.io/badge/Package%20manager-npm-blue.svg)](https://npmjs.com/) [![ESLint](https://github.com/MikeRatcliffe/NewRecipes/actions/workflows/eslint.yml/badge.svg)](https://github.com/MikeRatcliffe/NewRecipes/actions/workflows/eslint.yml) [![Prettier](https://github.com/MikeRatcliffe/NewRecipes/actions/workflows/prettier.yml/badge.svg)](https://github.com/MikeRatcliffe/NewRecipes/actions/workflows/prettier.yml) [![TypeScript](https://github.com/MikeRatcliffe/NewRecipes/actions/workflows/typescript.yml/badge.svg)](https://github.com/MikeRatcliffe/NewRecipes/actions/workflows/typescript.yml) [![Jest](https://github.com/MikeRatcliffe/NewRecipes/actions/workflows/jest.yml/badge.svg)](https://github.com/MikeRatcliffe/NewRecipes/actions/workflows/jest.yml) ![Tests](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/MikeRatcliffe/d47e9cd71b3f13a3c34585c26b767b74/raw/NewRecipes-junit-tests.json&label=Tests) ![Coverage](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/MikeRatcliffe/d47e9cd71b3f13a3c34585c26b767b74/raw/NewRecipes-cobertura-coverage.json&label=Coverage)
+[![Gatsby v5.0](https://img.shields.io/badge/Gatsby-v5.0-blue)](https://www.gatsbyjs.com/) [![MIT](https://img.shields.io/badge/License-MIT-blue)](https://www.gnu.org/licenses/gpl-3.0.html) [![Bun](https://img.shields.io/badge/Package%20manager-bun-black.svg)](https://bun.sh/) [![ESLint](https://github.com/MikeRatcliffe/NewRecipes/actions/workflows/eslint.yml/badge.svg)](https://github.com/MikeRatcliffe/NewRecipes/actions/workflows/eslint.yml) [![Prettier](https://github.com/MikeRatcliffe/NewRecipes/actions/workflows/prettier.yml/badge.svg)](https://github.com/MikeRatcliffe/NewRecipes/actions/workflows/prettier.yml) [![TypeScript](https://github.com/MikeRatcliffe/NewRecipes/actions/workflows/typescript.yml/badge.svg)](https://github.com/MikeRatcliffe/NewRecipes/actions/workflows/typescript.yml) [![Jest](https://github.com/MikeRatcliffe/NewRecipes/actions/workflows/jest.yml/badge.svg)](https://github.com/MikeRatcliffe/NewRecipes/actions/workflows/jest.yml) ![Tests](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/MikeRatcliffe/d47e9cd71b3f13a3c34585c26b767b74/raw/NewRecipes-junit-tests.json&label=Tests) ![Coverage](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/MikeRatcliffe/d47e9cd71b3f13a3c34585c26b767b74/raw/NewRecipes-cobertura-coverage.json&label=Coverage)
 
 <h1 align="center">
   Simple Recipe Book
@@ -11,32 +11,44 @@
 git clone https://github.com/MikeRatcliffe/Recipes
 cd Recipes
 
-# Install gatsby-cli globally
-npm install -g gatsby-cli
+# Install gatsby-cli globally (if needed)
+bun add -g gatsby-cli
 
-# Compile and serves a development build of your site
+# Install dependencies using Bun
+bun install
+
+# Compile and serve a development build of your site
 # at http://localhost:8000 that reflects your source
 # code changes in the browser in real time. Should be
 # run from the root of your project.
 # When the development server is running for one of your
 # Gatsby sites, you can open GraphiQL at
 # http://localhost:8000/___graphql
-gatsby develop
+bun develop
 
 # Compile your site for production so it can be
 # deployed. Should be run from the root of your project.
-gatsby build
+bun build
 
 # Serve the production build of your site for testing
-# prior to deployment. Should be run from the root of
-# your project.
-gatsby serve
+# prior to deployment. Should be run from the root of your project.
+bun serve
 
-# Delete the .cache and public directories. Should be
+# Delete cache and lock files for a fresh start. Should be
 # run from the root of your project. This is useful as a
-# last resort when your local project seems to have
-# issues or content does not seem to be refreshing.
-gatsby clean
+# cleanup step or when switching package managers.
+bun clobber
+
+# Start development server with Bun
+bun develop
+
+# Compile your site for production so it can be
+# deployed. Should be run from the root of your project.
+bun build
+
+# Serve the production build of your site for testing
+# prior to deployment. Should be run from the root of your project.
+bun serve
 ```
 
 The recipes for this recipe book are stored under the blog folder:

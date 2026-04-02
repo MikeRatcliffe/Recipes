@@ -63,13 +63,9 @@
     "url-join": "^5.0.0"
   },
   "overrides": {
-    "eslint-config-react-app": {
-      "@typescript-eslint/eslint-plugin": "^5.62.0",
-      "@typescript-eslint/parser": "^5.62.0"
-    },
-    "react-server-dom-webpack": {
-      "react": "^18.3.1"
-    }
+    "@typescript-eslint/eslint-plugin": "^5.62.0",
+    "@typescript-eslint/parser": "^5.62.0",
+    "react": "^18.3.1"
   },
   "homepage": "https://github.com/MikeRatcliffe/NewRecipes",
   "keywords": [
@@ -83,22 +79,15 @@
   "scripts": {
     "build": "gatsby build --prefix-paths",
     "build:serve": "gatsby build && gatsby serve -p 8000",
-    "checkForUpdates": "npm-check -u",
-    "clobber": "rm -rf .cache public node_modules package-lock.json",
-    "clobber:install": "npm run clobber && npm install",
-    "clobber:install:build": "npm run clobber && npm install && gatsby build",
-    "clobber:install:build:serve": "npm clobber && npm install && gatsby build && gatsby serve -p 8000",
-    "clobber:install:develop": "npm run clobber && npm install && gatsby develop",
+    "checkForUpdates": "bun-check -u",
+    "clobber": "rm -rf .cache public node_modules package-lock.json bun.lockb bun.lock",
+    "clean": "gatsby clean",
     "develop": "gatsby develop",
-    "lint": "npm run lint:eslint; npm run lint:ts; npm run lint:prettier",
-    "lint:eslint": "eslint . --ext .ts,.tsx,.js,.jsx,.mjs",
-    "lint:eslint:ci": "eslint . --ext .ts,.tsx,.js,.jsx,.mjs --max-warnings 0",
-    "lint:eslint:fix": "eslint . --ext .ts,.tsx,.js,.jsx,.mjs --fix",
-    "lint:prettier": "prettier --list-different \"**/*.{js,jsx,ts,tsx,json,md}\"",
-    "lint:prettier:fix": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
-    "lint:ts": "tsc --noEmit",
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json,css,scss,md}\"",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "serve": "gatsby serve -p 8000",
-    "test:coverage": "jest --ci --coverage",
-    "test": "jest"
+    "test": "jest",
+    "type-check": "tsc --noEmit",
+    "install": "bun install"
   }
 }
