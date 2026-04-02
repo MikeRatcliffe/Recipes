@@ -36,4 +36,4 @@
   --#{$prefix}link-hover-color-rgb: #{to-rgb($link-hover-color-dark)};
 }
 
-@use "./styles";
+@import "./styles";
