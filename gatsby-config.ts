@@ -18,11 +18,26 @@ export const plugins: GatsbyConfig["plugins"] = [
       },
     },
   },
-  "gatsby-plugin-sass",
   {
     resolve: "gatsby-plugin-manifest",
     options: {
       icon: "content/assets/favicon.svg",
+    },
+  },
+  {
+    resolve: "gatsby-plugin-sass",
+    options: {
+      sassOptions: {
+        quietDeps: true,
+        verbose: false,
+        silenceDeprecations: [
+          "import",
+          "if-function",
+          "global-builtin",
+          "color-functions",
+          "legacy-js-api",
+        ],
+      },
     },
   },
   {
@@ -114,5 +129,5 @@ export const plugins: GatsbyConfig["plugins"] = [
 export default {
   siteMetadata,
   plugins,
-  pathPrefix: "/Recipes"
+  pathPrefix: "/Recipes",
 };
