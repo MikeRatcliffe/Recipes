@@ -87,7 +87,6 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "serve": "gatsby serve -p 8000",
     "test": "jest",
-    "type-check": "tsc --noEmit",
-    "install": "bun install"
+    "type-check": "tsc --noEmit"
   }
 }
