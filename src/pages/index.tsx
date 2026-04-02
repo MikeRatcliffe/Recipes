@@ -70,11 +70,9 @@ BlogIndex.propTypes = {
 
 export default BlogIndex;
 
-/* eslint-disable react/prop-types */
 export const Head = ({ location }: IHead) => {
   return <Seo title="Home" pathname={location.pathname} />;
 };
-/* eslint-enable react/prop-types */
 
 export const pageQuery = graphql`
   query BlogIndex {

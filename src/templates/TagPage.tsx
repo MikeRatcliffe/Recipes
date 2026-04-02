@@ -80,7 +80,6 @@ TagPageTemplate.propTypes = {
 
 export default TagPageTemplate;
 
-/* eslint-disable react/prop-types */
 export const Head = ({ location, pageContext }: IHeadWithPageContextTag) => (
   <Seo
     title={pageContext.tag}
@@ -88,4 +87,3 @@ export const Head = ({ location, pageContext }: IHeadWithPageContextTag) => (
     pathname={location.pathname}
   />
 );
-/* eslint-enable react/prop-types */

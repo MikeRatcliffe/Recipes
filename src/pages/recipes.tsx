@@ -66,16 +66,9 @@ AllRecipes.propTypes = {
 
 export default AllRecipes;
 
-/* eslint-disable react/prop-types */
 export const Head = ({ location }: IHead) => {
-  return (
-    <Seo
-      title="View all Ratcliffe Family Recipes"
-      pathname={location.pathname}
-    />
-  );
+  return <Seo title="All Recipes" pathname={location.pathname} />;
 };
-/* eslint-enable react/prop-types */
 
 export const pageQuery = graphql`
   query AllRecipes {

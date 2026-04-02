@@ -95,10 +95,9 @@ export const extractRecipeData = function (htmlString: string): IRecipeData {
             [...tempNode.querySelectorAll("li")].map((li) => {
               let ingredient = li.textContent || "";
               const noteIndex = ingredient.indexOf("(");
-              let note = null;
 
               if (noteIndex >= 0) {
-                note = ingredient.substring(noteIndex);
+                const note = ingredient.substring(noteIndex);
                 ingredient = ingredient.substring(0, noteIndex - 1);
                 li.innerHTML = `${ingredient} <em>${note}</em>`;
               } else {

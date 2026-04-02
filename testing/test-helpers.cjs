@@ -1,6 +1,6 @@
-import { screen } from "@testing-library/react";
+const { screen } = require("@testing-library/react");
 
-export const checkImage = async ({ role, testId, image, title = "" }) => {
+const checkImage = async ({ role, testId, image, title = "" }) => {
   const { gatsbyImageData } = image.childImageSharp;
   const { sizes, src, srcSet } = gatsbyImageData.images.fallback;
   const node = await findByTestIdNodeOrRole({ role, testId });
@@ -11,22 +11,22 @@ export const checkImage = async ({ role, testId, image, title = "" }) => {
   expect(node.getAttribute("sizes")).toEqual(sizes);
 };
 
-export const textContent = async ({ role, testId, node }) => {
+const textContent = async ({ role, testId, node }) => {
   node = await findByTestIdNodeOrRole({ role, testId, node });
   return node.textContent;
 };
 
-export const innerHTML = async ({ role, testId, node }) => {
+const innerHTML = async ({ role, testId, node }) => {
   node = await findByTestIdNodeOrRole({ role, testId, node });
   return node.innerHTML;
 };
 
-export const href = async ({ role, testId, node }) => {
+const href = async ({ role, testId, node }) => {
   node = await findByTestIdNodeOrRole({ role, testId, node });
   return node.href;
 };
 
-export const hasClass = async ({ role, testId, node, className }) => {
+const hasClass = async ({ role, testId, node, className }) => {
   node = await findByTestIdNodeOrRole({ role, testId, node });
   return node.classList.contains(className);
 };
@@ -40,3 +40,11 @@ async function findByTestIdNodeOrRole({ role, testId, node }) {
   }
   return node;
 }
+
+module.exports = {
+  checkImage,
+  textContent,
+  innerHTML,
+  href,
+  hasClass,
+};

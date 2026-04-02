@@ -89,11 +89,9 @@ AboutPage.propTypes = {
 
 export default AboutPage;
 
-/* eslint-disable react/prop-types */
 export const Head = ({ location }: IHead) => {
   return <Seo title="About Us" pathname={location.pathname} />;
 };
-/* eslint-enable react/prop-types */
 
 export const pageQuery = graphql`
   query AboutPage {

@@ -1,6 +1,6 @@
 module.exports = {
   transform: {
-    "^.+\\.[jt]sx?$": `<rootDir>/testing/jest-preprocess.js`,
+    "^.+\\.[jt]sx?$": `<rootDir>/testing/jest-preprocess.cjs`,
   },
 
   moduleNameMapper: {
@@ -23,7 +23,7 @@ module.exports = {
     url: `http://localhost:8000`,
   },
 
-  setupFiles: [`<rootDir>/testing/loadershim.js`],
+  setupFiles: [`<rootDir>/testing/loadershim.cjs`],
 
   reporters: [
     "default",

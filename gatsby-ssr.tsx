@@ -2,7 +2,6 @@ exports.onRenderBody = ({
   setHeadComponents,
   setHtmlAttributes,
 }: IHeadComponents) => {
-  // eslint-disable-next-line @typescript-eslint/no-var-requires
   const React = require("react");
 
   setHeadComponents([

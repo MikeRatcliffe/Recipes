@@ -61,11 +61,9 @@ NotFoundPage.propTypes = {
 
 export default NotFoundPage;
 
-/* eslint-disable react/prop-types */
 export const Head = ({ location }: IHead) => {
   return <Seo title="404: Not Found" pathname={location.pathname} />;
 };
-/* eslint-enable react/prop-types */
 
 export const pageQuery = graphql`
   query NotFoundPage {

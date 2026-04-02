@@ -184,7 +184,6 @@ RecipePageTemplate.propTypes = {
 
 export default RecipePageTemplate;
 
-/* eslint-disable react/prop-types */
 export const Head = ({
   location,
   data,
@@ -214,7 +213,6 @@ export const Head = ({
     />
   );
 };
-/* eslint-enable react/prop-types */
 
 export const pageQuery = graphql`
   query RecipePageTemplate($slug: String!) {

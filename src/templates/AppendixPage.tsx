@@ -169,7 +169,6 @@ AppendixPageTemplate.propTypes = {
 
 export default AppendixPageTemplate;
 
-/* eslint-disable react/prop-types */
 export const Head = ({
   location,
   data,
@@ -199,7 +198,6 @@ export const Head = ({
     />
   );
 };
-/* eslint-enable react/prop-types */
 
 export const pageQuery = graphql`
   query AppendixPageTemplate($slug: String!) {

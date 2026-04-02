@@ -13,7 +13,7 @@ const Search = ({ data }: GraphQL.results) => {
   const [state, setState] = useState({ query: "", results: [] });
 
   const ResultList = () => {
-    let output: string | JSX.Element[] = "";
+    let output: string | React.ReactElement[] = "";
 
     if (state.results.length > 0) {
       const results = state.results.map((page: ISearchResult) => {
@@ -115,13 +115,11 @@ Search.propTypes = {
 
 export default Search;
 
-/* eslint-disable react/prop-types */
 export const Head = ({ location }: IHead) => {
   return (
     <Seo title="Search Ratcliffe Family Recipes" pathname={location.pathname} />
   );
 };
-/* eslint-enable react/prop-types */
 
 export const pageQuery = graphql`
   query Search {
