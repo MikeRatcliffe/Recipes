@@ -50,7 +50,7 @@ function getCurrentIcon(colorMode: string) {
   return "";
 }
 
-const ThemeDropdown = ({ className = "" }): JSX.Element | null => {
+const ThemeDropdown = ({ className = "" }): React.JSX.Element | null => {
   const [hydrated, setHydrated] = useState(false);
   const [colorMode, setColorMode] = useState(getPreferredTheme());
 
