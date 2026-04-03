@@ -12,7 +12,6 @@ tags:
   - Paleo
   - Snack
   - Vegetables
-  - Vegetarian
 ---
 
 ## description
@@ -21,31 +20,63 @@ This Korean classic is made by fermenting cabbage and carrots in a tangy, spicy 
 
 ## ingredients
 
-- 1 kg chinese leaf (cut into 2 x 1" pieces)
-- Salt
-- 6 spring onions (cut into 2" pieces, greens and whites separated)
-- 2" fresh ginger (peeled and finely sliced)
-- Medium apples or pears (peeled, cored and roughly chopped)
-- 2 tsp fish sauce
-- 2 tbsp korean chilli flakes (gochugaru)
-- 1 large carrot (cut into 1/4" coins)
-- Small red pepper (cut into matchsticks)
-- 3 cloves garlic (peeled and thinly sliced)
+### Main
+
+- 1 kg Chinese leaf (cut into 2 cm pieces)
+- 144 g coarse sea salt
+- 40 g rice flour
+- 80 ml beef bone broth
+- 480 ml water
+- 1 tbsp honey
+- 40 g Korean chilli flakes (gochugaru)
+- 1/4 onion
+- 8 cloves garlic
+- 1 pear
+- 5 cm fresh ginger (pealed)
+- 60 ml fish sauce
+- 15 g salted shrimp (saeujeot)
+- 10 cm section of daikon radish (cut into sticks)
+- 1 large carrot (cut into sticks)
+- 5 spring onions (cut into 2.5 cm lengths)
 
 ## steps
 
-1. In a large bowl toss the chinese leaf with at least 2 tbsp salt.
-2. Set aside to brine for 1 hour.
-3. Rinse the chinese leaf in a colander cleaning as much salt as possible off then leave to drain until dry.
-4. Put the spring onion whites, ginger, apple, fish sauce and 2 tsp salt in a blender.
-5. Blitz until smooth.
-6. Stir in the Korean chilli flakes.
-7. In a large bowl, combine the drained chinese leaf with the spring onion greens, carrot, pepper and garlic.
-8. Pour in the paste and mix well with your hands.
-9. Pack the Kimchi tightly into a 1 litre container leaving a 1" space at the top.
-10. Leave them on a rimmed baking sheet at room temperature in a shady spot for 3-7 days.
-11. Move your Kimchi into the fridge.
+### Prepare & salt the cabbage
+
+1. Cut chinese leaf lengthwise into quarters and then into bitesize pieces.
+2. Rinse lightly and add to a large bowl.
+3. Add the salt.
+4. Check and stir every 1/2 hour until the thick white parts are bendy and don't easily snap.
+
+### Rinse & drain
+
+1. Rinse cabbage thoroughly (2 – 3 times).
+2. Taste it and it should be salty, but only pleasently.
+3. Drain well.
+
+### Porridge
+
+1. Add rice flour, broth and water to a small saucepan.
+2. Heat over medium-low, stirring constantly.
+3. After a few minutes, it will thicken into a smooth paste.
+4. Remove from heat.
+5. Let it cool completely before using.
+
+### Kimchi Paste
+
+1. Blend the onion, garlic, pear and ginger.
+2. Add to the porridge.
+3. Add the fish sauce, salted shrimp.
+4. Add the honey.
+5. Add the Korean chilli flakes.
+6. Add the radish, carrot and spring onions.
+7. Mix this with the chinese cabbage ensuring it is completely covered.
+
+### Pack & Store
+
+1. Put the Kinchi into a mason jar leaving about 2.5 cm at the top.
+2. Leave at room temperature 1 – 2 days (open each day to push the kimchi below the liquid) then refrigerate.
 
 ## based on
 
-- https://nomnompaleo.com
+- https://www.modernpepper.com/post/kimchi
